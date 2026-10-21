@@ -59,7 +59,6 @@ Harry Osborn
 * Rich kid at their public high school who shields Peter from bullies while Peter tutors him
 * Learns D kept Norman alive and learns about his father's insanity
 * Takes on the Goblin mantle
-* Commits Norman to a facility when his craziness gets worse
 * Peter, Gwen and D help him perfect the serum and cure his genetic curse (backstory TBD)
 * Joins the other three as a hero team
 
@@ -118,11 +117,12 @@ Open Questions
 * Where the symbiote comes from
 * Whether mutants and Magneto exist
 * How D handles the Snap
+* Hobgoblin's origin and identity (figure out later; see the facility idea in D-Story-Unapproved-Ideas.txt)
 
 Related Files
 
 * Story-Outline.txt: everything as stated
-* Approved-Suggestions-and-Universal-Details.txt: approved suggestions (delivery business, Hobgoblin origin) and inspiration reference
+* Approved-Suggestions-and-Universal-Details.txt: approved suggestions (delivery business) and inspiration reference
 * D-Story-Rough-Timeline.txt: full rough timeline including the MCU tie-ins
 * D-Story-Unapproved-Ideas.txt: unapproved ideas including the Oscorp deep science division
 * Fiction-Writing-Rules.txt: rules for writing the story
