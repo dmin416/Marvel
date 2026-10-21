@@ -96,58 +96,6 @@ Villains
 * Allies: Cloak and Dagger
 * Most of Spider-Man's villains exist in one form or another.
 
-Approved Suggestions
-
-* Hobgoblin origin: Harry commits Norman to a facility when his craziness gets worse. A person there injects Norman's blood into himself and becomes Hobgoblin.
-* Salvage contract: D's company wins the Chitauri salvage hauling contract from Damage Control (or Oscorp). Toomes loses it, which makes D the reason Vulture exists.
-* Baxter Building runs: D's deliveries there are how the story checks in on the Fantastic Four and Doom.
-* Stark in Afghanistan: D delivers something to Stark in Afghanistan for Pepper.
-* Oscorp division (idea): D and Peter lead Oscorp's deep science division after the takeover, the way Hydra was Hitler's deep science division.
-
-Timeline
-
-Pre-2008: School
-
-* D's arrival, F.E.A.S.T. and Sunday dinners
-* All five at the same school; Flash bullies; Gwen gets her powers
-
-2007 to 2009: College
-
-* Courier business starts
-* Spring 2008: Tony's abduction and the Afghanistan delivery
-* Peter's Lizard arc and Gwen's fight with him
-* Norman's arc; D saves Peter, Norman and Gwen
-
-2009 to 2011: Harry and Oscorp
-
-* Harry learns the truth and takes the mantle
-* The four start doing hero work together
-* 2010: Hulk fights Abomination in Harlem, close to Tombstone's turf
-
-May 2012: Battle of New York
-
-* The salvage contract creates Vulture
-* Chitauri salvage fuels Vulture, Shocker and street-level weapons
-
-2012 to 2014: Street-Level Era
-
-* Rotating villains and the Mister Negative arc, with Cloak and Dagger
-* Hobgoblin rises when a person at Norman's facility injects Norman's blood into himself
-* Flash comes around
-* 2014: Hydra is exposed inside S.H.I.E.L.D. and its collapse leaves weapons on the street
-
-2014 to 2016: Symbiote and Cindy
-
-* Eddie's symbiote goes to D
-* Gwen is depowered and bonds with symbiote D
-
-2016 to 2023: Later Years
-
-* 2016: the Sokovia Accords put pressure on D, Gwen, Peter and Harry
-* Gwen and Peter get together
-* 2018: the Snap decides who among the group vanishes and who stays behind
-* 2023: the return brings five years of change in the city
-
 Writing Approach
 
 * Daily life is the backbone; hero work is the interruption.
@@ -174,8 +122,8 @@ Open Questions
 Related Files
 
 * Story-Outline.txt: everything as stated
-* Approved-Suggestions-and-Universal-Details.txt: approved suggestions and inspiration reference
-* D-Story-Rough-Timeline.txt: full rough timeline
-* D-Story-Unapproved-Ideas.txt: unapproved ideas
+* Approved-Suggestions-and-Universal-Details.txt: approved suggestions (delivery business, Hobgoblin origin) and inspiration reference
+* D-Story-Rough-Timeline.txt: full rough timeline including the MCU tie-ins
+* D-Story-Unapproved-Ideas.txt: unapproved ideas including the Oscorp deep science division
 * Fiction-Writing-Rules.txt: rules for writing the story
 * Sexual-Kinks-of-Superhumans.txt: superhuman durability and sensation rules
