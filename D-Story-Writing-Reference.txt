@@ -1,5 +1,7 @@
 D Story: Writing Reference
 
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
 Premise
 
 * D is a Christian who lived a good life. God allows him to experience the stories he loves: Marvel, DC, zombie worlds, anime, Avatar, Fallout, Cyberpunk and anywhere else he wants.
@@ -169,7 +171,9 @@ Open Questions
 
 Related Files
 
-* story_outline.md: everything as stated
-* story_details.md: approved suggestions and canon reference
-* story_timeline.md: full rough timeline
-* story_ideas.md: unapproved ideas
+* Story-Outline.txt: everything as stated
+* Approved-Suggestions-and-Universal-Details.txt: approved suggestions and inspiration reference
+* D-Story-Rough-Timeline.txt: full rough timeline
+* D-Story-Unapproved-Ideas.txt: unapproved ideas
+* Fiction-Writing-Rules.txt: rules for writing the story
+* Sexual-Kinks-of-Superhumans.txt: superhuman durability and sensation rules
