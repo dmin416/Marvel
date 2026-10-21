@@ -55,6 +55,7 @@ World
 * Gwen Stacy and Peter Parker exist
 * Miles Morales doesn't exist
 * Green Goblin and Otto Octavius exist
+* Otto Octavius's story begins as in the original trilogy, but the progression will differ
 * Electro exists
 * Sandman exists
 * Rhino exists
