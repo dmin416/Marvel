@@ -99,7 +99,7 @@ Villains
 * After the Battle of New York: Vulture
 * Allies: Cloak and Dagger
 * Most of Spider-Man's villains exist in one form or another.
-* Otto Octavius: his story begins as in the original trilogy (fusion reactor experiment, inhibitor chip, wife Rosalie) but the progression will differ.
+* Otto Octavius: his existence begins the same way as in the original trilogy (fusion reactor experiment, inhibitor chip, wife Rosalie). Once D interacts with him anything is on the table. Whether his wife dies is unknown.
 
 Writing Approach
 
@@ -125,6 +125,7 @@ Open Questions
 * Whether mutants and Magneto exist
 * How D handles the Snap
 * Where the super spider that bit Gwen came from: Norman, a scientist, Peter's dad or Cindy (figure out later)
+* What happens to Otto and his wife once D interacts with him (impossible to say)
 * Whether the group ever goes public (masked heroes for now; see Public Heroes in D-Story-Unapproved-Ideas.txt)
 * Hobgoblin's origin and identity (figure out later; see the facility idea in D-Story-Unapproved-Ideas.txt)
 
