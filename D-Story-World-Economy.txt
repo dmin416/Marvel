@@ -1,0 +1,254 @@
+D Story: World Economy and Power
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: planning ideas only. Nothing here is set unless it is marked Played. The only story canon is D-Story-So-Far.txt. Sources are the MCU timeline book, the Raimi and Webb films, the Netflix Daredevil series, the comics and Insomniac's Spider-Man game.
+
+Big Picture (Proposed)
+
+* The world runs on the real 1999 economy with a Marvel layer on top. Most people live ordinary lives and never see a superhuman
+* Money and power sit in four layers: governments, megacorporations, shadow organizations and city crime
+* Defense money is the engine. Governments pay Stark, Hammer, Oscorp and others for weapons and enhancement research
+* Advanced tech leaks downward. It moves from the companies to the shadow groups through theft and secret sales, then to street crime through armorers and salvage
+* Crime money moves back up through legitimate fronts: construction, real estate, shipping and charities
+* The police are underfunded and outmatched, comic style. That gap is what lets crime bosses and heroes both operate
+
+1999: The Starting Economy (Proposed)
+
+* The U.S. is the strongest economy and military in the world
+* The dot-com boom is near its peak. Tech and defense stocks are climbing (Played: the Bugle stock box shows Oscorp and Stark Industries both rising)
+* Y2K fears run through the fall of 1999 and peak at New Year's Eve
+* The euro launched in January 1999 as a banking currency. Coins and notes come in 2002
+* Oil is cheap at the start and rises over the next decade
+* New York is recovering from the crime of the 1980s and early 1990s but the city in this story stays rougher than the real one
+* Proposed later shocks from the real world: the dot-com crash from 2000 to 2002 and the financial crisis of 2008
+
+Wars and Conflicts
+
+Real-world conflicts around 1999 (proposed as background):
+
+* Kosovo War: NATO bombing ended in June 1999. Peacekeepers are on the ground
+* Second Chechen War: began in the fall of 1999
+* East Timor: a UN-backed force deploys in September 1999
+* Kargil War between India and Pakistan: May to July 1999
+* Second Congo War: 1998 to 2003
+* Eritrean-Ethiopian War: 1998 to 2000
+* Sierra Leone Civil War: ongoing
+
+Open questions:
+
+* Whether this world follows the real attacks of September 11, 2001 and the wars that followed in Afghanistan and Iraq
+* The MCU shows U.S. forces in Afghanistan in spring 2008, when Tony demonstrates the Jericho missile and is captured. Some U.S. war in Afghanistan has to exist by then
+
+Marvel-layer conflicts:
+
+* Wakanda stays hidden and never fights openly until 2016 to 2018
+* The Ten Rings fund coups, insurgencies and mercenary wars around the world
+* 2012: the Chitauri invasion of New York
+* 2014: the Hydra uprising inside S.H.I.E.L.D.
+* 2015: Ultron destroys a Latverian city
+* 2016: the Avengers' civil war over the Latveria Accords
+* 2018: Thanos' attack on Wakanda and the Snap
+
+Governments and Nations
+
+United States government
+
+* What it does: buys weapons and enhancement research, regulates companies and runs the military
+* Power: the largest defense budget in the world. It decides which company wins
+* Played: Oscorp has an Army contract for a "human performance program"
+* Military pressure on Oscorp for results is what pushes Norman toward testing the enhancer on himself
+
+S.H.I.E.L.D.
+
+* What it does: a secret intelligence and security agency answering to the World Security Council
+* Power: global reach, hidden budgets, Stark technology and files on every unusual person
+* Founded in 1946 by Peggy Carter and Howard Stark
+* Hydra has hidden inside it since Arnim Zola joined after World War II
+* In 1999 the public does not know it exists
+* 2014: Hydra is exposed and S.H.I.E.L.D. collapses. Its weapons and agents scatter onto the street
+
+Wakanda
+
+* What it does: pretends to be a poor farming nation in Africa
+* Power: the world's only large vibranium supply and technology decades ahead of everyone else
+* Hidden from the global economy until it opens to the world in 2016
+* 1992: Ulysses Klaue stole vibranium from Wakanda and sold it on the black market
+
+Latveria
+
+* What it does: a small European monarchy
+* Power: little on the world stage. Its royal family has old money
+* Victor Von Doom is a younger son of the royal family who runs Von Doom Industries in New York (see D-Story-Fantastic-Four.txt)
+* Sokovia does not exist. Latveria takes its place in every MCU event
+
+Megacorporations
+
+Stark Industries
+
+* What it does: the largest weapons maker in the United States. Missiles, munitions and defense systems for the U.S. and its allies
+* Power: government contracts, the best engineers and a public face in Tony Stark
+* Founded by Howard Stark. Tony took over after Howard and Maria died in 1991. Obadiah Stane runs much of the business
+* Played: Stark Industries has a sign on a New York building and has unveiled a new missile line
+* Hidden: Stane secretly sells Stark weapons to the Ten Rings and other buyers
+* 2008: Tony is captured in Afghanistan, builds the first Iron Man suit and shuts down weapons manufacturing. The stock falls
+* After 2008 Stark moves into clean energy with the arc reactor
+* 2012: Stark Tower in Manhattan becomes Avengers Tower
+* After 2012 Stark and the U.S. government form Damage Control
+
+Roxxon
+
+* What it does: oil, gas and energy across the world
+* Power: fuel supply, pipelines and lobbying
+* Shows up in the MCU on gas station signs and tankers. In the comics it is a ruthless corporation that hires villains
+* Idea: a big courier customer and a quiet source of corporate crime
+
+Major Corporations
+
+Oscorp
+
+* What it does: began in chemicals and is moving into military biotechnology
+* Power: New York's biggest homegrown science company, Army money and a research campus along the river
+* Played: the Army contract for a "human performance program." Research head Dr. Mendel Stromm. Oscorp is approaching university labs including Empire State's
+* Programs: performance enhancement and genetic engineering. The super spiders come from Oscorp
+* Norman Osborn is under pressure from the military and the board. The board can push him out
+* Later: Norman's madness, the board's deaths and the takeover. Harry runs it after. Idea: D and Peter lead its deep science division
+* Insomniac inspiration: Devil's Breath, an Oscorp bioweapon
+
+Hammer Industries
+
+* What it does: a second-tier defense contractor that always wants Stark's business
+* Power: government contacts and Justin Hammer's salesmanship. Its technology is always behind Stark's
+* 1999: smaller and hungry
+* After 2008: Hammer bids for the contracts Stark abandons and tries to copy the Iron Man suit
+* Spring 2010: Hammer's drones built with Ivan Vanko are hijacked at the Stark Expo. Justin Hammer is arrested
+
+Von Doom Industries
+
+* What it does: aerospace and engineering
+* Power: Victor's family money and his ambition
+* Played: buying American aerospace suppliers and rumored to be planning a private orbital platform
+* Later: funds Reed Richards' space station mission. The cosmic storm and the failed mission wreck the company (see D-Story-Fantastic-Four.txt)
+
+Pym Technologies
+
+* What it does: Hank Pym's company, built on shrinking research he keeps hidden
+* Power: science that S.H.I.E.L.D. wanted and never got
+* Hank quit S.H.I.E.L.D. in 1989. Darren Cross and Hope van Dyne later push him out of the company
+* 2015: Cross tries to sell the Yellowjacket suit to Hydra
+
+Damage Control
+
+* What it does: cleans up superhuman disasters. A joint venture of Stark and the U.S. government formed after the Battle of New York
+* Power: federal authority over every scrap of alien tech
+* Approved idea: D's company wins the Chitauri salvage hauling contract from Damage Control (or Oscorp). Adrian Toomes loses it and becomes the Vulture
+
+Shadow Organizations
+
+The Ten Rings
+
+* What it does: a criminal empire that has run for about a thousand years under Wenwu, who wears the ten rings
+* Power: the rings give Wenwu long life and great strength. The organization has armies, money and agents everywhere. It has toppled governments
+* Business: weapons, mercenaries, coups and smuggling
+* 2008: a Ten Rings cell under Raza holds Tony Stark in Afghanistan and buys Stark weapons through Stane
+* 2013: Aldrich Killian borrows the name "the Mandarin" for a fake terrorist, which angers Wenwu
+* Its reach is global. It rarely works in New York openly
+
+Hydra
+
+* What it does: a secret fascist organization hidden inside S.H.I.E.L.D. and governments
+* Power: agents in high places, Winter Soldier assassinations and stolen research
+* 1991: the Winter Soldier killed Howard and Maria Stark for super-soldier serum
+* 2014: exposed by Project Insight. Its weapons end up on the street
+* 2015: Baron Strucker runs experiments in Latveria with Loki's scepter
+
+A.I.M. (Advanced Idea Mechanics)
+
+* What it does: Aldrich Killian's think tank for dangerous research
+* Power: scientists and military buyers
+* New Year's Eve 1999: Killian tries to recruit Maya Hansen and Tony Stark in Bern. This falls inside the story's first months
+* Extremis becomes its main product. Iron Man 3 runs from December 2013 to early 2014
+
+City Crime in New York
+
+Kingpin (Wilson Fisk)
+
+* What he does: runs organized crime in Hell's Kitchen
+* Power: money, corrupt police, politicians, judges and the press. He hides behind legitimate businesses
+* Business: construction, real estate, shipping, protection rackets, drugs and guns
+* Stays in Hell's Kitchen with Daredevil and the Punisher
+* After 2012 the rebuilding of Hell's Kitchen after the invasion becomes his biggest money source, as in the Netflix series
+* Idea: the most important crime customer for a neutral courier
+
+The Maggia
+
+* What it does: the old crime families of New York
+* Power: tradition, numbers and rackets across Manhattan
+* Bosses in the comics: Silvermane and Hammerhead
+* Comics: an experimental Maggia drug gave Cloak and Dagger their powers and in some versions Mister Negative's
+* Competes with Fisk for anything outside Hell's Kitchen
+
+Mister Negative (Martin Li)
+
+* What he does: in 1999 Martin Li is a genuine philanthropist who runs F.E.A.S.T. in Chinatown
+* Played: a Bugle article quotes Li about the F.E.A.S.T. community meals
+* Later: Mister Negative is the crime lord side of him. He leads the Inner Demons gang and uses F.E.A.S.T. as a front
+* Power: Darkforce blasts, great strength and a touch that corrupts people into loyal servants
+* Grudge: in the Insomniac version Norman's experiment killed Li's parents and gave Li his powers. That gives him a reason to target Oscorp and later Harry
+* Timing in the story: the major Mister Negative arc is planned for 2012 to 2014
+
+Tombstone (Lonnie Lincoln)
+
+* What he does: Harlem crime boss
+* Power: muscle, money and in the comics near-unbreakable skin
+* 2010: Hulk fights Abomination in Harlem close to his turf
+
+Street Level
+
+* Armed robbery crews hit stores and jewelers. Played: a crew robbed Midtown jewelers in September 1999. One arrest was made and two of the crew are still out
+* The Tinkerer (Phineas Mason) builds and repairs weapons for other criminals
+* The Big Man and the Enforcers work rackets in Manhattan
+* After 2012 Chitauri salvage fuels the Vulture, Shocker and street weapons
+* After 2014 S.H.I.E.L.D. and Hydra weapons add to it
+
+Media
+
+* The Daily Bugle is the city's loudest paper. J. Jonah Jameson's editorials attack the police for failing (Played)
+* Later TheDailyBugle.net in the MCU era
+
+How It All Connects
+
+* Government money pays the companies. The companies compete for contracts and cut corners to win them
+* The companies leak technology. Stane sells to the Ten Rings, Hammer copies and steals, Oscorp's experiments escape and A.I.M. sells to the highest bidder
+* Shadow groups turn the leaked tech into private armies and coups
+* City bosses buy what reaches New York and launder their money through construction, real estate and charities
+* Every disaster creates a cleanup and rebuilding boom: Damage Control after 2012, Fisk's Hell's Kitchen projects and salvage crews like Toomes'
+* Heroes rise where the police can't cope. The government answers with registration in the 2016 Latveria Accords
+
+Global Shocks Over the Story (MCU Timeline Book)
+
+* Spring 2008: Stark leaves weapons and the defense market scrambles. Hammer pushes in
+* Spring 2010: the Stark Expo drone disaster. Hulk and Abomination wreck Harlem
+* Spring 2012: the Chitauri invasion of New York. Huge damage and a rebuilding boom. Alien tech reaches the black market
+* December 2013 to early 2014: the fake Mandarin attacks and A.I.M.'s Extremis
+* Spring 2014: S.H.I.E.L.D. falls. Weapons scatter and intelligence agencies reshuffle
+* Spring 2015: Ultron destroys a Latverian city and kills its rulers
+* Spring 2016: the Latveria Accords. Wakanda opens to the world later in 2016
+* Spring 2018: the Snap erases half of all life. Markets crash, jobs and homes go empty and supply chains break
+* 2018 to 2023: five years of shrinking population and recovery
+* Fall 2023: the vanished return. Housing, jobs and borders all have to absorb billions of people at once
+
+Courier Angle (Ideas)
+
+* D's neutral courier business can serve every layer: Stark and Oscorp labs, Hammer's offices, Von Doom Industries and the Baxter Building, Fisk's fronts and F.E.A.S.T.
+* Every delivery puts D inside a lab, warehouse or penthouse and lets him see where the money moves
+* Damage Control's salvage contract is the business's biggest break
+
+Open Questions
+
+* Whether 9/11 and the Afghanistan and Iraq wars happen as in the real world
+* How big Roxxon is in this story
+* Whether the Maggia or Fisk has the stronger hold on the rest of Manhattan
+* Who in Latveria rules before the Ultron attack
+* Which Mister Negative origin the story uses: Norman's experiment or the Maggia drug
+* Whether the Ten Rings ever cross paths with D directly
