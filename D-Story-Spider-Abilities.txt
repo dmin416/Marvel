@@ -52,13 +52,11 @@ Baselines
 Single full dose
 * Scrawny nerd (Peter type): lift 2,500 kg | sprint 11.0 m/s (40 km/h) | reaction 87 ms | jump 3.0 m
 * Gwen (small woman): lift 2,500 kg | sprint 12.0 m/s (43 km/h) | reaction 83 ms | jump 3.0 m
-* D (larger fit man): lift 7,000 kg | sprint 15.0 m/s (54 km/h) | reaction 73 ms | jump 5.0 m
 * Elite (Daredevil/Punisher tier): lift 12,500 kg | sprint 18.0 m/s (65 km/h) | reaction 60 ms | jump 7.5 m
 * Peak human (record level): lift 25,250 kg | sprint 24.8 m/s (89 km/h) | reaction 50 ms | jump 10.0 m
 
 D protocol 300% efficacy
 * Scrawny nerd (Peter type): lift 7,400 kg | sprint 22.0 m/s (79 km/h) | reaction 37 ms | jump 8.4 m
-* Gwen (small woman): lift 7,400 kg | sprint 24.0 m/s (86 km/h) | reaction 36 ms | jump 8.4 m
 * D (larger fit man): lift 20,720 kg | sprint 30.0 m/s (108 km/h) | reaction 31 ms | jump 14.0 m
 * Elite (Daredevil/Punisher tier): lift 37,000 kg | sprint 36.0 m/s (130 km/h) | reaction 26 ms | jump 21.0 m
 * Peak human (record level): lift 74,740 kg | sprint 49.6 m/s (179 km/h) | reaction 21 ms | jump 28.0 m
