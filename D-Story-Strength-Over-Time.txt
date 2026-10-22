@@ -9,6 +9,7 @@ Premise
 * D is an undernourished 14 year old orphan who is small for his age
 * Strength is measured as a one rep floor lift (deadlift) in kilograms
 * Two tracks: untrained and trained from age 18 (college)
+* D trains to survive the world. Peter stays a weak nerd and Gwen takes self defense without weights and Harry trains just enough to attract women
 * The trained track reaches 140 kg at age 22 to match D's baseline in D-Story-Spider-Abilities.txt
 
 Sourced Anchors
