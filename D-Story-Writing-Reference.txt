@@ -7,6 +7,7 @@ Premise
 * D is a Christian who lived a good life. God allows him to experience the stories he loves: Marvel, DC, zombie worlds, anime, Avatar, Fallout, Cyberpunk and anywhere else he wants.
 * He carries experience from countless multiverses, many traveled more than once.
 * He gains powers and items along the way and can choose to keep his powers or start fresh in each world.
+* In this world he starts as a normal kid with most of his memories sealed off.
 * He likes helping people and helps them when he can.
 * The only people with good souls are the people who live with him.
 
@@ -18,7 +19,8 @@ This World
 * There are no massive world-ending threats.
 * The Fantastic Four and Doom feud in the background, like the 2005 movie.
 * Kingpin, Punisher and Daredevil mostly stay in Hell's Kitchen.
-* Super spiders exist. There are no Morlun or totems, and no Miles Morales.
+* Super spiders exist and come from Oscorp. There are no Morlun or totems, and no Miles Morales.
+* The symbiote comes from space.
 
 Story Order
 
@@ -29,12 +31,13 @@ Core Cast
 
 D
 
+* Normal kid at the start with most of his memories sealed off
 * Orphan who meets Peter and Aunt May in the F.E.A.S.T. meal line as a kid on his own
 * May gives him an extra plate and invites him to Sunday dinner; Ben and Peter treat him like family
 * Same age as Peter, Harry, Gwen and Lorna, and goes to school with them
 * Finishes college right before 2008 and has his powers when Tony is abducted in spring 2008
 * Runs a delivery business: a neutral courier for heroes and villains alike and a cover for intel, run secretly or publicly just for fun. He has no one villains can threaten him with.
-* Later takes Eddie's symbiote, experiments on it and absorbs it
+* Later takes Eddie's symbiote, a space-born symbiote, experiments on it and absorbs it
 
 Peter Parker
 
@@ -50,7 +53,7 @@ Peter Parker
 Gwen Stacy
 
 * A version who never changes dimensions but has some of her memories and character growth
-* Bitten by a super spider in school and gains her powers
+* Bitten by a super spider from Oscorp in school and gains her powers
 * Fights Lizard Peter and believes she killed him; the guilt starts her character arc
 * Later her multiversal memories confuse her further, adding to the arc
 * D also saves her (situation TBD)
@@ -65,7 +68,7 @@ Harry Osborn
 * Rich kid at their public high school who shields Peter from bullies while Peter tutors him
 * Learns D kept Norman alive and learns about his father's insanity
 * Takes on the Goblin mantle
-* Peter, Gwen and D help him perfect the serum and cure his genetic curse (backstory TBD)
+* Peter, Gwen and D help him perfect the serum and cure his genetic curse
 * Joins the other three as a hero team
 
 Lorna Dane (Polaris)
@@ -118,15 +121,12 @@ Writing Approach
 
 Open Questions
 
-* D's power level and limits, and how he hides them
+* D's power level and limits once his memories return, and how he hides them
 * Where D lives as a kid and how he makes money
 * Who makes up D's household
 * Uncle Ben's fate
-* Harry's curse backstory
-* Where the symbiote comes from
 * Whether mutants and Magneto exist
 * How D handles the Snap
-* Where the super spider that bit Gwen came from: Norman, a scientist, Peter's dad or Cindy (figure out later)
 * What happens to Otto and his wife once D interacts with him (impossible to say)
 * Whether the group ever goes public (masked heroes for now; see Public Heroes in D-Story-Unapproved-Ideas.txt)
 * Hobgoblin's origin and identity (figure out later; see the facility idea in D-Story-Unapproved-Ideas.txt)
