@@ -26,6 +26,7 @@ The same files live in the claude.ai Project "Marvel". The project uses differen
 | D-Story-Speed-and-Skill-Over-Time.txt | d_story/speed_and_skill_over_time.md | Speed and skill from 14 to 35 |
 | D-Story-Cast-Physical-Baselines.txt | d_story/cast_physical_baselines.md | Peter, Gwen, Harry and D from 14 to 35 |
 | D-Story-Fantastic-Four.txt | d_story/fantastic_four.md | Fantastic Four and Doom, based on the 2005 movie |
+| D-Story-AIM.txt | d_story/aim.md | A.I.M., Extremis and the Iron Man 3 storyline |
 | D-Story-World-Economy.txt | d_story/world_economy.md | Governments, corporations, shadow groups, crime, wars and the global economy |
 | Sexual-Kinks-of-Superhumans.txt | d_story/superhuman_physiology.md | Adult-only superhuman setting mechanics |
 
