@@ -1,0 +1,80 @@
+D Story: Story So Far
+
+Third-person, past-tense interactive narrative. Only events already played are recorded. This file is the only story canon; everything in the other D story files is planning ideas.
+
+The First Awakening
+
+D woke in an unfamiliar bed.
+
+Pale morning sunlight filtered through thin curtains into a modest bedroom. A wooden nightstand stood beside the bed, supporting an alarm clock and a glass of water. A dresser occupied one wall, and a small mirror hung nearby.
+
+D approached the mirror. His reflection was just coming into view when everything went black.
+
+The Children's Home
+
+D woke again on a noticeably less comfortable mattress. Rows of metal-framed beds stretched to either side, most occupied by sleeping boys. Tall windows admitted the morning light, and a radiator knocked against the wall.
+
+The place might have been a barracks or a prison.
+
+A middle-aged woman wearing a blue cardigan entered with a clipboard.
+
+"All right, boys! Up you get! Breakfast in twenty minutes!"
+
+Several boys groaned. Beside the door, a bulletin board identified the building as a children's home. The woman addressed D and referred to his age: fourteen.
+
+D got dressed in the clothes provided beside his bed and followed the quickest boys toward breakfast.
+
+Breakfast
+
+The dining hall was full of children eating and talking. Through the windows, taxis passed along a New York City street. A television in the corner carried a news report about Oscorp Industries and its CEO, Norman Osborn.
+
+At the serving counter, a woman with a hairnet held a spoon over a pan of scrambled eggs.
+
+"Morning, D. Eggs or oatmeal?"
+
+"Could I get a little bit of each, please?"
+
+"Sure thing, sweetheart."
+
+She gave him some of each and added toast.
+
+A freckled boy at a nearby table waved D over. D smiled, joined the boys and ate while listening to their conversation.
+
+"Did you finish the math homework?"
+"Most of it."
+"Most?"
+"Enough."
+
+The boys laughed. They talked about school, basketball and the weekend.
+
+One of the boys mentioned a Saturday trip into Manhattan to help set up tables for a charity meal at F.E.A.S.T. in Chinatown. Lunch would be provided.
+
+"You going?"
+
+D agreed to go.
+
+"Great!" the freckled boy said. "Mrs. Matthews said we're helping at some charity kitchen in Chinatown. F.E.A.S.T., I think it's called."
+
+Tommy looked up from his breakfast. "You think they'll let us eat whatever's left?"
+
+"They said we're getting lunch, Tommy."
+
+"Yeah, but what about seconds?"
+
+The boys all laughed.
+
+Some helped clean up after the meal while others headed away. D stayed behind in the dining hall.
+
+Current Stopping Point
+
+* The meal has concluded. D remains in the dining hall of the children's home.
+* The Saturday outing is still in the future.
+* No adoption, meeting with the Parkers, school day or other later event has occurred.
+
+Characters Introduced
+
+* D: fourteen-year-old boy at the children's home. His personality, history, appearance, reactions and decisions are for the user alone to establish.
+* Mrs. Matthews: staff member at the home; the woman in the blue cardigan with a clipboard
+* The freckled boy: invited D to sit and mentioned the F.E.A.S.T. outing
+* Tommy: a boy at the table who asked about seconds
+* Breakfast server: woman in a hairnet at the serving counter
