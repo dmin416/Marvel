@@ -6,8 +6,8 @@ Status: reference only. Nothing here is approved for the story.
 
 How to read this file
 
-* Each ability lists the best real spider and the measured or reported figure
-* Figures marked (reported) come from secondary summaries and should be checked before the story depends on them
+* Each ability lists the best real spider and the checked figure
+* Every figure was checked against published sources. Notes say where a figure is theoretical or unreviewed
 * Human-scale figures assume a 1.75 m and 75 kg person
 * Raw scaling by body size overstates what a human body could do because strength grows with cross-section and weight grows with volume. Use the human-scale figures as an upper bound for story design
 * Real spiders have no single established champion in several categories. Those are marked as examples
@@ -15,43 +15,55 @@ How to read this file
 Speed and Movement
 
 * Running speed
-  * Best candidate: Australian brown huntsman (Heteropoda), 3.59 m/s or about 12.9 km/h (reported, June 2026 preprint across 258 species, not yet peer reviewed)
+  * Best candidate: Australian huntsman (Heteropoda), 3.59 m/s or about 12.9 km/h
+  * Source: 2026 bioRxiv preprint "Evolutionary biomechanics of maximum running speed in spiders (Araneae)" covering 258 species (236 specimens of 162 species measured plus published data for 96 more). Not yet peer reviewed
+  * Coverage names the species as both Heteropoda cervina and Heteropoda jugulans. The species name is unconfirmed
+  * Longer legs and higher body mass predicted speed and ground hunters beat web builders. Slowest recorded: Maso sundevalli at 0.018 m/s
   * Older commonly cited record: giant house spider, about 0.52 m/s
   * Human scale: 3.59 m/s is below a human jog. Scaled by body length it becomes extreme, so the story should set its own ceiling
 * Tumbling escape
-  * Moroccan flic-flac spider (Cebrennus rechenbergi), about 2 m/s (7.2 km/h) while cartwheeling (reported)
-  * Not a running record
+  * Moroccan flic-flac spider (Cebrennus rechenbergi): average about 1.7 m/s with a single fastest run of 2 m/s (7.2 km/h), possibly helped by a slope or tailwind
+  * About twice its normal walking speed
+  * Not a running record and not comparable to ordinary running
 * Turning speed
-  * Flattie spiders (Selenops), up to about 3,000 degrees per second (reported)
+  * Flattie spiders (Selenopidae), up to about 3,000 degrees per second
+  * Source: 2018 Journal of Experimental Biology study, UC Merced and California Academy of Sciences. Fastest leg-driven turn of any animal measured
+  * The strike takes about 1/8 of a second. Pulling the legs in during the spin adds up to about 40% more speed
   * Human scale: about 8 full rotations per second
 * Jumping
-  * Jumping spiders (Salticidae), often cited at 10 to 50 body lengths per leap depending on species (reported)
-  * Human scale at the same ratios: about 17 m to 88 m in one leap
+  * Regal jumping spider (Phidippus regius): up to about 6 body lengths from a standing start with typical jumps of about 3 to 4 body lengths (University of Manchester, 2018 trained-jump study)
+  * Humans manage about 1.5 body lengths
+  * Human scale at 6 body lengths: about 10.5 m in one leap
+  * An earlier draft of this file said 10 to 50 body lengths. That was wrong
   * They attach a silk safety line before jumping and use fluid pressure in the legs along with muscle
 
 Strength, Adhesion and Durability
 
 * Raw size
   * Goliath birdeater (Theraphosa blondi): about 170 to 175 g and a leg span near 28 cm
-  * Leg span record: Heteropoda maxima, up to about 30 cm
+  * Goliath birdeater leg span can reach about 30 cm in exceptional cases
+  * Leg span record: giant huntsman (Heteropoda maxima), up to about 30 cm with a much lighter body. Some sources claim more than 35 cm and are treated as outliers
   * Mass is not strength. There is no verified strength-to-weight champion
 * Adhesion
-  * Jumping spider Evarcha arcuata: theoretical adhesion safety factor of about 160 to 170 times body weight with all foot hairs in contact (reported)
-  * Human scale: about 12 to 13 tonnes of hold
+  * Jumping spider Evarcha arcuata: adhesion safety factor of about 160 (later cited as about 173) times body weight
+  * Source: Kesel and colleagues 2003 and 2004 using atomic force microscopy on single foot hairs. About 624,000 setules at about 38 nN each give 2.38 x 10^-2 N total against a 15.1 mg body
+  * This is a theoretical extrapolation and not a measurement in a living spider. In vivo gecko tests came in about ten times below the ideal prediction
+  * Human scale at the theoretical value: about 12 tonnes of hold. Realistic values would be much lower
   * This is grip capacity and not a lifting record
 * Regeneration
   * Many spiders regrow lost legs over later molts, and the new leg may start smaller
   * Adults of species that no longer molt generally cannot regrow limbs
 * Longevity
-  * Gaius villosus: one documented individual lived 43 years
+  * Gaius villosus: the female "Number 16" in Western Australia lived at least 43 years (first documented 1974 and last seen alive about 2016 so 43 is a minimum age)
 
 Silk
 
 * Champion: Darwin's bark spider (Caerostris darwini)
-  * Dragline toughness: average about 350 MJ per cubic meter with samples up to 520 (reported)
-  * Roughly ten times the toughness of Kevlar. Toughness is energy to break and not raw tensile strength
+  * Dragline toughness: average about 350 MJ per cubic meter with samples up to 520 (Agnarsson Kuntner and Blackledge PLoS ONE 2010)
+  * More than twice as tough as any previously described silk and over ten times Kevlar
+  * Toughness is energy to break and not raw tensile strength. Tensile strength is about 1.6 GPa. Some outlets mislabel the 520 figure as tensile strength
   * Anchor lines up to 25 m across waterways
-  * Orb webs up to about 2.8 square meters
+  * Orb webs up to about 2.8 square meters (a maximum and not typical)
 * Silk uses beyond webs: safety lines, egg sacs, prey wrapping, shelters, mating structures and ballooning
 
 Senses
@@ -59,7 +71,8 @@ Senses
 * Daytime vision
   * Jumping spiders have the sharpest known spider vision
   * Principal eyes resolve fine detail while secondary eyes track motion across a wide field
-  * Detail resolution is roughly comparable to a small multiple of human acuity despite the tiny body (approximate)
+  * Acuity is sharp for their body size and comparable to much larger animals such as pigeons and cats
+  * No verified arcminute figure was found. Human foveal acuity is commonly cited at about 1 arcminute. Avoid giving a spider figure until checked against primary literature
 * Night vision
   * Ogre-faced spiders with huge rear-facing eyes built for very dim light
 * Vibration sense
@@ -82,7 +95,9 @@ Attacks and Venom
 * There is no universally agreed strongest venom across all measures
 * Projectile: spitting spiders (Scytodes) fire a zigzag of sticky silk and glue
 * Ranged trap: bolas spiders (Mastophora) swing a sticky droplet on a line and mimic moth pheromones
-* Fastest strike: trap-jaw spiders (Zearchaea), jaw closure in about 120 microseconds (reported), driven by stored spring energy
+* Fastest strike: trap-jaw spiders (Zearchaea) with a mean jaw closure of 0.084 ms (Wood 2020 Journal of Experimental Biology) and an earlier 2016 estimate of about 0.12 ms
+* Fastest recorded strike: peak linear velocity 18.2 m/s and peak angular velocity 30.8 x 10^3 rad per second
+* Driven by a latch and spring system with stored energy
 
 Camouflage and Mimicry
 
@@ -96,7 +111,8 @@ Water and Air
 
 * Underwater: diving bell spider (Argyroneta aquatica) lives in a silk air chamber that also works as a physical gill and spends most of its life submerged
 * Water surface: fishing spiders (Dolomedes) run on the surface and dive for prey
-* Aerial travel: ballooning spiders reach altitudes around 4 km (reported) and cross oceans on silk lines
+* Aerial travel: ballooning spiders reach altitudes around 4 km and have been found as far as about 1,600 km out to sea
+* Erigone spiders launch in a vertical electric field with no wind (Morley and Robert 2018 University of Bristol). A later physics paper estimated a silk charge of at least 1.15 nC for the lift seen
 
 Social and Other
 
