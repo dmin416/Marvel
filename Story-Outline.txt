@@ -76,6 +76,7 @@ World
 * No Morlun or totems
 * Super spiders exist
 * The super spider that bit Gwen is from Oscorp
+* Note: the spider could have been made by Peter's father or Cindy
 * Cindy Moon is downplayed for now (idea: scientist turned villain like the Green Goblin)
 
 Gwen
