@@ -1,0 +1,68 @@
+D Story: Symbiotes
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: reference and design brainstorm only. Nothing here is approved. Design values are proposals.
+
+Comics History (inspiration)
+
+* 1984: the symbiote first appears as a black costume for Peter Parker during Secret Wars (Amazing Spider-Man #252)
+* Peter rejects it and it bonds to Eddie Brock as Venom (first appears in Amazing Spider-Man #299)
+* Venom starts as a Spider-Man villain and later becomes an antihero
+* Carnage spawns from Venom and bonds to the serial killer Cletus Kasady (Amazing Spider-Man #345)
+* Later lore: the Klyntar are an alien race created by the god Knull (Venom 2018 to 2021 run). Each symbiote carries a codex that could free Knull if assembled
+* Other hosts: Flash Thompson as Agent Venom and Anti-Venom and Toxin
+* This story does not use Knull or the codex lore unless approved
+
+This Story's Symbiote (from existing files)
+
+* The symbiote comes from space
+* Eddie Brock gets it
+* D takes it from Eddie, experiments on it and absorbs it
+* The symbiote is basically a clone of D and completely connected to D
+* Weak to sound and fire
+* Does not trigger spider-sense
+* Can spawn offspring like Carnage
+* Gwen later relies on a managed bond with symbiote D. The symbiote gives her the powers she wants instead of technology
+
+Capabilities (comics)
+
+* Reads the host's adrenaline and bonds closely with them
+* Boosts strength, speed, durability and healing
+* Shapeshifts and changes its outer appearance at will
+* Generates webs for swinging
+* Stops small-arms rounds
+* Sound (especially high frequency) and fire make it flee and can break its hold on the host
+* Ultimate Marvel version is vulnerable to electricity instead
+
+Comics Strength Figures (unverified)
+
+* Sources are fan wikis and strength is inconsistent. Venom ranges from slightly above Spider-Man to trading blows with Juggernaut
+* Venom lifts about 11 tons (one FAQ page)
+* Anti-Venom lifts 13 to 70 tons
+* Carnage lifts over 80 tons and is stronger than Venom
+* No Official Handbook figures were confirmed
+
+Proposed Multiplier Model
+
+* Baseline human host (no other enhancement)
+  * The symbiote lifts the host to roughly Spider-Man level
+  * Strength x50 and speed x2 and reaction time divided by 3 and jump x10 and durability x3 and healing x5
+  * These match a single dose of spider venom in D-Story-Spider-Abilities.txt
+  * Gwen with a 40 kg baseline lifts about 2,000 kg, which matches what her venom powers gave her
+* Already enhanced host (D)
+  * Gains shrink through diminishing stacking on top of the host's current level
+  * Strength x1.5 to x2 and speed x1.2 to x1.5 and reaction time divided by 1.5 and jump x1.5 to x2 and durability x2 to x3 and healing x1.5 to x2
+  * D at 300% venom lifts 20,720 kg so with the symbiote about 31,100 to 41,400 kg
+  * D sprints 30 m/s so with the symbiote about 36 to 45 m/s
+  * D reacts in 31 ms so with the symbiote about 21 ms
+  * D jumps 14 m so with the symbiote about 21 to 28 m
+* Added abilities that do not multiply: shapeshifting and webbing and bullet resistance
+* Costs: sound and fire weakness and constant hunger
+
+Open Questions
+
+* Whether the symbiote's multiplier depends on how closely the host bonds with it
+* Whether Gwen's bond is limited to the baseline human tier because D is the real host
+* How the symbiote's multiplier changes when D's clone symbiote separates from him
+* Whether spawned offspring give the same multiplier
