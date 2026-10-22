@@ -1,0 +1,123 @@
+D Story: Spider Ability Scale
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: reference only. Nothing here is approved for the story.
+
+How to read this file
+
+* Each ability lists the best real spider and the measured or reported figure
+* Figures marked (reported) come from secondary summaries and should be checked before the story depends on them
+* Human-scale figures assume a 1.75 m and 75 kg person
+* Raw scaling by body size overstates what a human body could do because strength grows with cross-section and weight grows with volume. Use the human-scale figures as an upper bound for story design
+* Real spiders have no single established champion in several categories. Those are marked as examples
+
+Speed and Movement
+
+* Running speed
+  * Best candidate: Australian brown huntsman (Heteropoda), 3.59 m/s or about 12.9 km/h (reported, June 2026 preprint across 258 species, not yet peer reviewed)
+  * Older commonly cited record: giant house spider, about 0.52 m/s
+  * Human scale: 3.59 m/s is below a human jog. Scaled by body length it becomes extreme, so the story should set its own ceiling
+* Tumbling escape
+  * Moroccan flic-flac spider (Cebrennus rechenbergi), about 2 m/s (7.2 km/h) while cartwheeling (reported)
+  * Not a running record
+* Turning speed
+  * Flattie spiders (Selenops), up to about 3,000 degrees per second (reported)
+  * Human scale: about 8 full rotations per second
+* Jumping
+  * Jumping spiders (Salticidae), often cited at 10 to 50 body lengths per leap depending on species (reported)
+  * Human scale at the same ratios: about 17 m to 88 m in one leap
+  * They attach a silk safety line before jumping and use fluid pressure in the legs along with muscle
+
+Strength, Adhesion and Durability
+
+* Raw size
+  * Goliath birdeater (Theraphosa blondi): about 170 to 175 g and a leg span near 28 cm
+  * Leg span record: Heteropoda maxima, up to about 30 cm
+  * Mass is not strength. There is no verified strength-to-weight champion
+* Adhesion
+  * Jumping spider Evarcha arcuata: theoretical adhesion safety factor of about 160 to 170 times body weight with all foot hairs in contact (reported)
+  * Human scale: about 12 to 13 tonnes of hold
+  * This is grip capacity and not a lifting record
+* Regeneration
+  * Many spiders regrow lost legs over later molts, and the new leg may start smaller
+  * Adults of species that no longer molt generally cannot regrow limbs
+* Longevity
+  * Gaius villosus: one documented individual lived 43 years
+
+Silk
+
+* Champion: Darwin's bark spider (Caerostris darwini)
+  * Dragline toughness: average about 350 MJ per cubic meter with samples up to 520 (reported)
+  * Roughly ten times the toughness of Kevlar. Toughness is energy to break and not raw tensile strength
+  * Anchor lines up to 25 m across waterways
+  * Orb webs up to about 2.8 square meters
+* Silk uses beyond webs: safety lines, egg sacs, prey wrapping, shelters, mating structures and ballooning
+
+Senses
+
+* Daytime vision
+  * Jumping spiders have the sharpest known spider vision
+  * Principal eyes resolve fine detail while secondary eyes track motion across a wide field
+  * Detail resolution is roughly comparable to a small multiple of human acuity despite the tiny body (approximate)
+* Night vision
+  * Ogre-faced spiders with huge rear-facing eyes built for very dim light
+* Vibration sense
+  * Web builders locate prey and mates from tiny vibrations in silk
+  * Some spiders also respond to low-frequency airborne sound
+* Electric field sense
+  * Erigone spiders detect atmospheric electric fields through sensory hairs and use them to help balloon
+  * They cannot generate electricity. There is no real electric spider
+
+Intelligence
+
+* Portia fimbriata: plans indirect routes to prey even when the target is out of sight
+* Uses deceptive vibrations to manipulate other spiders
+* Strongest known problem-solving among spiders
+
+Attacks and Venom
+
+* Most dangerous to humans: Australian funnel-web spiders, especially male Sydney funnel-webs. Antivenom has made deaths very rare
+* Another major group: Brazilian wandering spiders (Phoneutria)
+* There is no universally agreed strongest venom across all measures
+* Projectile: spitting spiders (Scytodes) fire a zigzag of sticky silk and glue
+* Ranged trap: bolas spiders (Mastophora) swing a sticky droplet on a line and mimic moth pheromones
+* Fastest strike: trap-jaw spiders (Zearchaea), jaw closure in about 120 microseconds (reported), driven by stored spring energy
+
+Camouflage and Mimicry
+
+* No single best camouflage
+* Bird-dropping mimic: Cyclosa ginnaga
+* Bark flattening: wrap-around spiders (Dolophones)
+* Ant mimicry: ant-mimicking jumping spiders (Myrmarachne)
+* Color change over time: goldenrod crab spider (Misumena vatia), white to yellow
+
+Water and Air
+
+* Underwater: diving bell spider (Argyroneta aquatica) lives in a silk air chamber that also works as a physical gill and spends most of its life submerged
+* Water surface: fishing spiders (Dolomedes) run on the surface and dive for prey
+* Aerial travel: ballooning spiders reach altitudes around 4 km (reported) and cross oceans on silk lines
+
+Social and Other
+
+* Cooperative hunting: Anelosimus eximius lives in colonies of thousands
+* Unusual diet: Bagheera kiplingi eats mostly plants
+* Display: Maratus peacock spiders use dance and vibration
+* Defense: New World tarantulas flick irritating hairs
+
+Candidate Power Sources
+
+* Speed: brown huntsman
+* Agility and leaping: jumping spiders and flattie spiders
+* Wall-crawling: Evarcha arcuata
+* Webbing: Darwin's bark spider
+* Danger sense: web builders' vibration sensing
+* Vision: jumping spiders and ogre-faced spiders
+* Tactics: Portia fimbriata
+* Venom: funnel-web or wandering spiders
+* Ranged restraint: spitting spiders
+* Stealth: wrap-around spiders
+* Underwater: diving bell spider
+* Aerial: ballooning spiders
+* Electric sensing: Erigone
+* Healing: molting regeneration
