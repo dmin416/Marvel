@@ -28,7 +28,9 @@ Visual Acuity
 * The principal eye works like a Galilean telescope (a long tube with lenses at both ends)
 * The principal eye retina covers only about 0.6 degrees and holds no more than about 1,500 receptors
 * Acuity comes from a small dense region. The secondary eyes cover motion across a wide field
-* The Harland and Jackson Portia papers were not reached. No genus-specific acuity figure is confirmed
+* Portia summary: inter-receptor angles can be as small as 2.4 arcminutes, about six times coarser than humans. This matches the 0.04 degree figure
+* The principal eyes cover a small field of about 1 to 2 degrees (Land 1969). Williams and MacIntyre (1980) showed a pit at the rear of the tube acts as a lens and gives even better acuity than Land found
+* The 0.04 degree value is a secondary figure. The Harland and Jackson Portia papers were not reachable
 
 Danger Sense
 
@@ -43,7 +45,7 @@ Danger Sense
 Organ and Circulatory Power
 
 * Spider legs extend by hydraulic pressure and not by extensor muscles
-* Parry and Brown (Journal of Experimental Biology, vol. 36, 1959) measured leg pressure in intact spiders. A secondary source reports about 6.6 kPa resting (about 50 mmHg) and transient pressure up to about 60 kPa (about 450 mmHg). The paper's own numbers were not reached
+* Parry and Brown (Journal of Experimental Biology, vol. 36, 1959) measured leg pressure in intact spiders. The journal PDF returned an access error twice. A secondary source reports about 6.6 kPa resting (about 50 mmHg) and transient pressure up to about 60 kPa (about 450 mmHg). The paper's own numbers were not reached
 * A later study on Filistata hibernalis found resting leg pressure averaging about 5.1 kPa (about 38 mmHg)
 * For comparison normal human systolic pressure is about 16 kPa (120 mmHg). 60 kPa is about 450 mmHg
 * Hemolymph is a shear-thinning fluid (Goettler 2021, Soft Matter)
@@ -68,7 +70,8 @@ Strength
 * Tangle-web spiders haul prey up to about 50 times their own weight using multiple silk lines in a pulley method (Greco and Pugno, Journal of the Royal Society Interface)
 * Evarcha arcuata adhesion: safety factor about 160 (cited up to 173), a theoretical value
 * Claims of spiders lifting 170 times their weight or 8x to 50x lack primary sources
-* No measured bite force in newtons was found. Forum figures are speculation
+* No direct bite force measurement in newtons exists in the sources found. Forum figures are speculation
+* Black and colleagues (Evolution 2024) estimated bite force from micro-CT scans of chelicerae muscle. Size-corrected inferred force is lower in web builders than in free hunters
 
 Explosive Power
 
@@ -106,7 +109,12 @@ Axolotl
 * New neurons wire into surviving circuits
 * Macrophages are required. Removing them blocks regeneration and causes scarring
 * Juvenile axolotl limb regeneration takes about 40 to 50 days (University of Kentucky salamander resource)
-* No adult axolotl timeline was found. Adults of other Ambystoma species took about 155 to 375 days. Hobbyist reports range from days for toes to months for a limb
+* The standard staging system (Tank, Carlson and Connelly) was built on 10 to 12 month old animals with stages from wound healing through digit outgrowth
+* The first 28 days cover amputation, early bud, late bud and pallet stages (Voss 2015)
+* One logbook reports about 5 weeks of fast growth after the blastema forms and then about 9 more weeks of slow growth until the limb matches the other side (low quality source)
+* A review says timing depends on size and age and older animals take longer. It also says regeneration completes within a month, which conflicts with the logbook
+* No primary source gives a clean adult digit-complete day. A working range for an adult forelimb is about 1 to 4 months
+* Adults of other Ambystoma species took about 155 to 375 days. Hobbyist reports range from days for toes to months for a limb
 
 Planarian
 
@@ -161,7 +169,7 @@ All values below are proposals. Baselines are the real figures above.
   * Axolotl base: scar-free limb, spinal cord, brain and heart repair
   * Planarian stem cells: tiny fragments can rebuild larger structures
   * Planarian timing as the fast anchor: functional head and brain in under a week
-  * Axolotl timing as the standard anchor: juvenile limb in about 40 to 50 days
+  * Axolotl timing as the standard anchor: juvenile limb in about 40 to 50 days and an adult limb in roughly 1 to 4 months
   * Octopus arm timing as the slow anchor: first signs in weeks and full arm tip in about 130 days
   * Cost: heavy calorie burn and sleep during regrowth
 * Camouflage
