@@ -29,7 +29,7 @@ Core Cast
 
 D
 
-* Orphan who meets Peter and Aunt May in the F.E.A.S.T. meal line as a kid on his own
+* Orphan who starts at fourteen in a New York children's home (played) and meets Peter and Aunt May in the F.E.A.S.T. meal line as a kid on his own
 * May gives him an extra plate and invites him to Sunday dinner; Ben and Peter treat him like family
 * Same age as Peter, Harry, Gwen and Lorna, and goes to school with them
 * Finishes college right before 2008 and has his powers when Tony is abducted in spring 2008
@@ -119,7 +119,7 @@ Writing Approach
 Open Questions
 
 * D's power level and limits, and how he hides them
-* Where D lives as a kid and how he makes money
+* Whether D stays at the children's home or is fostered or adopted, and how he makes money
 * Who makes up D's household
 * Uncle Ben's fate
 * Harry's curse backstory
@@ -133,6 +133,7 @@ Open Questions
 
 Related Files
 
+* D-Story-So-Far.txt: the only story canon (events already played)
 * Story-Outline.txt: everything as stated
 * Approved-Suggestions-and-Universal-Details.txt: approved suggestions (delivery business) and inspiration reference
 * D-Story-Rough-Timeline.txt: full rough timeline including the MCU tie-ins
