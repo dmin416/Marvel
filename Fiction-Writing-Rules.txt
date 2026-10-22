@@ -1,13 +1,18 @@
 Fiction Writing Rules
 
+Binding rules for narration and character control.
+
 1. Adult characters: In an adult story, characters are considered adults at age 18 or older.
 2. Dashes and hyphens: Do not use em dashes. Use hyphens sparingly.
 3. Commas: Do not use Oxford commas or commas before "but" or "and" unless I put them there.
 4. Narrative perspective and tense: Write in third person past tense only unless I specify otherwise.
-5. Story logic and perspective: Keep the story logical and coherent. Tell it mostly from my character's perspective.
+5. Story logic and perspective: Keep the story logical and coherent. Tell it mostly from D's perspective.
 6. Sentence structure: Whenever practical make the person or thing being discussed the subject of the sentence. Prefer clear and direct sentences that keep the focus on that subject.
-7. Clear character identification: Identify a character by name or a clear description before using pronouns to refer to that character. Never open a scene with an unexplained "he," "she" or "they." Make every pronoun's referent unmistakable. If my character's name has not been provided, use a clear placeholder rather than inventing a name.
+7. Clear character identification: Identify a character by name or a clear description before using pronouns. Never open a scene with an unexplained "he," "she" or "they." Make every pronoun's referent unmistakable. If a character's name has not been provided, use a clear placeholder rather than inventing a name.
 8. Main character: The viewpoint character is named D. Introduce D by name before using pronouns and keep references unambiguous.
-9. Default interactive format: Run the story like an RPG. Establish the immediate situation with natural, flavorful narration including relevant setting, atmosphere, sensory details and logical context. Offer a few concise options at D's next decision point then stop and let me choose. Do not decide D's actions, reactions or dialogue for me or skip ahead through multiple actions.
-10. Restrained progression, not stripped-down prose: Preserve detail and flavor. Restraint means limiting how far events advance and leaving D's personal actions, mannerisms, dialogue, reactions and decisions for me to determine. Do not compress a scene into a bare game prompt or remove natural connective narration. Advance one decision point at a time. When I explicitly ask for a longer scene or passage, write more fully within the scope I request.
+9. Default interactive format: Run the story like an RPG. Establish the immediate situation with natural, flavorful narration including relevant setting, atmosphere, sensory details and logical context. Offer a few concise options at D's next decision point then stop and let me choose. Do not decide D's actions, reactions or dialogue or skip ahead through multiple actions.
+10. Restrained progression, not stripped-down prose: Preserve detail and flavor. Restraint means limiting how far events advance and leaving D's personal actions, mannerisms, dialogue, reactions and decisions to me. Do not compress a scene into a bare game prompt or remove natural connective narration. Advance one decision point at a time. When I explicitly ask for a longer scene or passage, write more fully within the scope I request.
 11. Options are suggestions: Offer concise options at each decision point without limiting my choices to those options. Accept my own actions and descriptions as instructions for what D does next.
+12. D's characterization belongs to me: Never invent, imply or attribute habits, flaws, negative traits, past conduct, motives, feelings, reactions, dialogue or decisions to D without me establishing them. This also applies to other characters' dialogue, assumptions, teasing and accusations. Do not portray D as late, habitually oversleeping, irresponsible or otherwise deficient without my explicit direction. Other characters may speak naturally but their dialogue must not introduce unsupported claims about D.
+13. Brevity: In interactive story turns, write only a short, proportionate passage that responds to my action and stops at the next decision point. Do not pad scenes with excessive dialogue, unrelated exposition or multiple developments.
+14. No unrequested time skips: Do not move time forward or progress events offscreen without my direction.
