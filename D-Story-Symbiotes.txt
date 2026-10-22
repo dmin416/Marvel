@@ -47,6 +47,37 @@ Open Questions
 * Whether absorption keeps the symbiote's powers and memories in the host
 * Whether a host can be overwhelmed by their own amplified trait
 
+Hive Mind Versus Host Mind
+
+* Symbiote tissue can develop a mind of its own, as infected tissue does in Resident Evil
+* That mind is infantile: it has simple drives and little depth
+* A sufficiently powerful human mind overwhelms it
+* The stronger and more anchored the host mind is, the more completely the symbiote mind is crushed or absorbed
+* A weaker host can be pushed aside by the tissue's drives. That is the failure case and not the expected case for D
+
+Factors in the Contest
+
+* Mental capacity: a larger and more disciplined mind dominates more easily
+* Anchors: faith, memories, people and routines keep the host's identity stable
+* Bandwidth: a hive that spreads through more of the brain has more influence
+* Stress: fear, pain and exhaustion weaken the host's grip for a time
+* Time: a longer bond gives the tissue more chances to grow its own mind
+
+Outcomes When the Host Overwhelms the Symbiote
+
+* Clean absorption: the symbiote mind breaks into fragments the host digests. The host keeps the body and abilities and gains raw knowledge but no second personality
+* Scar tissue: fragments remain as echoes such as whispers and cravings and odd memories
+* Overload: the host takes the whole memory at once and has to rebuild a stable sense of self
+* Loss of amplification: with no separate mind to reflect the host the amplified trait fades and the host keeps only what the tissue itself can do
+* No restoration: the symbiote mind cannot come back
+
+Application to D
+
+* D has a very strong anchored mind (faith, experience across many worlds and the people who live with him)
+* Absorbing Eddie's symbiote after experimenting on it follows the clean absorption or scar tissue outcome
+* D's own clone symbiote is a reflection of D so the contest hardly exists
+* Gwen's managed bond holds only while neither her mind nor the symbiote's overwhelms the other
+
 Capabilities (comics)
 
 * Reads the host's adrenaline and bonds closely with them
