@@ -1,0 +1,160 @@
+D Story: Symbiotes
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: reference and design brainstorm only. Nothing here is approved. Design values are proposals.
+
+Comics History (inspiration)
+
+* 1984: the symbiote first appears as a black costume for Peter Parker during Secret Wars (Amazing Spider-Man #252)
+* Peter rejects it and it bonds to Eddie Brock as Venom (first appears in Amazing Spider-Man #299)
+* Venom starts as a Spider-Man villain and later becomes an antihero
+* Carnage spawns from Venom and bonds to the serial killer Cletus Kasady (Amazing Spider-Man #345)
+* Later lore: the Klyntar are an alien race created by the god Knull (Venom 2018 to 2021 run). Each symbiote carries a codex that could free Knull if assembled
+* Other hosts: Flash Thompson as Agent Venom and Anti-Venom and Toxin
+* This story does not use Knull or the codex lore unless approved
+
+This Story's Symbiote (from existing files)
+
+* The symbiote comes from space
+* D interacts with a symbiote soon, before college (ages 14 to 18)
+* Eddie Brock gets it
+* D takes it from Eddie, experiments on it and absorbs it
+* The symbiote is basically a clone of D and completely connected to D
+* Weak to sound and fire
+* Does not trigger spider-sense
+* Can spawn offspring like Carnage
+* Gwen later relies on a managed bond with symbiote D. The symbiote gives her the powers she wants instead of technology
+
+Comics Lore on Symbiote Minds and Hosts (researched)
+
+* Biology
+  * Symbiotes are amorphous alien multicellular organisms that bond with a host to survive
+  * Each leaves a codex behind in its host: a cellular imprint wrapped around the host's DNA that shares information about hosts with the hive (Venom #8)
+  * They reproduce asexually with a limited number of seeds. The original Venom symbiote spawned seven offspring and a clone
+  * They are effectively immortal but can die
+  * Some versions need chocolate or brain tissue (phenethylamine) and the symbiote feeds on adrenaline
+* Minds and intelligence
+  * Symbiotes are sentient and have hive-mind connections through their codices
+  * The influence runs both ways: the host's mental state shapes the symbiote as much as the symbiote shapes the host
+  * Venom's personality depends largely on who hosts it
+  * A symbiote amplifies the host's existing traits and can alter personality and memories and push darkest desires
+  * Some symbiotes are corrupted by harmful hosts. Anti-Venom is mindless in some accounts
+  * Whether Carnage inherits Venom's memories is unresolved in the sources found
+* Control and resistance examples
+  * Ben Reilly: the symbiote disguised itself as part of his Scarlet Spider hoodie and tried to bond fully but his strong will kept it from taking control
+  * Max Modell overcame the symbiote's control with Spider-Man's help
+  * Flash Thompson as Agent Venom struggled to control the symbiote's darker impulses and the symbiote developed some affection for him
+  * Spider-Man rejected the symbiote using sonic attacks
+  * Eddie Brock found the symbiote too much to handle and separated from it
+  * In some stories symbiotes consume their hosts entirely (Grendel-bonded soldiers and some What If? stories)
+  * Peter Parker succumbs in Spider's Shadow
+* Weaknesses
+  * Sound and fire
+  * Light (Krobaa)
+  * Chemical and biological attacks
+  * Electricity in the Ultimate version
+  * Telepaths
+  * Bonding with multiple hosts at once
+  * Anti-Venom
+* Source notes
+  * The Wikipedia article and fan wikis were the main sources and the Marvel.com history page could not be opened. Some specific claims such as Wolverine resisting a symbiote were not found in canon
+
+Nature of Symbiotes (this story)
+
+* A symbiote reflects something about the mind of the person it pairs with and amplifies it
+* The reflected trait becomes its personality and drives its behavior
+* Its intelligence comes from the host's mind and not from a separate mind of its own
+* If the host completely overwhelms the symbiote, the symbiote may be absorbed into the host instead of staying separate
+* This matches D taking Eddie's symbiote, experimenting on it and absorbing it
+
+Implications
+
+* Eddie Brock: the symbiote amplifies his resentment and ambition as a failed reporter
+* D: his symbiote is a clone reflecting D and is completely connected to him, so absorbing it is easy
+* Gwen: a symbiote paired with Gwen reflects her traits (guilt and drive) while staying tied to D
+* Different hosts produce different symbiotes from the same source
+
+Open Questions
+
+* Which trait the symbiote reflects: a dominant emotion or a hidden desire or the whole personality
+* How strong a will must be to overwhelm a symbiote
+* Whether absorption keeps the symbiote's powers and memories in the host
+* Whether a host can be overwhelmed by their own amplified trait
+
+Hive Mind Versus Host Mind
+
+* Symbiote tissue can develop a mind of its own
+* No body horror: no organs eaten and no eyes or growths on the body
+* That mind is infantile: it has simple drives and little depth
+* A sufficiently powerful human mind overwhelms it
+* The stronger and more anchored the host mind is, the more completely the symbiote mind is crushed or absorbed
+* A weaker host can be pushed aside by the tissue's drives. That is the failure case and not the expected case for D
+
+Factors in the Contest
+
+* Mental capacity: a larger and more disciplined mind dominates more easily
+* Anchors: faith, memories, people and routines keep the host's identity stable
+* Bandwidth: a hive that spreads through more of the brain has more influence
+* Stress: fear, pain and exhaustion weaken the host's grip for a time
+* Time: a longer bond gives the tissue more chances to grow its own mind
+
+Outcomes When the Host Overwhelms the Symbiote
+
+* Clean absorption: the symbiote mind breaks into fragments the host digests. The host keeps the body and abilities and gains raw knowledge but no second personality
+* Scar tissue: fragments remain as echoes such as whispers and cravings and odd memories
+* Overload: the host takes the whole memory at once and has to rebuild a stable sense of self
+* Loss of amplification: with no separate mind to reflect the host the amplified trait fades and the host keeps only what the tissue itself can do
+* No restoration: the symbiote mind cannot come back
+
+Application to D
+
+* D has a very strong anchored mind (faith, experience across many worlds and the people who live with him)
+* Whenever a symbiote tries to infiltrate his mind the symbiote's action inadvertently unlocks D's memories and capacity (a thousand lifetimes of willpower and self control)
+* The unlocked capacity kills the symbiote's mind and essentially turns it into a vegetable
+* D then absorbs the symbiote
+* Absorbing Eddie's symbiote after experimenting on it follows the clean absorption or scar tissue outcome
+* D's own clone symbiote is a reflection of D so the contest hardly exists
+* Gwen's managed bond holds only while neither her mind nor the symbiote's overwhelms the other
+
+Capabilities (comics)
+
+* Reads the host's adrenaline and bonds closely with them
+* Boosts strength, speed, durability and healing
+* Shapeshifts and changes its outer appearance at will
+* Generates webs for swinging
+* Stops small-arms rounds
+* Sound (especially high frequency) and fire make it flee and can break its hold on the host
+* Ultimate Marvel version is vulnerable to electricity instead
+
+Comics Strength Figures (unverified)
+
+* Sources are fan wikis and strength is inconsistent. Venom ranges from slightly above Spider-Man to trading blows with Juggernaut
+* Venom lifts about 11 tons (one FAQ page)
+* Anti-Venom lifts 13 to 70 tons
+* Carnage lifts over 80 tons and is stronger than Venom
+* No Official Handbook figures were confirmed
+
+Proposed Multiplier Model
+
+* Baseline human host (no other enhancement)
+  * The symbiote lifts the host to roughly Spider-Man level
+  * Strength x50 and speed x2 and reaction time divided by 3 and jump x10 and durability x3 and healing x5
+  * These match a single dose of spider venom in D-Story-Spider-Abilities.txt
+  * Gwen with a 40 kg baseline lifts about 2,000 kg, which matches what her venom powers gave her
+* Already enhanced host (D)
+  * Gains shrink through diminishing stacking on top of the host's current level
+  * Strength x1.5 to x2 and speed x1.2 to x1.5 and reaction time divided by 1.5 and jump x1.5 to x2 and durability x2 to x3 and healing x1.5 to x2
+  * D at 300% venom lifts 20,720 kg so with the symbiote about 31,100 to 41,400 kg
+  * D sprints 30 m/s so with the symbiote about 36 to 45 m/s
+  * D reacts in 31 ms so with the symbiote about 21 ms
+  * D jumps 14 m so with the symbiote about 21 to 28 m
+* Added abilities that do not multiply: shapeshifting and webbing and bullet resistance
+* Costs: sound and fire weakness and constant hunger
+
+Open Questions
+
+* Whether the symbiote's multiplier depends on how closely the host bonds with it
+* Whether Gwen's bond is limited to the baseline human tier because D is the real host
+* How the symbiote's multiplier changes when D's clone symbiote separates from him
+* Whether spawned offspring give the same multiplier

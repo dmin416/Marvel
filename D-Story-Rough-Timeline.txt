@@ -1,5 +1,7 @@
 D Story: Rough Timeline
 
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
 Status: planning ideas only. Nothing here is set. The only story canon is D-Story-So-Far.txt, where D is fourteen and has just finished lunch at a New York children's home.
 
 Story Order
@@ -7,9 +9,13 @@ Story Order
 1. School and college arc
 2. Then the wider world events
 
+Floating Events (timing TBD)
+
+* Otto Octavius begins the same way as in the original trilogy. After D interacts with him anything can happen, including whether his wife dies
+
 Pre-2008: School
 
-* D enters the world as an orphan and chooses to keep his powers or start fresh
+* D enters the world as an orphan and a normal kid with most of his memories sealed off
 * Played: D wakes at fourteen in a New York children's home and agrees to a Saturday outing with the home's group to help set up tables at F.E.A.S.T. (proposed start year 2003)
 * Aunt May works at F.E.A.S.T., Martin Li's shelter in Chinatown
 * D is in the F.E.A.S.T. meal line as a kid on his own; May notices him, gives him an extra plate and invites him to Sunday dinner (the meeting can grow out of the children's home outing)
@@ -20,28 +26,37 @@ Pre-2008: School
 * Flash Thompson starts out as a bully
 * Lorna works at the local diner to pay for her things; D learns about it (maybe)
 * Lorna becomes the main female lead next to Gwen
-* Gwen is bitten by a super spider and gains her powers
+* D interacts with a symbiote soon, before college (ages 14 to 18)
+* Gwen is bitten by a super spider from Oscorp right before college on the senior trip to Oscorp and gains her powers (the spider could have been made by Peter's father or Cindy)
+* D collects the spider (see D-Story-Super-Spider-Gains.txt)
+* The Lizard arc is finished before 2008:
+  * Peter works for Curt Connors
+  * Peter starts down the Lizard path
+  * Lizard Peter beats guys in the wrestling cage; Uncle Ben gives him the talk
+  * Peter fully becomes the Lizard
+  * Gwen fights him and believes she killed him; her guilt and character arc begin
+  * D saves Peter after his near death
+  * D also saves Gwen (situation TBD)
 * Background: the Fantastic Four and Doom feud among themselves; Kingpin, Punisher and Daredevil stick to Hell's Kitchen
 
-2007 to 2009: College
+College (ends right before 2008)
 
 * D, Peter and Harry are in college; D has his powers
 * Delivery business starts: neutral courier for heroes and villains alike, cover for intel, secret or public just for fun
+* They finish college right before 2008
+
+2008: After College
+
 * Spring 2008: Tony is abducted in Afghanistan; D delivers something to Stark there for Pepper
-* Peter starts down the Lizard path
-* Lizard Peter beats guys in the wrestling cage; Uncle Ben gives him the talk
+* Norman's madness happens after Peter works for Curt and the Lizard arc (timing TBD)
 * Norman's arc begins: the enhancer test, then possibly killing the shareholders and taking over Oscorp
-* Peter fully becomes the Lizard
-* Gwen fights him and believes she killed him; her character arc begins
-* D saves Peter after his near death
 * Green Goblin fights Peter, Gwen, D or whoever and nearly kills himself; D keeps Norman alive
-* D also saves Gwen (situation TBD)
 
 2009 to 2011: Harry and Oscorp
 
 * Harry learns D kept Norman alive and learns about his father's insanity
 * Harry takes on the Goblin mantle
-* Peter, Gwen and D help Harry perfect the serum and cure his genetic curse (backstory TBD)
+* Peter, Gwen and D help Harry perfect the serum and cure his genetic curse
 * The four start doing hero work together
 * Idea: D and Peter lead Oscorp's deep science division after the takeover
 * Baxter Building runs keep D in touch with the Fantastic Four and Doom
@@ -58,7 +73,7 @@ May 2012: Battle of New York
 
 * Vulture debuts
 * Rotating villains: Electro, Sandman, Rhino, Scorpion, Chameleon and Tombstone
-* Hobgoblin rises once Norman is out of play
+* Hobgoblin rises once Norman is out of play (origin to be figured out later)
 * Mister Negative as a major arc, with F.E.A.S.T. as his front
 * Cloak and Dagger tie in
 * Chthon's Juggernaut appears
@@ -70,16 +85,20 @@ May 2012: Battle of New York
 
 2014 to 2016: Symbiote and Cindy
 
-* Eddie gets the symbiote; D takes it, experiments on it and absorbs it
+* Eddie gets the symbiote from space; D takes it and experiments on it (timing to reconcile with D's first symbiote interaction at ages 14 to 18)
+* The symbiote tries to infiltrate D's mind and inadvertently unlocks his memories and capacity, which kills the symbiote's mind and turns it into a vegetable that D absorbs
 * Eddie becomes a SWAT team member
 * Cindy Moon gives Gwen the neutralizer; Gwen permanently loses her spider powers
 * Gwen, now an adult, relies on symbiote D in a managed bond
-* Peter likely doesn't know
+* Gwen's multiversal memories confuse her further (timing TBD)
+* Peter tries to help but Cindy's serum blocks it; D's symbiote gives Gwen the powers she desires instead
+* D appreciates Gwen's thankfulness and her body but quickly gets over it and steps back, since Peter truly loves her
+* Peter learns about the bond and understands: the symbiote is basically a clone of D and completely connected to D
 * Possible later beat: Cindy's scientist-turned-villain turn
 
 2016 to 2023: Later Years
 
 * 2016 Sokovia Accords: registration puts pressure on D, Gwen, Peter and Harry
-* Gwen and Peter get together and become a crime-fighting duo
+* Gwen and Peter get together and become a crime-fighting duo; D is a third wheel only when he chooses and only in the beginning
 * 2018 Snap: decides who among the group vanishes and who stays behind
 * 2023 return of the vanished: five years of change in the city

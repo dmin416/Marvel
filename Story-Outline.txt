@@ -1,5 +1,7 @@
 Story Outline
 
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
 Status: planning ideas only. Nothing here is set. The only story canon is D-Story-So-Far.txt, where D is fourteen and has just finished lunch at a New York children's home.
 
 Story Order
@@ -14,9 +16,14 @@ D
 * Has experience from going through countless multiverses, multiple times
 * Attains powers and items along the way
 * Can choose to have his powers or start fresh
+* Starts the story as a normal kid with most of his memories sealed off
+* Trains to survive the world
+* Peter is a weak nerd
+* Gwen is a police captain's daughter who takes self defense but does not lift weights
+* Harry trains enough to attract women
 * Likes helping people and helps them if he can
 * The only people with good souls are the people who live with him
-* In college and has powers when Tony is abducted
+* Finishes college right before 2008 and has powers when Tony is abducted
 * Idea: runs a sort of delivery business
 * Orphan
 * Meets Peter and Aunt May in the F.E.A.S.T. meal line as a kid on his own
@@ -55,12 +62,17 @@ World
 * Gwen Stacy and Peter Parker exist
 * Miles Morales doesn't exist
 * Green Goblin and Otto Octavius exist
+* Otto Octavius exists and begins the same way as in the original trilogy. Once D interacts with him anything is on the table and it is impossible to say what happens. Whether his wife dies is unknown
 * Electro exists
 * Sandman exists
 * Rhino exists
 * Chthon's Juggernaut exists
 * Eddie Brock exists as a lousy reporter and eventually a SWAT team member
 * D will take Eddie's symbiote and absorb it after experimenting on it
+* The symbiote comes from space
+* D interacts with a symbiote soon, before college (ages 14 to 18)
+* Symbiotes reflect something about the mind of the person they pair with and amplify it. Their intelligence comes from the host's mind
+* A symbiote that infiltrates D's mind inadvertently unlocks his memories and capacity (a thousand lifetimes of willpower and self control). That kills the symbiote's mind and essentially turns it into a vegetable that D absorbs
 * Kingpin, Kraven and Mysterio can show up when it makes sense
 * Kingpin, Punisher and Daredevil probably stick to Hell's Kitchen
 * Scorpion, Hobgoblin, Chameleon and Tombstone exist
@@ -72,33 +84,45 @@ World
 * Raimi's version of Spider-Man
 * No Morlun or totems
 * Super spiders exist
+* The super spider that bit Gwen is from Oscorp
+* Note: the spider could have been made by Peter's father or Cindy
+* Gwen is bitten right before college on the senior trip to Oscorp
+* Super spider venom is a multiplier on the person's own baseline. Gwen gets a single full dose (strength x50) and D gets weeks of controlled doses totaling about 300% efficacy. See D-Story-Spider-Abilities.txt
 * Cindy Moon is downplayed for now (idea: scientist turned villain like the Green Goblin)
 
 Gwen
 
 * A different version of Gwen who doesn't change dimensions
 * Has some of her memories and character growth
+* Gwen's visual progression from 6 to 21 follows the character sheet (details in Approved-Suggestions-and-Universal-Details.txt)
+* Character sheets for Gwen, Peter and Harry are to be taken with a grain of salt
+* Her guilt is that she thinks she killed Peter
+* Later her multiversal memories confuse her further, for character development
 * Loses her powers after Cindy gives her a McGuffin neutralizer that makes her unable to get spider powers again
 * Has to rely on symbiote D
 * As a symbiote, D appreciates adult Gwen's body
 * It's rude to Peter. Peter is fine since he loved Mary Jane after she ditched him for every famous nobody a thousand times
-* Peter likely won't know
-* Unknown if Gwen and Peter like each other
-* Gwen's visual progression from 6 to 21 follows the character sheet (details in D-Story-Writing-Reference.txt)
-* Character sheets for Gwen, Peter and Harry are to be taken with a grain of salt
+* Peter tries to help when Gwen loses her powers and is desperate, but Cindy's serum blocks it
+* Instead of technology, D's symbiote gives Gwen the powers she desires
+* Peter learns about the bond and understands it. The symbiote is basically a clone of D and more realistically completely connected to D
+* Gwen and Peter get together, as in The Amazing Spider-Man. Peter is an understanding guy
+* D appreciates Gwen's thankfulness and her body but quickly gets over it. Peter truly loves Gwen and D steps back
+* Not really a thruple: it is Gwen and Peter as the couple, with D as a third wheel only when he chooses and only in the beginning
 
 Green Goblin and the Osborns
 
 * Norman is like the Raimi version
+* His madness happens after Peter works for Curt and the Lizard arc
 * Uncle Ben gives Peter the talk after Lizard Peter beats guys in the wrestling cage
 * Norman will fight whoever (Peter, Gwen, D or whoever) and nearly kill himself but survive
 * Maybe still have the killing of the shareholders and taking over the company
 * Harry Osborn will learn that D kept Norman alive and learn about his father's insanity
 * Harry takes on the mantle
-* With the trio's help, Harry perfects the serum and cures his own genetic curse (backstory to be decided)
+* With the trio's help, Harry perfects the serum and cures his own genetic curse
 * The four of them do their own hero stuff
 * Idea: D and Peter lead a subdivision of Oscorp after the takeover, Oscorp's deep science division the way Hydra was Hitler's deep science division in the MCU
 * Peter Parker is on track to become the Lizard
+* The Lizard arc is finished before 2008
 * Peter will be saved and eventually become a hero after his near death
 * Assuming she killed him, Gwen goes on her character arc
 * Gwen will also be saved by D

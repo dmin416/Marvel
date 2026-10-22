@@ -1,5 +1,7 @@
 D Story: Writing Reference
 
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
 Status: planning ideas only. Nothing here is set. The only story canon is D-Story-So-Far.txt, where D is fourteen and has just finished lunch at a New York children's home.
 
 Premise
@@ -7,6 +9,7 @@ Premise
 * D is a Christian who lived a good life. God allows him to experience the stories he loves: Marvel, DC, zombie worlds, anime, Avatar, Fallout, Cyberpunk and anywhere else he wants.
 * He carries experience from countless multiverses, many traveled more than once.
 * He gains powers and items along the way and can choose to keep his powers or start fresh in each world.
+* In this world he starts as a normal kid with most of his memories sealed off.
 * He likes helping people and helps them when he can.
 * The only people with good souls are the people who live with him.
 
@@ -18,7 +21,11 @@ This World
 * There are no massive world-ending threats.
 * The Fantastic Four and Doom feud in the background, like the 2005 movie.
 * Kingpin, Punisher and Daredevil mostly stay in Hell's Kitchen.
-* Super spiders exist. There are no Morlun or totems, and no Miles Morales.
+* Super spiders exist and come from Oscorp (could have been made by Peter's father or Cindy). There are no Morlun or totems, and no Miles Morales.
+* The symbiote comes from space.
+* D interacts with a symbiote soon, before college (ages 14 to 18).
+* Symbiotes reflect something about the mind of the person they pair with and amplify it. Their intelligence comes from the host's mind
+* A symbiote that infiltrates D's mind inadvertently unlocks his memories and capacity (a thousand lifetimes of willpower and self control). That kills the symbiote's mind and essentially turns it into a vegetable that D absorbs
 
 Story Order
 
@@ -32,32 +39,42 @@ Take the character sheet looks with a grain of salt. They are loose visual refer
 D
 
 * Played so far: fourteen and living in a New York children's home; agreed to a Saturday outing with the home's group to help set up tables at F.E.A.S.T.
+* Normal kid at the start with most of his memories sealed off
+* Trains to survive the world
 * Orphan who meets Peter and Aunt May in the F.E.A.S.T. meal line as a kid on his own (the meeting can grow out of the children's home outing)
 * May gives him an extra plate and invites him to Sunday dinner; Ben and Peter treat him like family
 * Same age as Peter, Harry, Gwen and Lorna, and goes to school with them
-* In college with his powers when Tony is abducted in spring 2008
+* Finishes college right before 2008 and has his powers when Tony is abducted in spring 2008
 * Runs a delivery business: a neutral courier for heroes and villains alike and a cover for intel, run secretly or publicly just for fun. He has no one villains can threaten him with.
-* Later takes Eddie's symbiote, experiments on it and absorbs it
+* Later takes Eddie's symbiote, a space-born symbiote, experiments on it and absorbs it
 
 Peter Parker
 
 * Raimi-style Peter, but on the Lizard path instead of getting spider powers
+* A weak nerd who does not train
+* The Lizard arc is finished before 2008
 * Lizard Peter beats guys in the wrestling cage; Uncle Ben gives him the talk
 * Becomes the Lizard, nearly dies and is saved by D
 * Becomes a hero afterward
 * Gets together with Gwen as a crime-fighting duo
-* Likely never learns about Gwen's symbiote bond with D
+* Learns about Gwen's symbiote bond with D and understands it: the symbiote is basically a clone of D and completely connected to D
+* Tries to help when Gwen loses her powers, but Cindy's serum blocks it
 * Look: messy brown hair, glasses and blue-gray eyes; hoodies, jeans and sneakers through his teens, then a flannel at 20 and a dark jacket with boots at 21
 * Full breakdown in Approved-Suggestions-and-Universal-Details.txt
 
 Gwen Stacy
 
 * A version who never changes dimensions but has some of her memories and character growth
-* Bitten by a super spider in school and gains her powers
-* Fights Lizard Peter and believes she killed him, which starts her character arc
+* A police captain's daughter who takes self defense but does not lift weights
+* Bitten by a super spider from Oscorp right before college on the senior trip to Oscorp and gains her powers (the spider could have been made by Peter's father or Cindy)
+* Fights Lizard Peter and believes she killed him; the guilt starts her character arc
+* Later her multiversal memories confuse her further, adding to the arc
 * D also saves her (situation TBD)
 * Cindy Moon's neutralizer permanently takes her spider powers
 * As an adult, relies on symbiote D in a managed bond
+* D's symbiote gives her the powers she desires instead of technology
+* D appreciates her thankfulness and her body but quickly gets over it and steps back, since Peter truly loves her
+* Gets together with Peter. Not really a thruple: D is a third wheel only when he chooses and only in the beginning
 * Look: big blue eyes, a small gap between her front teeth and dirty blonde hair that gets blonder and edgier with age
 * 6 to 8: playful and childlike in bright colors, tees and shorts
 * 10 to 12: finding her style and growing independent in blue hoodies and striped leggings
@@ -69,9 +86,10 @@ Gwen Stacy
 Harry Osborn
 
 * Rich kid at their public high school who shields Peter from bullies while Peter tutors him
+* Trains enough to attract women
 * Learns D kept Norman alive and learns about his father's insanity
 * Takes on the Goblin mantle
-* Peter, Gwen and D help him perfect the serum and cure his genetic curse (backstory TBD)
+* Peter, Gwen and D help him perfect the serum and cure his genetic curse
 * Joins the other three as a hero team
 * Look: curly brown hair and green eyes; sweater vests, ties and blazers in his teens, darker shirts and blazers at 19 to 20 and a long dark coat at 21
 * Full breakdown in Approved-Suggestions-and-Universal-Details.txt
@@ -91,6 +109,7 @@ Flash Thompson
 Norman Osborn
 
 * Raimi-style: the enhancer test, then possibly killing the shareholders and taking over Oscorp
+* His madness happens after Peter works for Curt and the Lizard arc
 * Fights whoever and nearly kills himself; D keeps him alive
 
 Supporting
@@ -108,60 +127,11 @@ Villains
 * After the Battle of New York: Vulture
 * Allies: Cloak and Dagger
 * Most of Spider-Man's villains exist in one form or another.
-
-Approved Suggestions
-
-* Salvage contract: D's company wins the Chitauri salvage hauling contract from Damage Control (or Oscorp). Toomes loses it, which makes D the reason Vulture exists.
-* Baxter Building runs: D's deliveries there are how the story checks in on the Fantastic Four and Doom.
-* Stark in Afghanistan: D delivers something to Stark in Afghanistan for Pepper.
-* Oscorp division (idea): D and Peter lead Oscorp's deep science division after the takeover, the way Hydra was Hitler's deep science division.
-
-Timeline
-
-Pre-2008: School
-
-* D at the children's home (played), then F.E.A.S.T. and Sunday dinners
-* All five at the same school; Flash bullies; Gwen gets her powers
-
-2007 to 2009: College
-
-* Courier business starts
-* Spring 2008: Tony's abduction and the Afghanistan delivery
-* Peter's Lizard arc and Gwen's fight with him
-* Norman's arc; D saves Peter, Norman and Gwen
-
-2009 to 2011: Harry and Oscorp
-
-* Harry learns the truth and takes the mantle
-* The four start doing hero work together
-* 2010: Hulk fights Abomination in Harlem, close to Tombstone's turf
-
-May 2012: Battle of New York
-
-* The salvage contract creates Vulture
-* Chitauri salvage fuels Vulture, Shocker and street-level weapons
-
-2012 to 2014: Street-Level Era
-
-* Rotating villains and the Mister Negative arc, with Cloak and Dagger
-* Hobgoblin rises once Norman is out of play
-* Flash comes around
-* 2014: Hydra is exposed inside S.H.I.E.L.D. and its collapse leaves weapons on the street
-
-2014 to 2016: Symbiote and Cindy
-
-* Eddie's symbiote goes to D
-* Gwen is depowered and bonds with symbiote D
-
-2016 to 2023: Later Years
-
-* 2016: the Sokovia Accords put pressure on D, Gwen, Peter and Harry
-* Gwen and Peter get together
-* 2018: the Snap decides who among the group vanishes and who stays behind
-* 2023: the return brings five years of change in the city
+* Otto Octavius: his existence begins the same way as in the original trilogy (fusion reactor experiment, inhibitor chip, wife Rosalie). Once D interacts with him anything is on the table. Whether his wife dies is unknown.
 
 Writing Approach
 
+* The story plays like a game. Files record starting points and plans, and outcomes are not fixed because it is hard to say how things will turn out.
 * Daily life is the backbone; hero work is the interruption.
 * Anchor locations: Parker Sunday dinners, school, Lorna's diner, the F.E.A.S.T. kitchen, Gwen's band practice and Peter's lab corner.
 * D as the lens: courier routes and dinners give reasons to drop into everyone's routines.
@@ -174,22 +144,31 @@ Writing Approach
 
 Open Questions
 
-* D's power level and limits, and how he hides them
+* D's power level and limits once his memories return, and how he hides them (venom model in D-Story-Spider-Abilities.txt)
 * Whether D stays at the children's home or is fostered or adopted, and how he makes money
 * Who makes up D's household
 * Uncle Ben's fate
-* Harry's curse backstory
-* Where the symbiote comes from
 * Whether mutants and Magneto exist
 * How D handles the Snap
+* What happens to Otto and his wife once D interacts with him (impossible to say)
+* Whether the group ever goes public (masked heroes for now; see Public Heroes in D-Story-Unapproved-Ideas.txt)
+* Hobgoblin's origin and identity (figure out later; see the facility idea in D-Story-Unapproved-Ideas.txt)
 
 Related Files
 
 * D-Story-So-Far.txt: the only story canon, everything already played
-* Fiction-Writing-Rules.txt: binding narration and character-control rules
 * D-Story-Life-Timeline.txt: detailed D, Peter and Harry life timeline ideas with ages
-* Sexual-Kinks-of-Superhumans.txt: adult-only fictional setting mechanics
 * Story-Outline.txt: everything as stated
-* Approved-Suggestions-and-Universal-Details.txt: approved suggestions and canon reference
-* D-Story-Rough-Timeline.txt: full rough timeline
-* D-Story-Unapproved-Ideas.txt: unapproved ideas
+* Approved-Suggestions-and-Universal-Details.txt: approved suggestions (delivery business) and inspiration reference
+* D-Story-Rough-Timeline.txt: full rough timeline including the MCU tie-ins
+* D-Story-Unapproved-Ideas.txt: unapproved ideas including the Oscorp deep science division
+* Fiction-Writing-Rules.txt: rules for writing the story
+* Sexual-Kinks-of-Superhumans.txt: superhuman durability and sensation rules
+* D-Story-Spider-Abilities.txt: venom multiplier model and canon feat check
+* D-Story-Super-Spider-Gains.txt: earlier venom efficacy brainstorm (superseded by the abilities file)
+* D-Story-Spider-Ability-Scale.txt: real spider records and scale
+* D-Story-Chimera-Spider-Scale.txt: chimera spider donor traits and scale
+* D-Story-Strength-Over-Time.txt: strength from 14 to 35
+* D-Story-Speed-and-Skill-Over-Time.txt: speed and skill from 14 to 35
+* D-Story-Cast-Physical-Baselines.txt: Peter, Gwen, Harry and D from 14 to 35
+* D-Story-Symbiotes.txt: symbiote lore and nature

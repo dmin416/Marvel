@@ -1,0 +1,125 @@
+D Story: Spider Abilities
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: design brainstorm only. Nothing here is approved. This file supersedes the efficacy numbers in D-Story-Super-Spider-Gains.txt.
+
+The Multiplier Model
+
+* Super spider venom is a multiplier applied to a person's own baseline
+* A single full dose (Gwen) gives multiplier M1 for each trait
+* Efficacy is the effect size of the venom. A single dose is 100%
+* The effect is M1 minus 1. At efficacy E the multiplier is 1 + E x (M1 - 1)
+* D at 300% efficacy: M = 1 + 3 x (M1 - 1)
+* A higher baseline means a higher absolute result. Venom does not level people out
+* Gain in absolute terms equals baseline x (M - 1). The stronger person gains the most
+
+Trait Multipliers
+
+* Strength and lift: single dose x50 and D at 300% x148 (chosen middle option between grounded x10 and comic Class 10 parity at x200)
+* Jump height: single dose x10 and D at 300% x28
+* Running speed: single dose x2 and D at 300% x4
+  * Speed scales far less than strength because air drag grows with the square of speed
+* Reaction speed (time divided by M): single dose x3 and D at 300% x7
+* Durability and impact tolerance: single dose x3 and D at 300% x7
+* Healing rate: single dose x5 and D at 300% x13
+* Stamina and recovery: single dose x5 and D at 300% x13
+
+Baselines Used
+
+* Verified
+  * Untrained adult man deadlift is about 70 kg and an untrained adult woman about 39 kg (strength standards summaries)
+  * Deadlift record: 501 kg by Hafthor Bjornsson in 2020 (with a suit) and 505 kg in 2025. Eddie Hall's 500 kg is held in a separate category
+  * Raw bench press record: 355 kg by Julius Maddox in 2021
+  * Usain Bolt's top speed was about 12.4 m/s (about 44.7 km/h). A UC Davis analysis gives 12.28 m/s
+  * Bolt's reaction time to the gun was 0.146 s to 0.17 s depending on the source
+* Design estimates (not sourced)
+  * Peter is a weak nerd and lifts 50 kg
+  * Gwen is a police captain's daughter who takes self defense but does not lift weights. She sits at the 39 kg untrained figure and lifts 40 kg
+  * Harry trains enough to attract women and lifts 100 kg
+  * D lifts 140 kg as a larger fit man
+  * Elite tier (Daredevil or Punisher) lifts 250 kg
+  * Sprint speeds, reaction times and vertical jumps for the non-record people
+  * Reaction times for ordinary people are estimates and need a source before use
+
+Results
+
+Baselines
+* Peter (weak nerd): lift 50 kg | sprint 5.5 m/s (20 km/h) | reaction 260 ms | vertical jump 0.3 m
+* Gwen (small woman with self defense training): lift 40 kg | sprint 6.0 m/s (22 km/h) | reaction 240 ms | vertical jump 0.3 m
+* Harry (trains enough to get the ladies): lift 100 kg | sprint 7.0 m/s (25 km/h) | reaction 240 ms | vertical jump 0.45 m
+* D (larger fit man): lift 140 kg | sprint 7.5 m/s (27 km/h) | reaction 220 ms | vertical jump 0.5 m
+* Elite (Daredevil/Punisher tier): lift 250 kg | sprint 9.0 m/s (32 km/h) | reaction 180 ms | vertical jump 0.75 m
+* Peak human (record level): lift 505 kg | sprint 12.4 m/s (45 km/h) | reaction 150 ms | vertical jump 1.0 m
+
+Single full dose
+* Peter (weak nerd): lift 2,500 kg | sprint 11.0 m/s (40 km/h) | reaction 87 ms | jump 3.0 m
+* Gwen (small woman): lift 2,000 kg | sprint 12.0 m/s (43 km/h) | reaction 80 ms | jump 3.0 m
+* Elite (Daredevil/Punisher tier): lift 12,500 kg | sprint 18.0 m/s (65 km/h) | reaction 60 ms | jump 7.5 m
+* Peak human (record level): lift 25,250 kg | sprint 24.8 m/s (89 km/h) | reaction 50 ms | jump 10.0 m
+
+D protocol 300% efficacy
+* Peter (weak nerd): lift 7,400 kg | sprint 22.0 m/s (79 km/h) | reaction 37 ms | jump 8.4 m
+* D (larger fit man): lift 20,720 kg | sprint 30.0 m/s (108 km/h) | reaction 31 ms | jump 14.0 m
+* Elite (Daredevil/Punisher tier): lift 37,000 kg | sprint 36.0 m/s (130 km/h) | reaction 26 ms | jump 21.0 m
+* Peak human (record level): lift 74,740 kg | sprint 49.6 m/s (179 km/h) | reaction 21 ms | jump 28.0 m
+
+Comparisons
+
+* D at 300% against Gwen at a single dose
+  * Multiplier ratio: strength 3.0x and jump 2.8x and speed 2x and reaction 2.3x
+  * Result ratio: lift 10.4x and jump 4.7x and sprint 2.5x and reaction 2.6x quicker
+  * About half of the lift gap is D's higher baseline. The rest is his higher efficacy
+* Peak human against Peter
+  * Baseline: lift 10.1x and sprint 2.3x and reaction 1.7x quicker and jump 3.3x
+  * After any equal dose the ratios stay the same for lift because the venom is a pure multiplier
+  * Single-dose peak human lifts 25,250 kg against 2,500 kg for Peter
+  * Peak human gains 24,745 kg from one dose and Peter gains 2,450 kg
+* Peak human on a single dose against D at 300%
+  * Lift: peak human is 1.2x stronger (25,250 kg against 20,720 kg)
+  * Sprint: D is faster (30.0 m/s against 24.8 m/s) because speed scales so little
+* Peak human at 300% efficacy lifts about 75 tonnes and sprints near 50 m/s. That is the extreme ceiling for this model
+
+Notes for the Story
+
+* Gwen's single dose puts her at about 2 tonnes: far above every human record and enough to lift a car while staying a small woman
+* An empty garbage truck (about 14 to 16 tonnes) is out of reach for Gwen but within D at 300% (about 20.7 tonnes). A loaded truck (about 24 to 28 tonnes) is beyond both
+* D's protocol is the best case for a body of his size. A stronger person on the same protocol would exceed him
+* The ceiling from the earlier spider files still applies. About 300% is the safe limit before mutation
+* Cost still applies: calories, sleep and recovery time scale with the multiplier
+
+Open Questions
+
+* Whether efficacy can stack past 300% for someone with a higher baseline
+* Whether the multiplier should apply to cross-section strength or to muscle quality only
+* Whether durability keeps pace with strength so users do not injure themselves
+* Gwen is bitten right before college at 18 so her baseline lift is 39 kg and not 40 kg. The difference is small
+* The age at which D takes his dosing protocol. The multiplier acts on his baseline at that age: a protocol at 18 (75 kg lift) gives about 11,100 kg at 300% and one at 22 (140 kg lift) gives about 20,720 kg
+
+Canon Feat Check
+
+* Comics lifting rating
+  * Classic Marvel handbook rates Spider-Man as Class 10 or about 10 tons
+  * Later handbook text cited at about 20 tons under optimal conditions (secondary source)
+  * Single stories show 50 to 200 plus tons when he is pushed to the limit. These are not day-to-day (fan summaries and unverified)
+  * Amazing Spider-Man #33 (1966): lifts giant machinery off himself while trapped
+  * Amazing Spider-Man #424 (1997): lifts a subway car
+  * Spider-Man #98 (1998): lifts part of the Daily Bugle building
+* Garbage truck
+  * No source found for a specific Spider-Man garbage truck lift. The feat could not be confirmed
+  * Truck weights if used as a reference: about 14 to 16 tonnes empty (31,000 to 36,000 lb) and about 24 to 28 tonnes loaded (52,500 to 62,000 lb), per municipal specs. A Barrie, Ontario recycling truck lists 15,460 kg empty and 26,870 kg loaded
+* Train
+  * Spider-Man 2 (2004): he stops a runaway elevated train by anchoring with webs and straining against its momentum
+  * No official tonnage for the film train exists in the sources found
+  * Modern NYC subway car: about 38.6 tonnes empty and 55.3 tonnes full (R160B, secondhand from a forum quoting Wikipedia). An older 60 foot car weighed 84,300 lb (about 38 tonnes). A 1911 ten-car train was about 350 tons
+  * Stopping a train depends on the force over time and not only on lift strength. The webs share the load
+
+Story Model vs Canon
+
+* Chosen: strength x50 for a single dose. Gwen lifts about 2 tonnes and D at 300% lifts about 20.7 tonnes
+* A 10 ton lift from a 50 kg baseline needs a multiplier of x200 and from Gwen's 40 kg baseline about x250
+* A loaded garbage truck of about 27 tonnes from a 50 kg baseline needs about x540
+* Options considered
+  * Keep the grounded model: strength x10 gives a Gwen who is strong but cannot lift a car
+  * Raise the strength multiplier to about x200 for Class 10 parity: Gwen about 8 tonnes and D at 300% (1 + 3 x 199 = x598) about 84 tonnes from a 140 kg baseline
+  * Pick a middle value such as x50: Gwen about 2 tonnes and D at 300% (x148) about 20.7 tonnes

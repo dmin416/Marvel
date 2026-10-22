@@ -1,0 +1,80 @@
+D Story: Speed and Skill Over Time
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: design brainstorm only. Nothing here is approved. Companion to D-Story-Strength-Over-Time.txt.
+
+Premise
+
+* D is an undernourished 14 year old who starts training at 18
+* Same two tracks as the strength file: untrained and trained from 18
+* D trains to survive the world. Peter stays a weak nerd and Gwen takes self defense without weights and Harry trains just enough to attract women
+* Trained values at age 22 match D's baseline in D-Story-Spider-Abilities.txt: sprint 7.5 m/s and vertical jump 0.5 m and reaction 220 ms
+* Processing speed and working memory are indexes that peak at 100
+* Task skill is an index of how skilled D is at practiced tasks such as driving and tools and delivery work. It rises with practice
+
+Sourced Anchors
+
+* Maximal sprint speed develops around and after peak height velocity. Step frequency drives speed before it and step length matters more after it (studies of boys aged 11 to 15 and a 2017 study of 375 boys)
+* Countermovement jump height peaks at about 18 in males and peak jump power at about 21 (Finnish study of 30,217 people)
+* Jump height rises about 5.6 percent per year in males from 11 to 15
+* Boys' median vertical jump rises from about 24 to 38 cm across ages 9 to 17.9 (Colombian study)
+* Processing speed peaks earliest at about 18 to 19 and declines gradually (Hartshorne and Germine 2015)
+* Working memory peaks in the late 20s to early 30s (same study)
+* Simple reaction time slowed about 0.55 ms per year across ages 18 to 65 in one study. Another found simple reaction time changes little until about 50 while choice reaction time slows throughout adulthood
+* Practice drives task skill. No source gives a curve for it so the skill index is a design value
+* Broad athletic peak is typically 20 to 30 years and varies by sport
+
+Development 14 to 35
+
+* Age 14: sprint 5.0 m/s untrained and 5.0 m/s trained | vertical jump 0.24 m untrained and 0.24 m trained | reaction 290 ms untrained and 290 ms trained | processing speed 88 | working memory 70 | task skill 20
+* Age 15: sprint 5.4 m/s untrained and 5.4 m/s trained | vertical jump 0.28 m untrained and 0.28 m trained | reaction 280 ms untrained and 280 ms trained | processing speed 91 | working memory 72 | task skill 25
+* Age 16: sprint 5.9 m/s untrained and 5.9 m/s trained | vertical jump 0.32 m untrained and 0.32 m trained | reaction 270 ms untrained and 270 ms trained | processing speed 94 | working memory 74 | task skill 32
+* Age 17: sprint 6.3 m/s untrained and 6.3 m/s trained | vertical jump 0.35 m untrained and 0.35 m trained | reaction 262 ms untrained and 262 ms trained | processing speed 97 | working memory 76 | task skill 40
+* Age 18: sprint 6.6 m/s untrained and 6.7 m/s trained | vertical jump 0.37 m untrained and 0.37 m trained | reaction 255 ms untrained and 255 ms trained | processing speed 99 | working memory 78 | task skill 48
+* Age 19: sprint 6.7 m/s untrained and 7.0 m/s trained | vertical jump 0.37 m untrained and 0.42 m trained | reaction 252 ms untrained and 245 ms trained | processing speed 100 | working memory 79 | task skill 56
+* Age 20: sprint 6.8 m/s untrained and 7.3 m/s trained | vertical jump 0.37 m untrained and 0.46 m trained | reaction 250 ms untrained and 235 ms trained | processing speed 99 | working memory 81 | task skill 63
+* Age 21: sprint 6.8 m/s untrained and 7.4 m/s trained | vertical jump 0.37 m untrained and 0.48 m trained | reaction 250 ms untrained and 227 ms trained | processing speed 99 | working memory 83 | task skill 69
+* Age 22: sprint 6.8 m/s untrained and 7.5 m/s trained | vertical jump 0.36 m untrained and 0.50 m trained | reaction 250 ms untrained and 220 ms trained | processing speed 98 | working memory 85 | task skill 74
+* Age 23: sprint 6.8 m/s untrained and 7.6 m/s trained | vertical jump 0.36 m untrained and 0.51 m trained | reaction 250 ms untrained and 218 ms trained | processing speed 98 | working memory 87 | task skill 78
+* Age 24: sprint 6.8 m/s untrained and 7.7 m/s trained | vertical jump 0.36 m untrained and 0.52 m trained | reaction 250 ms untrained and 216 ms trained | processing speed 97 | working memory 89 | task skill 82
+* Age 25: sprint 6.8 m/s untrained and 7.8 m/s trained | vertical jump 0.35 m untrained and 0.52 m trained | reaction 250 ms untrained and 215 ms trained | processing speed 96 | working memory 91 | task skill 85
+* Age 26: sprint 6.8 m/s untrained and 7.8 m/s trained | vertical jump 0.35 m untrained and 0.52 m trained | reaction 250 ms untrained and 215 ms trained | processing speed 96 | working memory 92 | task skill 87
+* Age 27: sprint 6.8 m/s untrained and 7.8 m/s trained | vertical jump 0.35 m untrained and 0.52 m trained | reaction 250 ms untrained and 215 ms trained | processing speed 95 | working memory 94 | task skill 89
+* Age 28: sprint 6.8 m/s untrained and 7.8 m/s trained | vertical jump 0.35 m untrained and 0.51 m trained | reaction 251 ms untrained and 215 ms trained | processing speed 95 | working memory 96 | task skill 91
+* Age 29: sprint 6.8 m/s untrained and 7.8 m/s trained | vertical jump 0.34 m untrained and 0.51 m trained | reaction 251 ms untrained and 215 ms trained | processing speed 94 | working memory 98 | task skill 92
+* Age 30: sprint 6.7 m/s untrained and 7.7 m/s trained | vertical jump 0.34 m untrained and 0.50 m trained | reaction 252 ms untrained and 216 ms trained | processing speed 93 | working memory 100 | task skill 93
+* Age 31: sprint 6.7 m/s untrained and 7.7 m/s trained | vertical jump 0.34 m untrained and 0.49 m trained | reaction 252 ms untrained and 216 ms trained | processing speed 93 | working memory 100 | task skill 94
+* Age 32: sprint 6.6 m/s untrained and 7.6 m/s trained | vertical jump 0.33 m untrained and 0.48 m trained | reaction 253 ms untrained and 217 ms trained | processing speed 92 | working memory 99 | task skill 94
+* Age 33: sprint 6.6 m/s untrained and 7.5 m/s trained | vertical jump 0.33 m untrained and 0.47 m trained | reaction 254 ms untrained and 218 ms trained | processing speed 92 | working memory 98 | task skill 94
+* Age 34: sprint 6.5 m/s untrained and 7.4 m/s trained | vertical jump 0.32 m untrained and 0.46 m trained | reaction 254 ms untrained and 218 ms trained | processing speed 91 | working memory 98 | task skill 94
+* Age 35: sprint 6.5 m/s untrained and 7.3 m/s trained | vertical jump 0.32 m untrained and 0.45 m trained | reaction 255 ms untrained and 219 ms trained | processing speed 90 | working memory 98 | task skill 93
+
+Key Points
+
+* Sprint speed
+  * Untrained peaks at 6.8 m/s from about 20 to 29 and falls to 6.5 m/s by 35
+  * Trained peaks at 7.8 m/s from 25 to 29 and falls to 7.3 m/s by 35
+  * Biggest gains at 14 to 18 as the body grows and then at 18 to 22 through training
+* Vertical jump
+  * Untrained peaks at 0.37 m around 18 to 21
+  * Trained peaks at 0.52 m from 24 to 27
+* Reaction time
+  * Untrained reaches about 250 ms by 20 and then slows slowly
+  * Trained reaches 215 ms by 25 through practice and holds until about 28
+* Processing speed peaks at 19 and declines about 0.6 points per year
+* Working memory peaks at 30
+* Task skill rises fastest from 15 to 22 and plateaus at 94 from 31 to 34
+
+Use With the Venom Model
+
+* The venom multiplies the baseline at the age of the dose
+* Reaction time is divided by the reaction multiplier
+* Task skill is not multiplied. Faster bodies need more practice to control
+* The venom speeds the body but not the learning of control. Weeks of controlled dosing give D time to adjust
+
+Open Questions
+
+* Whether task skill carries over from the earlier worlds D remembers
+* How much of D's skill is sealed with his memories
+* Whether the delivery business gives D structured practice before he gets powers

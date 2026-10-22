@@ -1,0 +1,137 @@
+D Story: Cast Physical Baselines
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: design brainstorm only. Nothing here is approved. Values are design estimates before any venom.
+
+Training Lifestyles
+
+* Peter: weak nerd. Does not train
+* Gwen: police captain's daughter. Takes self defense but does not lift weights
+* Harry: trains enough to attract women
+* D: trains to survive the world. Trained track from age 18 (see D-Story-Strength-Over-Time.txt and D-Story-Speed-and-Skill-Over-Time.txt)
+
+Development 14 to 35
+
+Lift is a one rep floor lift in kilograms. Sprint is top speed in m/s. Reaction is simple reaction time in ms. Jump is vertical jump in meters.
+
+Peter (weak nerd)
+* Age 14: lift 30 kg | sprint 5.0 m/s | reaction 290 ms | jump 0.22 m
+* Age 15: lift 35 kg | sprint 5.2 m/s | reaction 282 ms | jump 0.24 m
+* Age 16: lift 40 kg | sprint 5.3 m/s | reaction 275 ms | jump 0.26 m
+* Age 17: lift 44 kg | sprint 5.5 m/s | reaction 268 ms | jump 0.28 m
+* Age 18: lift 49 kg | sprint 5.5 m/s | reaction 260 ms | jump 0.30 m
+* Age 19: lift 50 kg | sprint 5.5 m/s | reaction 260 ms | jump 0.30 m
+* Age 20: lift 50 kg | sprint 5.5 m/s | reaction 260 ms | jump 0.30 m
+* Age 21: lift 50 kg | sprint 5.5 m/s | reaction 260 ms | jump 0.30 m
+* Age 22: lift 50 kg | sprint 5.5 m/s | reaction 260 ms | jump 0.30 m
+* Age 23: lift 50 kg | sprint 5.5 m/s | reaction 260 ms | jump 0.30 m
+* Age 24: lift 50 kg | sprint 5.5 m/s | reaction 260 ms | jump 0.30 m
+* Age 25: lift 50 kg | sprint 5.5 m/s | reaction 260 ms | jump 0.30 m
+* Age 26: lift 50 kg | sprint 5.5 m/s | reaction 260 ms | jump 0.30 m
+* Age 27: lift 50 kg | sprint 5.5 m/s | reaction 260 ms | jump 0.30 m
+* Age 28: lift 50 kg | sprint 5.5 m/s | reaction 260 ms | jump 0.30 m
+* Age 29: lift 50 kg | sprint 5.5 m/s | reaction 261 ms | jump 0.30 m
+* Age 30: lift 50 kg | sprint 5.5 m/s | reaction 261 ms | jump 0.30 m
+* Age 31: lift 50 kg | sprint 5.5 m/s | reaction 262 ms | jump 0.30 m
+* Age 32: lift 49 kg | sprint 5.4 m/s | reaction 262 ms | jump 0.29 m
+* Age 33: lift 48 kg | sprint 5.4 m/s | reaction 263 ms | jump 0.29 m
+* Age 34: lift 48 kg | sprint 5.3 m/s | reaction 263 ms | jump 0.28 m
+* Age 35: lift 47 kg | sprint 5.3 m/s | reaction 264 ms | jump 0.28 m
+
+Gwen (self defense, no weights)
+* Age 14: lift 28 kg | sprint 5.4 m/s | reaction 280 ms | jump 0.24 m
+* Age 15: lift 30 kg | sprint 5.6 m/s | reaction 270 ms | jump 0.26 m
+* Age 16: lift 33 kg | sprint 5.8 m/s | reaction 260 ms | jump 0.27 m
+* Age 17: lift 35 kg | sprint 6.0 m/s | reaction 250 ms | jump 0.28 m
+* Age 18: lift 38 kg | sprint 6.0 m/s | reaction 240 ms | jump 0.30 m
+* Age 19: lift 40 kg | sprint 6.0 m/s | reaction 240 ms | jump 0.30 m
+* Age 20: lift 40 kg | sprint 6.0 m/s | reaction 240 ms | jump 0.30 m
+* Age 21: lift 40 kg | sprint 6.0 m/s | reaction 240 ms | jump 0.30 m
+* Age 22: lift 40 kg | sprint 6.0 m/s | reaction 240 ms | jump 0.30 m
+* Age 23: lift 40 kg | sprint 6.0 m/s | reaction 240 ms | jump 0.30 m
+* Age 24: lift 40 kg | sprint 6.0 m/s | reaction 240 ms | jump 0.30 m
+* Age 25: lift 40 kg | sprint 6.0 m/s | reaction 240 ms | jump 0.30 m
+* Age 26: lift 40 kg | sprint 6.0 m/s | reaction 240 ms | jump 0.30 m
+* Age 27: lift 40 kg | sprint 6.0 m/s | reaction 240 ms | jump 0.30 m
+* Age 28: lift 40 kg | sprint 6.0 m/s | reaction 240 ms | jump 0.30 m
+* Age 29: lift 40 kg | sprint 6.0 m/s | reaction 241 ms | jump 0.30 m
+* Age 30: lift 40 kg | sprint 6.0 m/s | reaction 241 ms | jump 0.30 m
+* Age 31: lift 40 kg | sprint 6.0 m/s | reaction 242 ms | jump 0.30 m
+* Age 32: lift 40 kg | sprint 5.9 m/s | reaction 242 ms | jump 0.29 m
+* Age 33: lift 40 kg | sprint 5.9 m/s | reaction 243 ms | jump 0.29 m
+* Age 34: lift 39 kg | sprint 5.8 m/s | reaction 243 ms | jump 0.28 m
+* Age 35: lift 39 kg | sprint 5.8 m/s | reaction 244 ms | jump 0.28 m
+
+Harry (trains enough for the ladies)
+* Age 14: lift 40 kg | sprint 5.5 m/s | reaction 280 ms | jump 0.28 m
+* Age 15: lift 55 kg | sprint 6.0 m/s | reaction 271 ms | jump 0.32 m
+* Age 16: lift 70 kg | sprint 6.4 m/s | reaction 262 ms | jump 0.37 m
+* Age 17: lift 80 kg | sprint 6.6 m/s | reaction 254 ms | jump 0.41 m
+* Age 18: lift 90 kg | sprint 6.8 m/s | reaction 245 ms | jump 0.43 m
+* Age 19: lift 95 kg | sprint 7.0 m/s | reaction 242 ms | jump 0.45 m
+* Age 20: lift 100 kg | sprint 7.0 m/s | reaction 240 ms | jump 0.45 m
+* Age 21: lift 100 kg | sprint 7.0 m/s | reaction 240 ms | jump 0.45 m
+* Age 22: lift 100 kg | sprint 7.0 m/s | reaction 240 ms | jump 0.45 m
+* Age 23: lift 100 kg | sprint 7.0 m/s | reaction 240 ms | jump 0.45 m
+* Age 24: lift 100 kg | sprint 7.0 m/s | reaction 240 ms | jump 0.45 m
+* Age 25: lift 100 kg | sprint 7.0 m/s | reaction 240 ms | jump 0.45 m
+* Age 26: lift 100 kg | sprint 7.0 m/s | reaction 240 ms | jump 0.45 m
+* Age 27: lift 100 kg | sprint 7.0 m/s | reaction 240 ms | jump 0.45 m
+* Age 28: lift 100 kg | sprint 7.0 m/s | reaction 240 ms | jump 0.45 m
+* Age 29: lift 100 kg | sprint 7.0 m/s | reaction 241 ms | jump 0.45 m
+* Age 30: lift 100 kg | sprint 7.0 m/s | reaction 241 ms | jump 0.45 m
+* Age 31: lift 99 kg | sprint 7.0 m/s | reaction 242 ms | jump 0.44 m
+* Age 32: lift 99 kg | sprint 6.9 m/s | reaction 242 ms | jump 0.44 m
+* Age 33: lift 98 kg | sprint 6.9 m/s | reaction 243 ms | jump 0.43 m
+* Age 34: lift 98 kg | sprint 6.8 m/s | reaction 243 ms | jump 0.43 m
+* Age 35: lift 97 kg | sprint 6.8 m/s | reaction 244 ms | jump 0.42 m
+
+D (trains to survive, from 18)
+* Age 14: lift 25 kg | sprint 5.0 m/s | reaction 290 ms | jump 0.24 m
+* Age 15: lift 33 kg | sprint 5.4 m/s | reaction 280 ms | jump 0.28 m
+* Age 16: lift 45 kg | sprint 5.9 m/s | reaction 270 ms | jump 0.32 m
+* Age 17: lift 60 kg | sprint 6.3 m/s | reaction 262 ms | jump 0.35 m
+* Age 18: lift 75 kg | sprint 6.7 m/s | reaction 255 ms | jump 0.37 m
+* Age 19: lift 100 kg | sprint 7.0 m/s | reaction 245 ms | jump 0.42 m
+* Age 20: lift 120 kg | sprint 7.3 m/s | reaction 235 ms | jump 0.46 m
+* Age 21: lift 132 kg | sprint 7.4 m/s | reaction 227 ms | jump 0.48 m
+* Age 22: lift 140 kg | sprint 7.5 m/s | reaction 220 ms | jump 0.50 m
+* Age 23: lift 146 kg | sprint 7.6 m/s | reaction 218 ms | jump 0.51 m
+* Age 24: lift 151 kg | sprint 7.7 m/s | reaction 216 ms | jump 0.52 m
+* Age 25: lift 155 kg | sprint 7.8 m/s | reaction 215 ms | jump 0.52 m
+* Age 26: lift 158 kg | sprint 7.8 m/s | reaction 215 ms | jump 0.52 m
+* Age 27: lift 160 kg | sprint 7.8 m/s | reaction 215 ms | jump 0.52 m
+* Age 28: lift 162 kg | sprint 7.8 m/s | reaction 215 ms | jump 0.51 m
+* Age 29: lift 163 kg | sprint 7.8 m/s | reaction 215 ms | jump 0.51 m
+* Age 30: lift 164 kg | sprint 7.7 m/s | reaction 216 ms | jump 0.50 m
+* Age 31: lift 164 kg | sprint 7.7 m/s | reaction 216 ms | jump 0.49 m
+* Age 32: lift 163 kg | sprint 7.6 m/s | reaction 217 ms | jump 0.48 m
+* Age 33: lift 162 kg | sprint 7.5 m/s | reaction 218 ms | jump 0.47 m
+* Age 34: lift 160 kg | sprint 7.4 m/s | reaction 218 ms | jump 0.46 m
+* Age 35: lift 158 kg | sprint 7.3 m/s | reaction 219 ms | jump 0.45 m
+
+Baselines at Adult Age
+
+* Peter: lift 50 kg | sprint 5.5 m/s (20 km/h) | reaction 260 ms | vertical jump 0.30 m
+* Gwen: lift 40 kg | sprint 6.0 m/s (22 km/h) | reaction 240 ms | vertical jump 0.30 m
+* Harry: lift 100 kg | sprint 7.0 m/s (25 km/h) | reaction 240 ms | vertical jump 0.45 m
+* D at age 22: lift 140 kg | sprint 7.5 m/s (27 km/h) | reaction 220 ms | vertical jump 0.50 m
+
+Reference Points
+
+* Untrained adult man lifts about 70 kg and an untrained adult woman about 39 kg
+* Deadlift record is 505 kg (2025)
+* Usain Bolt's top speed was about 12.4 m/s
+
+Venom Results
+
+* Gwen at a single dose (strength x50, speed x2, reaction time divided by 3, jump x10): lift 2,000 kg | sprint 12.0 m/s (43 km/h) | reaction 80 ms | jump 3.0 m
+* D at 300% efficacy (strength x148, speed x4, reaction time divided by 7, jump x28): lift 20,720 kg | sprint 30.0 m/s (108 km/h) | reaction 31 ms | jump 14.0 m
+* D lifts 10.4 times what Gwen lifts
+
+Related Files
+
+* D-Story-Spider-Abilities.txt: multiplier model and canon feat check
+* D-Story-Strength-Over-Time.txt: strength from 14 to 35
+* D-Story-Speed-and-Skill-Over-Time.txt: speed and skill from 14 to 35

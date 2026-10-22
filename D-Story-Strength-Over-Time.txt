@@ -1,0 +1,87 @@
+D Story: Strength Over Time
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: design brainstorm only. Nothing here is approved. The curve is a design estimate anchored to the sourced points listed below.
+
+Premise
+
+* D is an undernourished 14 year old orphan who is small for his age
+* Strength is measured as a one rep floor lift (deadlift) in kilograms
+* Two tracks: untrained and trained from age 18 (college)
+* D trains to survive the world. Peter stays a weak nerd and Gwen takes self defense without weights and Harry trains just enough to attract women
+* The trained track reaches 140 kg at age 22 to match D's baseline in D-Story-Spider-Abilities.txt
+
+Sourced Anchors
+
+* Peak strength velocity in boys falls near peak height velocity with a lag of about 0 to 12 months depending on the test (several adolescent studies). Early maturers are stronger than late maturers
+* Grip strength peaks at about 51 kg in men aged 29 to 39 (Dodds 2014, PLoS ONE, 12 British studies). It holds through midlife and then declines
+* Powerlifting performance peaks at about 27.7 to 31.5 years in one study. A larger dataset puts raw male lifters at 28 to 35 with the highest scores around 30 to 32. The decline after that is partly a selection effect
+* Masters powerlifters (men 45 plus) lose about 0.33% of deadlift per year
+* A natural male beginner gains about 20 to 25 lb (9 to 11 kg) of muscle in year one of proper training and nutrition and about 10 to 12 lb, 5 to 6 lb and 2 to 3 lb in years two to four (Lyle McDonald model, sources disagree on size)
+* Untrained adult man deadlift is about 70 kg. Novice men reach about 1.25 to 1.5 times body mass
+* Catch-up in adult height is debated. Childhood stunting is not significantly made up in adolescence (review)
+* No study was found measuring adult muscle strength after adolescent undernutrition. The effect on final strength is a design assumption
+
+Phases
+
+* 14 to 15: underweight and undernourished. Strength is far below normal for age
+* 15 to 17: nutrition improves and strength climbs fastest
+* 17 to 18: peak strength velocity. Steady food drives a large catch-up
+* 18 to 22: college training. Novice gains dominate
+* 22 to 28: intermediate gains slow as the body approaches its ceiling
+* 28 to 32: peak
+* 32 to 35: slow decline begins
+
+Strength Table
+
+* Age 14: body mass 38 kg | untrained lift 25 kg (0.66 x body mass) | trained from 18 lift 25 kg (0.66 x body mass)
+* Age 15: body mass 43 kg | untrained lift 33 kg (0.77 x body mass) | trained from 18 lift 33 kg (0.77 x body mass)
+* Age 16: body mass 50 kg | untrained lift 45 kg (0.90 x body mass) | trained from 18 lift 45 kg (0.90 x body mass)
+* Age 17: body mass 57 kg | untrained lift 60 kg (1.05 x body mass) | trained from 18 lift 60 kg (1.05 x body mass)
+* Age 18: body mass 63 kg | untrained lift 75 kg (1.19 x body mass) | trained from 18 lift 75 kg (1.19 x body mass)
+* Age 19: body mass 67 kg | untrained lift 80 kg (1.19 x body mass) | trained from 18 lift 100 kg (1.49 x body mass)
+* Age 20: body mass 70 kg | untrained lift 84 kg (1.20 x body mass) | trained from 18 lift 120 kg (1.71 x body mass)
+* Age 21: body mass 72 kg | untrained lift 87 kg (1.21 x body mass) | trained from 18 lift 132 kg (1.83 x body mass)
+* Age 22: body mass 74 kg | untrained lift 90 kg (1.22 x body mass) | trained from 18 lift 140 kg (1.89 x body mass)
+* Age 23: body mass 75 kg | untrained lift 92 kg (1.23 x body mass) | trained from 18 lift 146 kg (1.95 x body mass)
+* Age 24: body mass 76 kg | untrained lift 94 kg (1.24 x body mass) | trained from 18 lift 151 kg (1.99 x body mass)
+* Age 25: body mass 77 kg | untrained lift 95 kg (1.23 x body mass) | trained from 18 lift 155 kg (2.01 x body mass)
+* Age 26: body mass 78 kg | untrained lift 96 kg (1.23 x body mass) | trained from 18 lift 158 kg (2.03 x body mass)
+* Age 27: body mass 78 kg | untrained lift 96 kg (1.23 x body mass) | trained from 18 lift 160 kg (2.05 x body mass)
+* Age 28: body mass 79 kg | untrained lift 97 kg (1.23 x body mass) | trained from 18 lift 162 kg (2.05 x body mass)
+* Age 29: body mass 79 kg | untrained lift 97 kg (1.23 x body mass) | trained from 18 lift 163 kg (2.06 x body mass)
+* Age 30: body mass 79 kg | untrained lift 97 kg (1.23 x body mass) | trained from 18 lift 164 kg (2.08 x body mass)
+* Age 31: body mass 79 kg | untrained lift 97 kg (1.23 x body mass) | trained from 18 lift 164 kg (2.08 x body mass)
+* Age 32: body mass 79 kg | untrained lift 96 kg (1.22 x body mass) | trained from 18 lift 163 kg (2.06 x body mass)
+* Age 33: body mass 79 kg | untrained lift 95 kg (1.20 x body mass) | trained from 18 lift 162 kg (2.05 x body mass)
+* Age 34: body mass 79 kg | untrained lift 94 kg (1.19 x body mass) | trained from 18 lift 160 kg (2.03 x body mass)
+* Age 35: body mass 79 kg | untrained lift 93 kg (1.18 x body mass) | trained from 18 lift 158 kg (2.00 x body mass)
+
+Peak
+
+* Untrained: about 97 kg at ages 28 to 31
+* Trained from 18: about 164 kg at ages 30 to 31
+* Trained D passes 90 percent of peak by age 24 and 95 percent by age 26
+* Largest yearly gains on the trained track: +25 kg from 18 to 19 and +20 kg from 19 to 20
+* Largest yearly gains on the untrained track: +15 kg per year from 16 to 18
+* Decline from the peak to 35 is about 3.7 percent on the trained track. This is a design choice. The sourced decline of 0.33 percent per year applies after 45
+
+Effect of Undernutrition
+
+* A strong catch-up in the late teens lets him reach the same adult range
+* Assumed permanent cost: slightly lower adult height than genetics predicted and a slightly lower strength ceiling (about 5 percent)
+* The cost applies to the ceiling and not to how fast he trains once fed
+
+Use With the Venom Model
+
+* The venom multiplies the baseline at the age of the dose
+* A dose at 22 multiplies 140 kg
+* A dose at 30 would multiply the peak of about 164 kg. A later dose multiplies a higher baseline
+* Waiting to peak age improves the result by about 17 percent over a dose at 22
+
+Open Questions
+
+* The age at which D starts getting proper food after age 14
+* Whether his sealed memories include trained muscle memory
+* Whether training before 18 would change the curve
