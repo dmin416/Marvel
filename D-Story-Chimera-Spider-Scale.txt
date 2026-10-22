@@ -24,10 +24,11 @@ Part 1: Real Spider Baselines
 Visual Acuity
 
 * Jumping spider principal eyes resolve about 0.04 degrees (about 2.4 arcminutes), roughly two spots 0.12 mm apart at 20 cm
-* One source gives human acuity as about 0.007 degrees and others give about 1 arcminute (0.017 degrees). Sources disagree so the human comparison is uncertain. Humans see finer detail in either case
+* Comparison from one secondary source (Cabinet Magazine): human acuity 0.007 degrees against 0.04 degrees for a jumping spider, comparable to a domestic cat. Humans resolve about 6 times finer detail. Other sources give human acuity as about 1 arcminute (0.017 degrees)
+* The principal eye works like a Galilean telescope (a long tube with lenses at both ends)
 * The principal eye retina covers only about 0.6 degrees and holds no more than about 1,500 receptors
 * Acuity comes from a small dense region. The secondary eyes cover motion across a wide field
-* No genus-specific figures for Portia or Habronattus were found
+* The Harland and Jackson Portia papers were not reached. No genus-specific acuity figure is confirmed
 
 Danger Sense
 
@@ -42,10 +43,14 @@ Danger Sense
 Organ and Circulatory Power
 
 * Spider legs extend by hydraulic pressure and not by extensor muscles
-* Resting leg pressure reported at about 6.6 kPa with transient pressure up to about 60 kPa in a jump (secondary report. The original paper should be checked)
+* Parry and Brown (Journal of Experimental Biology, vol. 36, 1959) measured leg pressure in intact spiders. A secondary source reports about 6.6 kPa resting (about 50 mmHg) and transient pressure up to about 60 kPa (about 450 mmHg). The paper's own numbers were not reached
+* A later study on Filistata hibernalis found resting leg pressure averaging about 5.1 kPa (about 38 mmHg)
 * For comparison normal human systolic pressure is about 16 kPa (120 mmHg). 60 kPa is about 450 mmHg
 * Hemolymph is a shear-thinning fluid (Goettler 2021, Soft Matter)
-* Spider heart rate is reported at about 35 beats per minute in cool conditions to over 200 when warm (low quality source)
+* Resting heart rate across 18 spider species ranged from 9 to 125 beats per minute (1976 laser study). It depends on body size and foraging energetics
+* A wolf spider in situ averaged 145 beats per minute (1967 thesis). A redback spider measured about 75 beats per minute at rest (2025 study)
+* Hearts of all studied spiders kept pumping during locomotion and maximum rate varied by species
+* No peer-reviewed heart rate was found for jumping spiders or tarantulas
 * No verified link between heart rate and jump force was found
 
 Web Shooting and Silk Speed
@@ -63,7 +68,7 @@ Strength
 * Tangle-web spiders haul prey up to about 50 times their own weight using multiple silk lines in a pulley method (Greco and Pugno, Journal of the Royal Society Interface)
 * Evarcha arcuata adhesion: safety factor about 160 (cited up to 173), a theoretical value
 * Claims of spiders lifting 170 times their weight or 8x to 50x lack primary sources
-* No bite force data was found
+* No measured bite force in newtons was found. Forum figures are speculation
 
 Explosive Power
 
@@ -87,8 +92,10 @@ Electric Eel
 
 * Record discharge: 860 V from Electrophorus voltai (Nature Communications 2019). Previous record 650 V. Large specimens reach about 600 V
 * Peak current about 1 A when short circuited. An estimate and not a precise measurement
-* About 0.15 V per electrocyte. Cells stack in series for voltage and in parallel for current
-* A blog states 5,000 to 6,000 electroplaques and a 2 ms pulse. Unverified
+* About 0.15 V per electrocyte (secondary review). Cells stack in series for voltage and in parallel for current
+* About 2,000 to 5,000 stacked layers produce 300 to 800 V externally (same review). Textbooks say only several thousand
+* Catania measured discharge repetition up to about 400 per second, a 2.5 ms period and about 0.5 ms half-width per peak (secondary report)
+* A 2 ms duration for the full shock appears in one source but conflicts with the pulse measurements. Treat it as unverified
 * 860 V x 1 A = 860 W is a nominal peak product and not delivered power
 * Delivered power estimate: about 63 W (0.24 A) to a human trunk from a 1.8 m eel. An extrapolation from a 40 cm eel
 * The eel is already human sized so its figures need no scaling
@@ -98,7 +105,8 @@ Axolotl
 * Regrows limbs, spinal cord, brain tissue and heart tissue with no scar
 * New neurons wire into surviving circuits
 * Macrophages are required. Removing them blocks regeneration and causes scarring
-* No verified regeneration time was found in this search
+* Juvenile axolotl limb regeneration takes about 40 to 50 days (University of Kentucky salamander resource)
+* No adult axolotl timeline was found. Adults of other Ambystoma species took about 155 to 375 days. Hobbyist reports range from days for toes to months for a limb
 
 Planarian
 
@@ -106,6 +114,8 @@ Planarian
 * About 10,000 cells in that fragment (Montgomery and Coward 1974)
 * Neoblasts are the only dividing cells and include pluripotent stem cells
 * Neoblasts rebuild skin, gut, muscle and brain
+* Head regeneration including a functional brain takes less than a week (Genome Biology 2011)
+* Tail regeneration is partial at 6 to 8 days and complete at 10 to 13 days (protocol paper)
 
 Tardigrade
 
@@ -116,7 +126,10 @@ Tardigrade
 * Temperature range about -272 C to about 149 C for short periods in the dried state
 * Dsup protein cut DNA damage by about 40% in human cells in culture. A cell result and not whole-animal evidence
 * The dried state cuts metabolism to a tiny fraction of normal (secondary source figure of 0.01%)
-* Exposed to space on the 2007 FOTON-M3 mission. Details need checking against the mission literature
+* FOTON-M3 mission (September 2007, Jonsson and colleagues, Current Biology 2008): dried tardigrades in a Biopan-6 module outside the capsule at about 270 km altitude
+* Most survived open-space vacuum and cosmic radiation
+* Some survived solar UV more than 1000 times the Earth surface level. One report gives a dose above 7000 kJ per square meter
+* Survivors reproduced. This was a single mission with dried animals
 
 Part 3: Chimera Design Values
 
@@ -131,7 +144,7 @@ All values below are proposals. Baselines are the real figures above.
 * Organ power
   * Hydraulic assist for limb extension at peak pressure of about 60 kPa at spider scale
   * Proposed: a second hydraulic circuit alongside the heart peaking near 450 mmHg for explosive moves
-  * Heart and lungs scaled for sustained output with fast recovery
+  * Heart and lungs scaled for sustained output with fast recovery. Resting spider heart rates are low (9 to 125 bpm) so a human-scale rate is a free design choice
 * Web shooting
   * Spitting spider is the speed reference at 28.8 m/s peak (about 104 km/h)
   * Proposed: web fired at 25 to 30 m/s with a draw line that spins out near normal silk speed and not faster, since fast silk is weaker
@@ -147,19 +160,22 @@ All values below are proposals. Baselines are the real figures above.
 * Regeneration
   * Axolotl base: scar-free limb, spinal cord, brain and heart repair
   * Planarian stem cells: tiny fragments can rebuild larger structures
-  * Octopus arm timing as the speed anchor: first signs in weeks and full limb in months
+  * Planarian timing as the fast anchor: functional head and brain in under a week
+  * Axolotl timing as the standard anchor: juvenile limb in about 40 to 50 days
+  * Octopus arm timing as the slow anchor: first signs in weeks and full arm tip in about 130 days
   * Cost: heavy calorie burn and sleep during regrowth
 * Camouflage
   * Octopus chromatophore skin changing in about 200 ms
   * Cost: energy use near resting metabolism while active
 * Electric organ
-  * Eel organ at human body scale produces up to about 600 to 860 V at about 1 A for a few milliseconds
+  * Eel organ at human body scale produces up to about 600 to 860 V at about 1 A in pulses of about 0.5 ms half-width fired up to about 400 times per second
   * Proposed: pulses with a delivered shock to a target in the tens of watts range
   * Limit: repeated discharges need recovery
 * Radiation and cold tolerance
   * Tardigrade-derived protection
   * Proposed: strong radiation resistance far above human lethal limits and long survival in extreme cold or vacuum in a dormant state
   * Real tardigrade tolerance depends on a dried dormant state, so the story should make this a shutdown mode
+  * Orbital survival is documented for dried animals only (FOTON-M3, 2007)
 
 Open Questions
 
