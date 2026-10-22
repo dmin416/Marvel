@@ -91,3 +91,31 @@ Open Questions
 * Whether efficacy can stack past 300% for someone with a higher baseline
 * Whether the multiplier should apply to cross-section strength or to muscle quality only
 * Whether durability keeps pace with strength so users do not injure themselves
+
+Canon Feat Check
+
+* Comics lifting rating
+  * Classic Marvel handbook rates Spider-Man as Class 10 or about 10 tons
+  * Later handbook text cited at about 20 tons under optimal conditions (secondary source)
+  * Single stories show 50 to 200 plus tons when he is pushed to the limit. These are not day-to-day (fan summaries and unverified)
+  * Amazing Spider-Man #33 (1966): lifts giant machinery off himself while trapped
+  * Amazing Spider-Man #424 (1997): lifts a subway car
+  * Spider-Man #98 (1998): lifts part of the Daily Bugle building
+* Garbage truck
+  * No source found for a specific Spider-Man garbage truck lift. The feat could not be confirmed
+  * Truck weights if used as a reference: about 14 to 16 tonnes empty (31,000 to 36,000 lb) and about 24 to 28 tonnes loaded (52,500 to 62,000 lb), per municipal specs. A Barrie, Ontario recycling truck lists 15,460 kg empty and 26,870 kg loaded
+* Train
+  * Spider-Man 2 (2004): he stops a runaway elevated train by anchoring with webs and straining against its momentum
+  * No official tonnage for the film train exists in the sources found
+  * Modern NYC subway car: about 38.6 tonnes empty and 55.3 tonnes full (R160B, secondhand from a forum quoting Wikipedia). An older 60 foot car weighed 84,300 lb (about 38 tonnes). A 1911 ten-car train was about 350 tons
+  * Stopping a train depends on the force over time and not only on lift strength. The webs share the load
+
+Story Model vs Canon
+
+* This story's single dose model (strength x10) puts Gwen at about 0.5 tonne and D at 300% at about 3.9 tonnes
+* A 10 ton lift from a 50 kg baseline needs a multiplier of x200
+* A loaded garbage truck of about 27 tonnes from a 50 kg baseline needs about x540
+* Options
+  * Keep the grounded model: strength x10 gives a Gwen who is strong but cannot lift a car
+  * Raise the strength multiplier to about x200 for Class 10 parity: Gwen about 10 tonnes and D at 300% (1 + 3 x 199 = x598) about 84 tonnes from a 140 kg baseline
+  * Pick a middle value such as x50: Gwen about 2.5 tonnes and D at 300% (x148) about 20.7 tonnes
