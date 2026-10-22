@@ -1,0 +1,169 @@
+D Story: Chimera Spider Scale
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: reference and brainstorm only. Nothing here is approved for the story.
+
+Premise
+
+* Norman heavily modified the Oscorp super spider
+* Spider baseline plus octopus regeneration and camouflage
+* Electric eel organ
+* Axolotl or tardigrade or planarian traits
+* This file lists the real scale of each source trait and then proposed design values for the chimera
+
+How to read this file
+
+* Real figures were checked against published sources. Notes flag figures that are theoretical or unverified
+* Design values are my proposals and are not facts
+* Human scale assumes a 1.75 m and 75 kg person
+* Companion file: D-Story-Spider-Ability-Scale.txt covers the base spider records
+
+Part 1: Real Spider Baselines
+
+Visual Acuity
+
+* Jumping spider principal eyes resolve about 0.04 degrees (about 2.4 arcminutes), roughly two spots 0.12 mm apart at 20 cm
+* One source gives human acuity as about 0.007 degrees and others give about 1 arcminute (0.017 degrees). Sources disagree so the human comparison is uncertain. Humans see finer detail in either case
+* The principal eye retina covers only about 0.6 degrees and holds no more than about 1,500 receptors
+* Acuity comes from a small dense region. The secondary eyes cover motion across a wide field
+* No genus-specific figures for Portia or Habronattus were found
+
+Danger Sense
+
+* Wandering spider (Cupiennius salei) has about 100 trichobothria (fine air-flow hairs) on each leg
+* Hair clusters hold 2 to 24 hairs of different lengths to widen the frequency range
+* Modeled response range is about 10 to 950 Hz
+* The spider detects the airflow of a flying blowfly while the fly is still about 38 mm away
+* Behavioral range for a humming fly is about 20 cm in all horizontal directions. A suprathreshold response can occur at 50 to 70 cm
+* Web builders also locate prey and threats from silk vibration
+* Real spiders also sense atmospheric electric fields through the same kind of hairs (Erigone)
+
+Organ and Circulatory Power
+
+* Spider legs extend by hydraulic pressure and not by extensor muscles
+* Resting leg pressure reported at about 6.6 kPa with transient pressure up to about 60 kPa in a jump (secondary report. The original paper should be checked)
+* For comparison normal human systolic pressure is about 16 kPa (120 mmHg). 60 kPa is about 450 mmHg
+* Hemolymph is a shear-thinning fluid (Goettler 2021, Soft Matter)
+* Spider heart rate is reported at about 35 beats per minute in cool conditions to over 200 when warm (low quality source)
+* No verified link between heart rate and jump force was found
+
+Web Shooting and Silk Speed
+
+* Spitting spider (Scytodes thoracica): glue and silk ejected at up to 28.8 m/s with a mean near 10.3 m/s
+* The whole ejection lasts under about 30 to 35 ms
+* The silk contracts 40 to 60% within 0.2 s of ejection and pulls with about 0.1 to 0.3 mN
+* Normal silk spinning: Nephila silk is spun at about 2 to 20 mm/s. Silk spun outside this window is weaker
+* Walking and frame draw speed: about 25 mm/s
+* Forced reeling studies cover 0.1 to 400 mm/s with faster reeling raising stiffness and lowering stretch
+* Spitting is the only fast silk projection with solid speed data
+
+Strength
+
+* Tangle-web spiders haul prey up to about 50 times their own weight using multiple silk lines in a pulley method (Greco and Pugno, Journal of the Royal Society Interface)
+* Evarcha arcuata adhesion: safety factor about 160 (cited up to 173), a theoretical value
+* Claims of spiders lifting 170 times their weight or 8x to 50x lack primary sources
+* No bite force data was found
+
+Explosive Power
+
+* Splendid peacock spider acceleration: 127.8 m/s2 or about 13 g, more than twice the previous jumping spider record
+* Phidippus princeps: takeoff about 0.83 m/s and about 5.24 g
+* Regal jumping spider: up to about 6 body lengths per jump
+* Trap-jaw spider (Zearchaea): mean jaw closure 0.084 ms with peak linear velocity 18.2 m/s
+* Muscle direct power in animals is about 100 to 500 W per kg
+* Catapult systems in insects reach about 160,000 W per kg. Spider jumps use hydraulics and no spider-specific figure was found
+
+Part 2: Donor Traits
+
+Octopus
+
+* Camouflage: 10 to 20 million chromatophore organs plus about a million iridescent cells in the skin
+* Color and pattern change in as little as about 200 ms (from a diving-safety source so treat as approximate)
+* Cost: a fully active chromatophore system uses metabolic energy nearly equal to the resting metabolic rate (2024 study)
+* Arm regeneration: new tips fully regenerated in about 130 days. First signs about 3 weeks. A 10-week figure exists for another species and injury type
+
+Electric Eel
+
+* Record discharge: 860 V from Electrophorus voltai (Nature Communications 2019). Previous record 650 V. Large specimens reach about 600 V
+* Peak current about 1 A when short circuited. An estimate and not a precise measurement
+* About 0.15 V per electrocyte. Cells stack in series for voltage and in parallel for current
+* A blog states 5,000 to 6,000 electroplaques and a 2 ms pulse. Unverified
+* 860 V x 1 A = 860 W is a nominal peak product and not delivered power
+* Delivered power estimate: about 63 W (0.24 A) to a human trunk from a 1.8 m eel. An extrapolation from a 40 cm eel
+* The eel is already human sized so its figures need no scaling
+
+Axolotl
+
+* Regrows limbs, spinal cord, brain tissue and heart tissue with no scar
+* New neurons wire into surviving circuits
+* Macrophages are required. Removing them blocks regeneration and causes scarring
+* No verified regeneration time was found in this search
+
+Planarian
+
+* A fragment as small as 1/279 of the body can regrow a whole worm (Morgan)
+* About 10,000 cells in that fragment (Montgomery and Coward 1974)
+* Neoblasts are the only dividing cells and include pluripotent stem cells
+* Neoblasts rebuild skin, gut, muscle and brain
+
+Tardigrade
+
+* Median lethal radiation dose: about 5,000 Gy gamma and 6,200 Gy heavy ions when hydrated
+* Richtersius coronifer: about 1,000 Gy dried and 5,000 Gy hydrated
+* Milnesium tardigradum: about 5,000 Gy dried and 8,000 Gy hydrated
+* A lethal dose for a human is about 5 to 10 Gy
+* Temperature range about -272 C to about 149 C for short periods in the dried state
+* Dsup protein cut DNA damage by about 40% in human cells in culture. A cell result and not whole-animal evidence
+* The dried state cuts metabolism to a tiny fraction of normal (secondary source figure of 0.01%)
+* Exposed to space on the 2007 FOTON-M3 mission. Details need checking against the mission literature
+
+Part 3: Chimera Design Values
+
+All values below are proposals. Baselines are the real figures above.
+
+* Visual acuity
+  * Spider-style principal eyes at human scale with ogre-faced night sensitivity
+  * Proposed: 3 to 5 times human acuity with a wide motion-sensing field and strong low light vision
+* Danger sense
+  * Trichobothria scaled to human size across the arms and legs plus electric-field sensing
+  * Real spiders sense a fly at 38 mm and act at 20 cm. Proposed human-scale awareness out to about 10 to 20 m for fast incoming objects
+* Organ power
+  * Hydraulic assist for limb extension at peak pressure of about 60 kPa at spider scale
+  * Proposed: a second hydraulic circuit alongside the heart peaking near 450 mmHg for explosive moves
+  * Heart and lungs scaled for sustained output with fast recovery
+* Web shooting
+  * Spitting spider is the speed reference at 28.8 m/s peak (about 104 km/h)
+  * Proposed: web fired at 25 to 30 m/s with a draw line that spins out near normal silk speed and not faster, since fast silk is weaker
+  * Silk toughness of Darwin's bark spider as the line quality target
+* Strength
+  * Prey hauling about 50 times body weight through pulley lines
+  * Adhesion at the theoretical 160 times body weight, though real values are likely lower
+  * Muscle strength is a free design choice because no spider strength record exists
+* Explosive power
+  * Peacock spider acceleration of about 13 g as the launch reference
+  * Trap-jaw strike speed of 18.2 m/s as the burst-strike reference
+  * Hydraulic launch at 6 body lengths gives about 10.5 m per jump
+* Regeneration
+  * Axolotl base: scar-free limb, spinal cord, brain and heart repair
+  * Planarian stem cells: tiny fragments can rebuild larger structures
+  * Octopus arm timing as the speed anchor: first signs in weeks and full limb in months
+  * Cost: heavy calorie burn and sleep during regrowth
+* Camouflage
+  * Octopus chromatophore skin changing in about 200 ms
+  * Cost: energy use near resting metabolism while active
+* Electric organ
+  * Eel organ at human body scale produces up to about 600 to 860 V at about 1 A for a few milliseconds
+  * Proposed: pulses with a delivered shock to a target in the tens of watts range
+  * Limit: repeated discharges need recovery
+* Radiation and cold tolerance
+  * Tardigrade-derived protection
+  * Proposed: strong radiation resistance far above human lethal limits and long survival in extreme cold or vacuum in a dormant state
+  * Real tardigrade tolerance depends on a dried dormant state, so the story should make this a shutdown mode
+
+Open Questions
+
+* Which traits are always on and which are triggered
+* Whether D's micro-dose protocol can carry the eel and tardigrade genes or only the spider ones
+* How Norman hid the extra genes in the spider
+* Calorie cost of running all systems together
