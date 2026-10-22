@@ -157,6 +157,7 @@ Open Questions
 
 Related Files
 
+* D-Story-Fantastic-Four.txt: Fantastic Four and Doom, based on the 2005 movie
 * D-Story-So-Far.txt: the only story canon, everything already played
 * D-Story-Life-Timeline.txt: detailed D, Peter and Harry life timeline ideas with ages
 * Story-Outline.txt: everything as stated

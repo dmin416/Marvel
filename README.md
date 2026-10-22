@@ -25,6 +25,7 @@ The same files live in the claude.ai Project "Marvel". The project uses differen
 | D-Story-Strength-Over-Time.txt | d_story/strength_over_time.md | Sourced strength anchors and older yearly tracks |
 | D-Story-Speed-and-Skill-Over-Time.txt | d_story/speed_and_skill_over_time.md | Speed and skill from 14 to 35 |
 | D-Story-Cast-Physical-Baselines.txt | d_story/cast_physical_baselines.md | Peter, Gwen, Harry and D from 14 to 35 |
+| D-Story-Fantastic-Four.txt | d_story/fantastic_four.md | Fantastic Four and Doom, based on the 2005 movie |
 | Sexual-Kinks-of-Superhumans.txt | d_story/superhuman_physiology.md | Adult-only superhuman setting mechanics |
 
 ## Reference Files
