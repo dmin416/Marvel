@@ -2,18 +2,16 @@ D Story: Monthly Strength
 
 Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
 
-Status: design model. This file is the source for D's base body strength at any month from 14 to 35. It replaces the trained track in D-Story-Strength-Over-Time.txt.
+Status: design model. This file is the source for D's body strength at any month from 14 to 35. It replaces the trained track in D-Story-Strength-Over-Time.txt.
 
 How to Use
 
-* Base lift is D's one rep floor lift (deadlift) in kilograms with his own body and no powers. It is a full maximum effort lift done on purpose
-* Easy lift is 60% of the base lift. D can lift and carry it without strain and repeat it many times
-* Emergency lift is the mother-lifting-a-car-off-her-child lift. It is not a full deadlift. It is a short lift of a few centimeters from his strongest position (knees and hips nearly straight), which is about 1.4 x his floor lift, plus adrenaline on top: x 1.30 at 14, falling to x 1.15 by 22 as training lets him use more of his muscle on purpose
-* Emergency lift = base lift x 1.4 x adrenaline factor
-* What it means for a car: lifting one corner or end of a 1,300 to 1,600 kg car enough to free someone takes roughly 300 to 450 kg. Unpowered D gets close to that only at his adult peak
+* Base lift is the weight D can lift any time without effort, in kilograms, from the floor with his own body
+* Max effort is everything he has on purpose: base lift / 0.6
+* Emergency is the mother-lifting-a-car-off-her-child lift: a short heave of a few centimeters from his strongest position with adrenaline on top. Emergency = max effort x 1.4 x adrenaline (1.30 at 14, easing to 1.15 by 22)
+* Lifting one corner or end of a 1,300 to 1,600 kg car to free someone takes roughly 300 to 450 kg
 * An emergency lift is a burst of a few seconds. It can tear muscle or tendon and leaves him wrecked afterward
-* Powers are a formula on top of the base: venom lift = base lift x multiplier (x50 for a single dose, x148 at 300% efficacy, see D-Story-Spider-Abilities.txt)
-* Find the month, read the lift you need, apply the multiplier. Powers multiply easy and emergency lifts the same way
+* Find the month and read the line
 
 Assumptions
 
@@ -43,293 +41,293 @@ Exercise Phases
 
 Milestones
 
-* Age 14: body mass 38 kg | base lift 25 kg | easy 15 kg | emergency 46 kg
-* Age 15: body mass 44 kg | base lift 43 kg | easy 26 kg | emergency 77 kg
-* Age 16: body mass 51 kg | base lift 66 kg | easy 40 kg | emergency 117 kg
-* Age 17: body mass 58 kg | base lift 91 kg | easy 55 kg | emergency 158 kg
-* Age 18: body mass 64 kg | base lift 113 kg | easy 68 kg | emergency 194 kg
-* Age 19: body mass 68 kg | base lift 135 kg | easy 81 kg | emergency 228 kg
-* Age 20: body mass 71 kg | base lift 150 kg | easy 90 kg | emergency 249 kg
-* Age 21: body mass 73 kg | base lift 160 kg | easy 96 kg | emergency 262 kg
-* Age 22: body mass 75 kg | base lift 168 kg | easy 101 kg | emergency 270 kg
-* Age 23: body mass 76 kg | base lift 173 kg | easy 104 kg | emergency 279 kg
-* Age 24: body mass 77 kg | base lift 177 kg | easy 106 kg | emergency 285 kg
-* Age 25: body mass 78 kg | base lift 179 kg | easy 107 kg | emergency 288 kg
-* Age 26: body mass 79 kg | base lift 180 kg | easy 108 kg | emergency 290 kg
-* Age 27: body mass 79 kg | base lift 180 kg | easy 108 kg | emergency 290 kg
-* Age 28: body mass 80 kg | base lift 180 kg | easy 108 kg | emergency 290 kg
-* Age 29: body mass 80 kg | base lift 180 kg | easy 108 kg | emergency 290 kg
-* Age 30: body mass 80 kg | base lift 180 kg | easy 108 kg | emergency 290 kg
-* Age 31: body mass 80 kg | base lift 180 kg | easy 108 kg | emergency 290 kg
-* Age 32: body mass 80 kg | base lift 179 kg | easy 107 kg | emergency 288 kg
-* Age 33: body mass 80 kg | base lift 178 kg | easy 107 kg | emergency 287 kg
-* Age 34: body mass 80 kg | base lift 177 kg | easy 106 kg | emergency 285 kg
-* Age 35: body mass 80 kg | base lift 176 kg | easy 106 kg | emergency 283 kg
+* Age 14: body mass 38 kg | base lift 25 kg | max effort 42 kg | emergency 76 kg
+* Age 15: body mass 44 kg | base lift 43 kg | max effort 72 kg | emergency 129 kg
+* Age 16: body mass 51 kg | base lift 66 kg | max effort 110 kg | emergency 194 kg
+* Age 17: body mass 58 kg | base lift 91 kg | max effort 152 kg | emergency 264 kg
+* Age 18: body mass 64 kg | base lift 113 kg | max effort 188 kg | emergency 323 kg
+* Age 19: body mass 68 kg | base lift 135 kg | max effort 225 kg | emergency 380 kg
+* Age 20: body mass 71 kg | base lift 150 kg | max effort 250 kg | emergency 416 kg
+* Age 21: body mass 73 kg | base lift 160 kg | max effort 267 kg | emergency 436 kg
+* Age 22: body mass 75 kg | base lift 168 kg | max effort 280 kg | emergency 451 kg
+* Age 23: body mass 76 kg | base lift 173 kg | max effort 288 kg | emergency 464 kg
+* Age 24: body mass 77 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* Age 25: body mass 78 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* Age 26: body mass 79 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* Age 27: body mass 79 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* Age 28: body mass 80 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* Age 29: body mass 80 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* Age 30: body mass 80 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* Age 31: body mass 80 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* Age 32: body mass 80 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* Age 33: body mass 80 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* Age 34: body mass 80 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* Age 35: body mass 80 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
 * Peak: 180 kg from about 25 to 31, easing to 176 kg by 35
 
 Month by Month
 
-* 1999-09 | age 14y 0m | 4 x 45 min (3.0 h/week): bodyweight in the yard: pull-ups, dips, push-ups, sit-ups, laps | food poor | body mass 38.0 kg | base lift 25 kg | easy lift 15 kg | emergency lift 46 kg
-* 1999-10 | age 14y 1m | 4 x 45 min (3.0 h/week): bodyweight in the yard: pull-ups, dips, push-ups, sit-ups, laps | food poor | body mass 38.5 kg | base lift 26 kg | easy lift 16 kg | emergency lift 47 kg
-* 1999-11 | age 14y 2m | 4 x 45 min (3.0 h/week): bodyweight in the yard: pull-ups, dips, push-ups, sit-ups, laps | food poor | body mass 39.0 kg | base lift 27 kg | easy lift 16 kg | emergency lift 49 kg
-* 1999-12 | age 14y 3m | 4 x 45 min (3.0 h/week): bodyweight in the yard: pull-ups, dips, push-ups, sit-ups, laps | food improving | body mass 39.5 kg | base lift 28 kg | easy lift 17 kg | emergency lift 51 kg
-* 2000-01 | age 14y 4m | 4 x 45 min (3.0 h/week): bodyweight in the yard: pull-ups, dips, push-ups, sit-ups, laps | food improving | body mass 40.0 kg | base lift 29 kg | easy lift 17 kg | emergency lift 53 kg
-* 2000-02 | age 14y 5m | 4 x 45 min (3.0 h/week): bodyweight in the yard: pull-ups, dips, push-ups, sit-ups, laps | food improving | body mass 40.5 kg | base lift 30 kg | easy lift 18 kg | emergency lift 54 kg
-* 2000-03 | age 14y 6m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food improving | body mass 41.0 kg | base lift 32 kg | easy lift 19 kg | emergency lift 58 kg
-* 2000-04 | age 14y 7m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food improving | body mass 41.5 kg | base lift 33 kg | easy lift 20 kg | emergency lift 60 kg
-* 2000-05 | age 14y 8m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food improving | body mass 42.0 kg | base lift 35 kg | easy lift 21 kg | emergency lift 63 kg
-* 2000-06 | age 14y 9m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 42.5 kg | base lift 37 kg | easy lift 22 kg | emergency lift 67 kg
-* 2000-07 | age 14y 10m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 43.0 kg | base lift 39 kg | easy lift 23 kg | emergency lift 70 kg
-* 2000-08 | age 14y 11m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 43.5 kg | base lift 41 kg | easy lift 25 kg | emergency lift 74 kg
-* 2000-09 | age 15y 0m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 44.0 kg | base lift 43 kg | easy lift 26 kg | emergency lift 77 kg
-* 2000-10 | age 15y 1m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 44.6 kg | base lift 45 kg | easy lift 27 kg | emergency lift 81 kg
-* 2000-11 | age 15y 2m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 45.2 kg | base lift 47 kg | easy lift 28 kg | emergency lift 84 kg
-* 2000-12 | age 15y 3m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 45.8 kg | base lift 49 kg | easy lift 29 kg | emergency lift 88 kg
-* 2001-01 | age 15y 4m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 46.3 kg | base lift 51 kg | easy lift 31 kg | emergency lift 91 kg
-* 2001-02 | age 15y 5m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 46.9 kg | base lift 53 kg | easy lift 32 kg | emergency lift 94 kg
-* 2001-03 | age 15y 6m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 47.5 kg | base lift 55 kg | easy lift 33 kg | emergency lift 98 kg
-* 2001-04 | age 15y 7m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 48.1 kg | base lift 56 kg | easy lift 34 kg | emergency lift 100 kg
-* 2001-05 | age 15y 8m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 48.7 kg | base lift 58 kg | easy lift 35 kg | emergency lift 103 kg
-* 2001-06 | age 15y 9m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 49.2 kg | base lift 60 kg | easy lift 36 kg | emergency lift 106 kg
-* 2001-07 | age 15y 10m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 49.8 kg | base lift 62 kg | easy lift 37 kg | emergency lift 110 kg
-* 2001-08 | age 15y 11m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 50.4 kg | base lift 64 kg | easy lift 38 kg | emergency lift 113 kg
-* 2001-09 | age 16y 0m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 51.0 kg | base lift 66 kg | easy lift 40 kg | emergency lift 117 kg
-* 2001-10 | age 16y 1m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 51.6 kg | base lift 69 kg | easy lift 41 kg | emergency lift 122 kg
-* 2001-11 | age 16y 2m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 52.2 kg | base lift 71 kg | easy lift 43 kg | emergency lift 125 kg
-* 2001-12 | age 16y 3m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 52.8 kg | base lift 73 kg | easy lift 44 kg | emergency lift 129 kg
-* 2002-01 | age 16y 4m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 53.3 kg | base lift 75 kg | easy lift 45 kg | emergency lift 132 kg
-* 2002-02 | age 16y 5m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 53.9 kg | base lift 77 kg | easy lift 46 kg | emergency lift 135 kg
-* 2002-03 | age 16y 6m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 54.5 kg | base lift 79 kg | easy lift 47 kg | emergency lift 139 kg
-* 2002-04 | age 16y 7m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 55.1 kg | base lift 81 kg | easy lift 49 kg | emergency lift 142 kg
-* 2002-05 | age 16y 8m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 55.7 kg | base lift 83 kg | easy lift 50 kg | emergency lift 145 kg
-* 2002-06 | age 16y 9m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 56.2 kg | base lift 85 kg | easy lift 51 kg | emergency lift 149 kg
-* 2002-07 | age 16y 10m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 56.8 kg | base lift 87 kg | easy lift 52 kg | emergency lift 152 kg
-* 2002-08 | age 16y 11m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 57.4 kg | base lift 89 kg | easy lift 53 kg | emergency lift 155 kg
-* 2002-09 | age 17y 0m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 58.0 kg | base lift 91 kg | easy lift 55 kg | emergency lift 158 kg
-* 2002-10 | age 17y 1m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 58.5 kg | base lift 93 kg | easy lift 56 kg | emergency lift 162 kg
-* 2002-11 | age 17y 2m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 59.0 kg | base lift 94 kg | easy lift 56 kg | emergency lift 163 kg
-* 2002-12 | age 17y 3m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 59.5 kg | base lift 96 kg | easy lift 58 kg | emergency lift 167 kg
-* 2003-01 | age 17y 4m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 60.0 kg | base lift 98 kg | easy lift 59 kg | emergency lift 170 kg
-* 2003-02 | age 17y 5m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 60.5 kg | base lift 100 kg | easy lift 60 kg | emergency lift 173 kg
-* 2003-03 | age 17y 6m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 61.0 kg | base lift 102 kg | easy lift 61 kg | emergency lift 176 kg
-* 2003-04 | age 17y 7m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 61.5 kg | base lift 104 kg | easy lift 62 kg | emergency lift 179 kg
-* 2003-05 | age 17y 8m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 62.0 kg | base lift 105 kg | easy lift 63 kg | emergency lift 181 kg
-* 2003-06 | age 17y 9m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 62.5 kg | base lift 107 kg | easy lift 64 kg | emergency lift 184 kg
-* 2003-07 | age 17y 10m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 63.0 kg | base lift 109 kg | easy lift 65 kg | emergency lift 187 kg
-* 2003-08 | age 17y 11m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 63.5 kg | base lift 110 kg | easy lift 66 kg | emergency lift 189 kg
-* 2003-09 | age 18y 0m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 64.0 kg | base lift 113 kg | easy lift 68 kg | emergency lift 194 kg
-* 2003-10 | age 18y 1m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 64.3 kg | base lift 115 kg | easy lift 69 kg | emergency lift 197 kg
-* 2003-11 | age 18y 2m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 64.7 kg | base lift 117 kg | easy lift 70 kg | emergency lift 200 kg
-* 2003-12 | age 18y 3m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 65.0 kg | base lift 119 kg | easy lift 71 kg | emergency lift 203 kg
-* 2004-01 | age 18y 4m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 65.3 kg | base lift 121 kg | easy lift 73 kg | emergency lift 206 kg
-* 2004-02 | age 18y 5m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 65.7 kg | base lift 123 kg | easy lift 74 kg | emergency lift 210 kg
-* 2004-03 | age 18y 6m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 66.0 kg | base lift 125 kg | easy lift 75 kg | emergency lift 213 kg
-* 2004-04 | age 18y 7m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 66.3 kg | base lift 126 kg | easy lift 76 kg | emergency lift 214 kg
-* 2004-05 | age 18y 8m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 66.7 kg | base lift 128 kg | easy lift 77 kg | emergency lift 217 kg
-* 2004-06 | age 18y 9m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 67.0 kg | base lift 130 kg | easy lift 78 kg | emergency lift 220 kg
-* 2004-07 | age 18y 10m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 67.3 kg | base lift 131 kg | easy lift 79 kg | emergency lift 222 kg
-* 2004-08 | age 18y 11m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 67.7 kg | base lift 133 kg | easy lift 80 kg | emergency lift 225 kg
-* 2004-09 | age 19y 0m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 68.0 kg | base lift 135 kg | easy lift 81 kg | emergency lift 228 kg
-* 2004-10 | age 19y 1m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 68.2 kg | base lift 136 kg | easy lift 82 kg | emergency lift 229 kg
-* 2004-11 | age 19y 2m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 68.5 kg | base lift 137 kg | easy lift 82 kg | emergency lift 231 kg
-* 2004-12 | age 19y 3m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 68.8 kg | base lift 139 kg | easy lift 83 kg | emergency lift 234 kg
-* 2005-01 | age 19y 4m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 69.0 kg | base lift 140 kg | easy lift 84 kg | emergency lift 235 kg
-* 2005-02 | age 19y 5m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 69.2 kg | base lift 141 kg | easy lift 85 kg | emergency lift 237 kg
-* 2005-03 | age 19y 6m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 69.5 kg | base lift 143 kg | easy lift 86 kg | emergency lift 240 kg
-* 2005-04 | age 19y 7m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 69.8 kg | base lift 144 kg | easy lift 86 kg | emergency lift 241 kg
-* 2005-05 | age 19y 8m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 70.0 kg | base lift 145 kg | easy lift 87 kg | emergency lift 242 kg
-* 2005-06 | age 19y 9m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 70.2 kg | base lift 146 kg | easy lift 88 kg | emergency lift 244 kg
-* 2005-07 | age 19y 10m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 70.5 kg | base lift 147 kg | easy lift 88 kg | emergency lift 245 kg
-* 2005-08 | age 19y 11m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 70.8 kg | base lift 149 kg | easy lift 89 kg | emergency lift 248 kg
-* 2005-09 | age 20y 0m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 71.0 kg | base lift 150 kg | easy lift 90 kg | emergency lift 249 kg
-* 2005-10 | age 20y 1m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 71.2 kg | base lift 151 kg | easy lift 91 kg | emergency lift 251 kg
-* 2005-11 | age 20y 2m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 71.3 kg | base lift 152 kg | easy lift 91 kg | emergency lift 252 kg
-* 2005-12 | age 20y 3m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 71.5 kg | base lift 153 kg | easy lift 92 kg | emergency lift 253 kg
-* 2006-01 | age 20y 4m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 71.7 kg | base lift 154 kg | easy lift 92 kg | emergency lift 255 kg
-* 2006-02 | age 20y 5m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 71.8 kg | base lift 154 kg | easy lift 92 kg | emergency lift 254 kg
-* 2006-03 | age 20y 6m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 72.0 kg | base lift 155 kg | easy lift 93 kg | emergency lift 256 kg
-* 2006-04 | age 20y 7m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 72.2 kg | base lift 156 kg | easy lift 94 kg | emergency lift 257 kg
-* 2006-05 | age 20y 8m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 72.3 kg | base lift 157 kg | easy lift 94 kg | emergency lift 258 kg
-* 2006-06 | age 20y 9m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 72.5 kg | base lift 158 kg | easy lift 95 kg | emergency lift 260 kg
-* 2006-07 | age 20y 10m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 72.7 kg | base lift 159 kg | easy lift 95 kg | emergency lift 261 kg
-* 2006-08 | age 20y 11m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 72.8 kg | base lift 159 kg | easy lift 95 kg | emergency lift 261 kg
-* 2006-09 | age 21y 0m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 73.0 kg | base lift 160 kg | easy lift 96 kg | emergency lift 262 kg
-* 2006-10 | age 21y 1m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 73.2 kg | base lift 161 kg | easy lift 97 kg | emergency lift 263 kg
-* 2006-11 | age 21y 2m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 73.3 kg | base lift 162 kg | easy lift 97 kg | emergency lift 264 kg
-* 2006-12 | age 21y 3m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 73.5 kg | base lift 162 kg | easy lift 97 kg | emergency lift 264 kg
-* 2007-01 | age 21y 4m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 73.7 kg | base lift 163 kg | easy lift 98 kg | emergency lift 265 kg
-* 2007-02 | age 21y 5m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 73.8 kg | base lift 164 kg | easy lift 98 kg | emergency lift 267 kg
-* 2007-03 | age 21y 6m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 74.0 kg | base lift 164 kg | easy lift 98 kg | emergency lift 266 kg
-* 2007-04 | age 21y 7m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 74.2 kg | base lift 165 kg | easy lift 99 kg | emergency lift 267 kg
-* 2007-05 | age 21y 8m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 74.3 kg | base lift 165 kg | easy lift 99 kg | emergency lift 267 kg
-* 2007-06 | age 21y 9m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 74.5 kg | base lift 166 kg | easy lift 100 kg | emergency lift 268 kg
-* 2007-07 | age 21y 10m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 74.7 kg | base lift 166 kg | easy lift 100 kg | emergency lift 268 kg
-* 2007-08 | age 21y 11m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 74.8 kg | base lift 167 kg | easy lift 100 kg | emergency lift 269 kg
-* 2007-09 | age 22y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.0 kg | base lift 168 kg | easy lift 101 kg | emergency lift 270 kg
-* 2007-10 | age 22y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.1 kg | base lift 168 kg | easy lift 101 kg | emergency lift 270 kg
-* 2007-11 | age 22y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.2 kg | base lift 169 kg | easy lift 101 kg | emergency lift 272 kg
-* 2007-12 | age 22y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.2 kg | base lift 169 kg | easy lift 101 kg | emergency lift 272 kg
-* 2008-01 | age 22y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.3 kg | base lift 169 kg | easy lift 101 kg | emergency lift 272 kg
-* 2008-02 | age 22y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.4 kg | base lift 170 kg | easy lift 102 kg | emergency lift 274 kg
-* 2008-03 | age 22y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.5 kg | base lift 170 kg | easy lift 102 kg | emergency lift 274 kg
-* 2008-04 | age 22y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.6 kg | base lift 171 kg | easy lift 103 kg | emergency lift 275 kg
-* 2008-05 | age 22y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.7 kg | base lift 171 kg | easy lift 103 kg | emergency lift 275 kg
-* 2008-06 | age 22y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.8 kg | base lift 172 kg | easy lift 103 kg | emergency lift 277 kg
-* 2008-07 | age 22y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.8 kg | base lift 172 kg | easy lift 103 kg | emergency lift 277 kg
-* 2008-08 | age 22y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.9 kg | base lift 172 kg | easy lift 103 kg | emergency lift 277 kg
-* 2008-09 | age 23y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.0 kg | base lift 173 kg | easy lift 104 kg | emergency lift 279 kg
-* 2008-10 | age 23y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.1 kg | base lift 173 kg | easy lift 104 kg | emergency lift 279 kg
-* 2008-11 | age 23y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.2 kg | base lift 173 kg | easy lift 104 kg | emergency lift 279 kg
-* 2008-12 | age 23y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.2 kg | base lift 174 kg | easy lift 104 kg | emergency lift 280 kg
-* 2009-01 | age 23y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.3 kg | base lift 174 kg | easy lift 104 kg | emergency lift 280 kg
-* 2009-02 | age 23y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.4 kg | base lift 174 kg | easy lift 104 kg | emergency lift 280 kg
-* 2009-03 | age 23y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.5 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
-* 2009-04 | age 23y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.6 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
-* 2009-05 | age 23y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.7 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
-* 2009-06 | age 23y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.8 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2009-07 | age 23y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.8 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2009-08 | age 23y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.9 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2009-09 | age 24y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2009-10 | age 24y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.1 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2009-11 | age 24y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.2 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2009-12 | age 24y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.2 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2010-01 | age 24y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.3 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2010-02 | age 24y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.4 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2010-03 | age 24y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.5 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2010-04 | age 24y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.6 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2010-05 | age 24y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.7 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2010-06 | age 24y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.8 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2010-07 | age 24y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.8 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2010-08 | age 24y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.9 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2010-09 | age 25y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2010-10 | age 25y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.1 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2010-11 | age 25y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.2 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2010-12 | age 25y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.2 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2011-01 | age 25y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.3 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2011-02 | age 25y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.4 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2011-03 | age 25y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.5 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2011-04 | age 25y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.6 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2011-05 | age 25y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.7 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2011-06 | age 25y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.8 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2011-07 | age 25y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.8 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2011-08 | age 25y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.9 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2011-09 | age 26y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2011-10 | age 26y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2011-11 | age 26y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2011-12 | age 26y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2012-01 | age 26y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2012-02 | age 26y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2012-03 | age 26y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2012-04 | age 26y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2012-05 | age 26y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2012-06 | age 26y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2012-07 | age 26y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2012-08 | age 26y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2012-09 | age 27y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2012-10 | age 27y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.1 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2012-11 | age 27y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.2 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2012-12 | age 27y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.2 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2013-01 | age 27y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.3 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2013-02 | age 27y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.4 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2013-03 | age 27y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.5 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2013-04 | age 27y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.6 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2013-05 | age 27y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.7 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2013-06 | age 27y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.8 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2013-07 | age 27y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.8 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2013-08 | age 27y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.9 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2013-09 | age 28y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2013-10 | age 28y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2013-11 | age 28y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2013-12 | age 28y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2014-01 | age 28y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2014-02 | age 28y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2014-03 | age 28y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2014-04 | age 28y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2014-05 | age 28y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2014-06 | age 28y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2014-07 | age 28y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2014-08 | age 28y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2014-09 | age 29y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2014-10 | age 29y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2014-11 | age 29y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2014-12 | age 29y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2015-01 | age 29y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2015-02 | age 29y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2015-03 | age 29y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2015-04 | age 29y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2015-05 | age 29y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2015-06 | age 29y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2015-07 | age 29y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2015-08 | age 29y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2015-09 | age 30y 0m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2015-10 | age 30y 1m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2015-11 | age 30y 2m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2015-12 | age 30y 3m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2016-01 | age 30y 4m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2016-02 | age 30y 5m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2016-03 | age 30y 6m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2016-04 | age 30y 7m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2016-05 | age 30y 8m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2016-06 | age 30y 9m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2016-07 | age 30y 10m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2016-08 | age 30y 11m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2016-09 | age 31y 0m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2016-10 | age 31y 1m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | easy lift 108 kg | emergency lift 290 kg
-* 2016-11 | age 31y 2m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2016-12 | age 31y 3m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2017-01 | age 31y 4m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2017-02 | age 31y 5m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2017-03 | age 31y 6m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2017-04 | age 31y 7m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2017-05 | age 31y 8m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2017-06 | age 31y 9m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2017-07 | age 31y 10m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2017-08 | age 31y 11m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2017-09 | age 32y 0m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2017-10 | age 32y 1m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2017-11 | age 32y 2m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | easy lift 107 kg | emergency lift 288 kg
-* 2017-12 | age 32y 3m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2018-01 | age 32y 4m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2018-02 | age 32y 5m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2018-03 | age 32y 6m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2018-04 | age 32y 7m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2018-05 | age 32y 8m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2018-06 | age 32y 9m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2018-07 | age 32y 10m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2018-08 | age 32y 11m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2018-09 | age 33y 0m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2018-10 | age 33y 1m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2018-11 | age 33y 2m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | easy lift 107 kg | emergency lift 287 kg
-* 2018-12 | age 33y 3m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2019-01 | age 33y 4m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2019-02 | age 33y 5m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2019-03 | age 33y 6m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2019-04 | age 33y 7m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2019-05 | age 33y 8m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2019-06 | age 33y 9m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2019-07 | age 33y 10m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2019-08 | age 33y 11m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2019-09 | age 34y 0m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2019-10 | age 34y 1m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2019-11 | age 34y 2m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | easy lift 106 kg | emergency lift 285 kg
-* 2019-12 | age 34y 3m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2020-01 | age 34y 4m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2020-02 | age 34y 5m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2020-03 | age 34y 6m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2020-04 | age 34y 7m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2020-05 | age 34y 8m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2020-06 | age 34y 9m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2020-07 | age 34y 10m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2020-08 | age 34y 11m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2020-09 | age 35y 0m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2020-10 | age 35y 1m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | easy lift 106 kg | emergency lift 283 kg
-* 2020-11 | age 35y 2m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
-* 2020-12 | age 35y 3m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
-* 2021-01 | age 35y 4m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
-* 2021-02 | age 35y 5m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
-* 2021-03 | age 35y 6m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
-* 2021-04 | age 35y 7m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
-* 2021-05 | age 35y 8m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
-* 2021-06 | age 35y 9m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
-* 2021-07 | age 35y 10m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
-* 2021-08 | age 35y 11m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | easy lift 105 kg | emergency lift 282 kg
+* 1999-09 | age 14y 0m | 4 x 45 min (3.0 h/week): bodyweight in the yard: pull-ups, dips, push-ups, sit-ups, laps | food poor | body mass 38.0 kg | base lift 25 kg | max effort 42 kg | emergency 76 kg
+* 1999-10 | age 14y 1m | 4 x 45 min (3.0 h/week): bodyweight in the yard: pull-ups, dips, push-ups, sit-ups, laps | food poor | body mass 38.5 kg | base lift 26 kg | max effort 43 kg | emergency 79 kg
+* 1999-11 | age 14y 2m | 4 x 45 min (3.0 h/week): bodyweight in the yard: pull-ups, dips, push-ups, sit-ups, laps | food poor | body mass 39.0 kg | base lift 27 kg | max effort 45 kg | emergency 82 kg
+* 1999-12 | age 14y 3m | 4 x 45 min (3.0 h/week): bodyweight in the yard: pull-ups, dips, push-ups, sit-ups, laps | food improving | body mass 39.5 kg | base lift 28 kg | max effort 47 kg | emergency 85 kg
+* 2000-01 | age 14y 4m | 4 x 45 min (3.0 h/week): bodyweight in the yard: pull-ups, dips, push-ups, sit-ups, laps | food improving | body mass 40.0 kg | base lift 29 kg | max effort 48 kg | emergency 88 kg
+* 2000-02 | age 14y 5m | 4 x 45 min (3.0 h/week): bodyweight in the yard: pull-ups, dips, push-ups, sit-ups, laps | food improving | body mass 40.5 kg | base lift 30 kg | max effort 50 kg | emergency 90 kg
+* 2000-03 | age 14y 6m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food improving | body mass 41.0 kg | base lift 32 kg | max effort 53 kg | emergency 96 kg
+* 2000-04 | age 14y 7m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food improving | body mass 41.5 kg | base lift 33 kg | max effort 55 kg | emergency 99 kg
+* 2000-05 | age 14y 8m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food improving | body mass 42.0 kg | base lift 35 kg | max effort 58 kg | emergency 105 kg
+* 2000-06 | age 14y 9m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 42.5 kg | base lift 37 kg | max effort 62 kg | emergency 111 kg
+* 2000-07 | age 14y 10m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 43.0 kg | base lift 39 kg | max effort 65 kg | emergency 117 kg
+* 2000-08 | age 14y 11m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 43.5 kg | base lift 41 kg | max effort 68 kg | emergency 123 kg
+* 2000-09 | age 15y 0m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 44.0 kg | base lift 43 kg | max effort 72 kg | emergency 129 kg
+* 2000-10 | age 15y 1m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 44.6 kg | base lift 45 kg | max effort 75 kg | emergency 134 kg
+* 2000-11 | age 15y 2m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 45.2 kg | base lift 47 kg | max effort 78 kg | emergency 140 kg
+* 2000-12 | age 15y 3m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 45.8 kg | base lift 49 kg | max effort 82 kg | emergency 146 kg
+* 2001-01 | age 15y 4m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 46.3 kg | base lift 51 kg | max effort 85 kg | emergency 152 kg
+* 2001-02 | age 15y 5m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 46.9 kg | base lift 53 kg | max effort 88 kg | emergency 157 kg
+* 2001-03 | age 15y 6m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 47.5 kg | base lift 55 kg | max effort 92 kg | emergency 163 kg
+* 2001-04 | age 15y 7m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 48.1 kg | base lift 56 kg | max effort 93 kg | emergency 166 kg
+* 2001-05 | age 15y 8m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 48.7 kg | base lift 58 kg | max effort 97 kg | emergency 172 kg
+* 2001-06 | age 15y 9m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 49.2 kg | base lift 60 kg | max effort 100 kg | emergency 177 kg
+* 2001-07 | age 15y 10m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 49.8 kg | base lift 62 kg | max effort 103 kg | emergency 183 kg
+* 2001-08 | age 15y 11m | 5 x 50 min (4.2 h/week): bodyweight circuits, running and loaded carries | food steady | body mass 50.4 kg | base lift 64 kg | max effort 107 kg | emergency 189 kg
+* 2001-09 | age 16y 0m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 51.0 kg | base lift 66 kg | max effort 110 kg | emergency 194 kg
+* 2001-10 | age 16y 1m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 51.6 kg | base lift 69 kg | max effort 115 kg | emergency 203 kg
+* 2001-11 | age 16y 2m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 52.2 kg | base lift 71 kg | max effort 118 kg | emergency 209 kg
+* 2001-12 | age 16y 3m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 52.8 kg | base lift 73 kg | max effort 122 kg | emergency 214 kg
+* 2002-01 | age 16y 4m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 53.3 kg | base lift 75 kg | max effort 125 kg | emergency 220 kg
+* 2002-02 | age 16y 5m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 53.9 kg | base lift 77 kg | max effort 128 kg | emergency 225 kg
+* 2002-03 | age 16y 6m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 54.5 kg | base lift 79 kg | max effort 132 kg | emergency 231 kg
+* 2002-04 | age 16y 7m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 55.1 kg | base lift 81 kg | max effort 135 kg | emergency 237 kg
+* 2002-05 | age 16y 8m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 55.7 kg | base lift 83 kg | max effort 138 kg | emergency 242 kg
+* 2002-06 | age 16y 9m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 56.2 kg | base lift 85 kg | max effort 142 kg | emergency 248 kg
+* 2002-07 | age 16y 10m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 56.8 kg | base lift 87 kg | max effort 145 kg | emergency 253 kg
+* 2002-08 | age 16y 11m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 57.4 kg | base lift 89 kg | max effort 148 kg | emergency 259 kg
+* 2002-09 | age 17y 0m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 58.0 kg | base lift 91 kg | max effort 152 kg | emergency 264 kg
+* 2002-10 | age 17y 1m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 58.5 kg | base lift 93 kg | max effort 155 kg | emergency 270 kg
+* 2002-11 | age 17y 2m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 59.0 kg | base lift 94 kg | max effort 157 kg | emergency 272 kg
+* 2002-12 | age 17y 3m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 59.5 kg | base lift 96 kg | max effort 160 kg | emergency 278 kg
+* 2003-01 | age 17y 4m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 60.0 kg | base lift 98 kg | max effort 163 kg | emergency 283 kg
+* 2003-02 | age 17y 5m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 60.5 kg | base lift 100 kg | max effort 167 kg | emergency 288 kg
+* 2003-03 | age 17y 6m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 61.0 kg | base lift 102 kg | max effort 170 kg | emergency 294 kg
+* 2003-04 | age 17y 7m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 61.5 kg | base lift 104 kg | max effort 173 kg | emergency 299 kg
+* 2003-05 | age 17y 8m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 62.0 kg | base lift 105 kg | max effort 175 kg | emergency 302 kg
+* 2003-06 | age 17y 9m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 62.5 kg | base lift 107 kg | max effort 178 kg | emergency 307 kg
+* 2003-07 | age 17y 10m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 63.0 kg | base lift 109 kg | max effort 182 kg | emergency 312 kg
+* 2003-08 | age 17y 11m | 5 x 55 min (4.6 h/week): 3 barbell sessions (school weight room) and 2 conditioning sessions | food steady | body mass 63.5 kg | base lift 110 kg | max effort 183 kg | emergency 315 kg
+* 2003-09 | age 18y 0m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 64.0 kg | base lift 113 kg | max effort 188 kg | emergency 323 kg
+* 2003-10 | age 18y 1m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 64.3 kg | base lift 115 kg | max effort 192 kg | emergency 328 kg
+* 2003-11 | age 18y 2m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 64.7 kg | base lift 117 kg | max effort 195 kg | emergency 334 kg
+* 2003-12 | age 18y 3m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 65.0 kg | base lift 119 kg | max effort 198 kg | emergency 339 kg
+* 2004-01 | age 18y 4m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 65.3 kg | base lift 121 kg | max effort 202 kg | emergency 344 kg
+* 2004-02 | age 18y 5m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 65.7 kg | base lift 123 kg | max effort 205 kg | emergency 349 kg
+* 2004-03 | age 18y 6m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 66.0 kg | base lift 125 kg | max effort 208 kg | emergency 355 kg
+* 2004-04 | age 18y 7m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 66.3 kg | base lift 126 kg | max effort 210 kg | emergency 357 kg
+* 2004-05 | age 18y 8m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 66.7 kg | base lift 128 kg | max effort 213 kg | emergency 362 kg
+* 2004-06 | age 18y 9m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 67.0 kg | base lift 130 kg | max effort 217 kg | emergency 367 kg
+* 2004-07 | age 18y 10m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 67.3 kg | base lift 131 kg | max effort 218 kg | emergency 370 kg
+* 2004-08 | age 18y 11m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 67.7 kg | base lift 133 kg | max effort 222 kg | emergency 375 kg
+* 2004-09 | age 19y 0m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 68.0 kg | base lift 135 kg | max effort 225 kg | emergency 380 kg
+* 2004-10 | age 19y 1m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 68.2 kg | base lift 136 kg | max effort 227 kg | emergency 382 kg
+* 2004-11 | age 19y 2m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 68.5 kg | base lift 137 kg | max effort 228 kg | emergency 385 kg
+* 2004-12 | age 19y 3m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 68.8 kg | base lift 139 kg | max effort 232 kg | emergency 390 kg
+* 2005-01 | age 19y 4m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 69.0 kg | base lift 140 kg | max effort 233 kg | emergency 392 kg
+* 2005-02 | age 19y 5m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 69.2 kg | base lift 141 kg | max effort 235 kg | emergency 394 kg
+* 2005-03 | age 19y 6m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 69.5 kg | base lift 143 kg | max effort 238 kg | emergency 399 kg
+* 2005-04 | age 19y 7m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 69.8 kg | base lift 144 kg | max effort 240 kg | emergency 402 kg
+* 2005-05 | age 19y 8m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 70.0 kg | base lift 145 kg | max effort 242 kg | emergency 404 kg
+* 2005-06 | age 19y 9m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 70.2 kg | base lift 146 kg | max effort 243 kg | emergency 406 kg
+* 2005-07 | age 19y 10m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 70.5 kg | base lift 147 kg | max effort 245 kg | emergency 408 kg
+* 2005-08 | age 19y 11m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 70.8 kg | base lift 149 kg | max effort 248 kg | emergency 413 kg
+* 2005-09 | age 20y 0m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 71.0 kg | base lift 150 kg | max effort 250 kg | emergency 416 kg
+* 2005-10 | age 20y 1m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 71.2 kg | base lift 151 kg | max effort 252 kg | emergency 418 kg
+* 2005-11 | age 20y 2m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 71.3 kg | base lift 152 kg | max effort 253 kg | emergency 420 kg
+* 2005-12 | age 20y 3m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 71.5 kg | base lift 153 kg | max effort 255 kg | emergency 422 kg
+* 2006-01 | age 20y 4m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 71.7 kg | base lift 154 kg | max effort 257 kg | emergency 424 kg
+* 2006-02 | age 20y 5m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 71.8 kg | base lift 154 kg | max effort 257 kg | emergency 424 kg
+* 2006-03 | age 20y 6m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 72.0 kg | base lift 155 kg | max effort 258 kg | emergency 426 kg
+* 2006-04 | age 20y 7m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 72.2 kg | base lift 156 kg | max effort 260 kg | emergency 428 kg
+* 2006-05 | age 20y 8m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 72.3 kg | base lift 157 kg | max effort 262 kg | emergency 430 kg
+* 2006-06 | age 20y 9m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 72.5 kg | base lift 158 kg | max effort 263 kg | emergency 433 kg
+* 2006-07 | age 20y 10m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 72.7 kg | base lift 159 kg | max effort 265 kg | emergency 435 kg
+* 2006-08 | age 20y 11m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 72.8 kg | base lift 159 kg | max effort 265 kg | emergency 434 kg
+* 2006-09 | age 21y 0m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 73.0 kg | base lift 160 kg | max effort 267 kg | emergency 436 kg
+* 2006-10 | age 21y 1m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 73.2 kg | base lift 161 kg | max effort 268 kg | emergency 438 kg
+* 2006-11 | age 21y 2m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 73.3 kg | base lift 162 kg | max effort 270 kg | emergency 441 kg
+* 2006-12 | age 21y 3m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 73.5 kg | base lift 162 kg | max effort 270 kg | emergency 440 kg
+* 2007-01 | age 21y 4m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 73.7 kg | base lift 163 kg | max effort 272 kg | emergency 442 kg
+* 2007-02 | age 21y 5m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 73.8 kg | base lift 164 kg | max effort 273 kg | emergency 444 kg
+* 2007-03 | age 21y 6m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 74.0 kg | base lift 164 kg | max effort 273 kg | emergency 444 kg
+* 2007-04 | age 21y 7m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 74.2 kg | base lift 165 kg | max effort 275 kg | emergency 446 kg
+* 2007-05 | age 21y 8m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 74.3 kg | base lift 165 kg | max effort 275 kg | emergency 445 kg
+* 2007-06 | age 21y 9m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 74.5 kg | base lift 166 kg | max effort 277 kg | emergency 447 kg
+* 2007-07 | age 21y 10m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 74.7 kg | base lift 166 kg | max effort 277 kg | emergency 447 kg
+* 2007-08 | age 21y 11m | 6 x 65 min (6.5 h/week): 4 strength sessions and 2 conditioning sessions | food steady | body mass 74.8 kg | base lift 167 kg | max effort 278 kg | emergency 449 kg
+* 2007-09 | age 22y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.0 kg | base lift 168 kg | max effort 280 kg | emergency 451 kg
+* 2007-10 | age 22y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.1 kg | base lift 168 kg | max effort 280 kg | emergency 451 kg
+* 2007-11 | age 22y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.2 kg | base lift 169 kg | max effort 282 kg | emergency 453 kg
+* 2007-12 | age 22y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.2 kg | base lift 169 kg | max effort 282 kg | emergency 453 kg
+* 2008-01 | age 22y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.3 kg | base lift 169 kg | max effort 282 kg | emergency 453 kg
+* 2008-02 | age 22y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.4 kg | base lift 170 kg | max effort 283 kg | emergency 456 kg
+* 2008-03 | age 22y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.5 kg | base lift 170 kg | max effort 283 kg | emergency 456 kg
+* 2008-04 | age 22y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.6 kg | base lift 171 kg | max effort 285 kg | emergency 459 kg
+* 2008-05 | age 22y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.7 kg | base lift 171 kg | max effort 285 kg | emergency 459 kg
+* 2008-06 | age 22y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.8 kg | base lift 172 kg | max effort 287 kg | emergency 462 kg
+* 2008-07 | age 22y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.8 kg | base lift 172 kg | max effort 287 kg | emergency 462 kg
+* 2008-08 | age 22y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 75.9 kg | base lift 172 kg | max effort 287 kg | emergency 462 kg
+* 2008-09 | age 23y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.0 kg | base lift 173 kg | max effort 288 kg | emergency 464 kg
+* 2008-10 | age 23y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.1 kg | base lift 173 kg | max effort 288 kg | emergency 464 kg
+* 2008-11 | age 23y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.2 kg | base lift 173 kg | max effort 288 kg | emergency 464 kg
+* 2008-12 | age 23y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.2 kg | base lift 174 kg | max effort 290 kg | emergency 467 kg
+* 2009-01 | age 23y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.3 kg | base lift 174 kg | max effort 290 kg | emergency 467 kg
+* 2009-02 | age 23y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.4 kg | base lift 174 kg | max effort 290 kg | emergency 467 kg
+* 2009-03 | age 23y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.5 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
+* 2009-04 | age 23y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.6 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
+* 2009-05 | age 23y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.7 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
+* 2009-06 | age 23y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.8 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2009-07 | age 23y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.8 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2009-08 | age 23y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 76.9 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2009-09 | age 24y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2009-10 | age 24y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.1 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2009-11 | age 24y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.2 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2009-12 | age 24y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.2 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2010-01 | age 24y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.3 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2010-02 | age 24y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.4 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2010-03 | age 24y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.5 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2010-04 | age 24y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.6 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2010-05 | age 24y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.7 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2010-06 | age 24y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.8 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2010-07 | age 24y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.8 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2010-08 | age 24y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 77.9 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2010-09 | age 25y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2010-10 | age 25y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.1 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2010-11 | age 25y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.2 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2010-12 | age 25y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.2 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2011-01 | age 25y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.3 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2011-02 | age 25y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.4 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2011-03 | age 25y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.5 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2011-04 | age 25y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.6 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2011-05 | age 25y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.7 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2011-06 | age 25y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.8 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2011-07 | age 25y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.8 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2011-08 | age 25y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 78.9 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2011-09 | age 26y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2011-10 | age 26y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2011-11 | age 26y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2011-12 | age 26y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2012-01 | age 26y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2012-02 | age 26y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2012-03 | age 26y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2012-04 | age 26y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2012-05 | age 26y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2012-06 | age 26y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2012-07 | age 26y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2012-08 | age 26y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2012-09 | age 27y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2012-10 | age 27y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.1 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2012-11 | age 27y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.2 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2012-12 | age 27y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.2 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2013-01 | age 27y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.3 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2013-02 | age 27y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.4 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2013-03 | age 27y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.5 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2013-04 | age 27y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.6 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2013-05 | age 27y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.7 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2013-06 | age 27y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.8 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2013-07 | age 27y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.8 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2013-08 | age 27y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 79.9 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2013-09 | age 28y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2013-10 | age 28y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2013-11 | age 28y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2013-12 | age 28y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2014-01 | age 28y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2014-02 | age 28y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2014-03 | age 28y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2014-04 | age 28y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2014-05 | age 28y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2014-06 | age 28y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2014-07 | age 28y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2014-08 | age 28y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2014-09 | age 29y 0m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2014-10 | age 29y 1m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2014-11 | age 29y 2m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2014-12 | age 29y 3m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2015-01 | age 29y 4m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2015-02 | age 29y 5m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2015-03 | age 29y 6m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2015-04 | age 29y 7m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2015-05 | age 29y 8m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2015-06 | age 29y 9m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2015-07 | age 29y 10m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2015-08 | age 29y 11m | 6 x 60 min (6.0 h/week): 4 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2015-09 | age 30y 0m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2015-10 | age 30y 1m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2015-11 | age 30y 2m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2015-12 | age 30y 3m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2016-01 | age 30y 4m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2016-02 | age 30y 5m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2016-03 | age 30y 6m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2016-04 | age 30y 7m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2016-05 | age 30y 8m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2016-06 | age 30y 9m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2016-07 | age 30y 10m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2016-08 | age 30y 11m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2016-09 | age 31y 0m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2016-10 | age 31y 1m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 180 kg | max effort 300 kg | emergency 483 kg
+* 2016-11 | age 31y 2m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2016-12 | age 31y 3m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2017-01 | age 31y 4m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2017-02 | age 31y 5m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2017-03 | age 31y 6m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2017-04 | age 31y 7m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2017-05 | age 31y 8m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2017-06 | age 31y 9m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2017-07 | age 31y 10m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2017-08 | age 31y 11m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2017-09 | age 32y 0m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2017-10 | age 32y 1m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2017-11 | age 32y 2m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 179 kg | max effort 298 kg | emergency 480 kg
+* 2017-12 | age 32y 3m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2018-01 | age 32y 4m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2018-02 | age 32y 5m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2018-03 | age 32y 6m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2018-04 | age 32y 7m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2018-05 | age 32y 8m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2018-06 | age 32y 9m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2018-07 | age 32y 10m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2018-08 | age 32y 11m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2018-09 | age 33y 0m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2018-10 | age 33y 1m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2018-11 | age 33y 2m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 178 kg | max effort 297 kg | emergency 478 kg
+* 2018-12 | age 33y 3m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2019-01 | age 33y 4m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2019-02 | age 33y 5m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2019-03 | age 33y 6m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2019-04 | age 33y 7m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2019-05 | age 33y 8m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2019-06 | age 33y 9m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2019-07 | age 33y 10m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2019-08 | age 33y 11m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2019-09 | age 34y 0m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2019-10 | age 34y 1m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2019-11 | age 34y 2m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 177 kg | max effort 295 kg | emergency 475 kg
+* 2019-12 | age 34y 3m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2020-01 | age 34y 4m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2020-02 | age 34y 5m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2020-03 | age 34y 6m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2020-04 | age 34y 7m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2020-05 | age 34y 8m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2020-06 | age 34y 9m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2020-07 | age 34y 10m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2020-08 | age 34y 11m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2020-09 | age 35y 0m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2020-10 | age 35y 1m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 176 kg | max effort 293 kg | emergency 472 kg
+* 2020-11 | age 35y 2m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
+* 2020-12 | age 35y 3m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
+* 2021-01 | age 35y 4m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
+* 2021-02 | age 35y 5m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
+* 2021-03 | age 35y 6m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
+* 2021-04 | age 35y 7m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
+* 2021-05 | age 35y 8m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
+* 2021-06 | age 35y 9m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
+* 2021-07 | age 35y 10m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
+* 2021-08 | age 35y 11m | 5 x 60 min (5.0 h/week): 3 strength sessions and 2 conditioning sessions, plus courier work | food steady | body mass 80.0 kg | base lift 175 kg | max effort 292 kg | emergency 470 kg
