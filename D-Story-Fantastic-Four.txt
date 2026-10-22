@@ -45,7 +45,6 @@ Changes for This Story
 
 * Victor starts as a royal son abroad, not the ruler of Latveria
 * The 2005 ending where his body is shipped to Latveria is not used as the way he takes power. He goes back to rule only after Ultron's destruction of Latveria
-* Open: whether Ultron's destruction of Latveria replaces Sokovia or happens alongside it (Age of Ultron is 2015 in the MCU timeline)
 * Doom stays a recurring rival rather than a world-ending threat
 * The Fantastic Four are public heroes from the start
 * They live and work in the Baxter Building in Manhattan
@@ -62,3 +61,14 @@ Story Uses
 * Doom's companies are customers too, since D is a neutral courier
 * Arcs can open with a news clip of the Four's latest fight with Doom
 * The feud stays in the background unless D steps into it
+
+Latveria Replaces Sokovia
+
+* Sokovia does not exist in this story. Latveria takes its place in every MCU event
+* 2015: Hydra's Baron Strucker holds Loki's scepter at a base in Latveria and experiments on volunteers there
+* Wanda and Pietro Maximoff are Latverian
+* Ultron lifts a Latverian city into the sky and drops it. Pietro dies and the city is destroyed
+* Victor Von Doom, by then powered, goes back afterward and rules Latveria
+* 2016: the Lagos incident leads to the Latveria Accords
+* Helmut Zemo is a Latverian colonel whose family died in the Ultron attack
+* Open: how Victor's rule fits with the Accords and with Zemo
