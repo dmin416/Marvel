@@ -17,7 +17,7 @@ Sourced Anchors
 * Peak strength velocity in boys falls near peak height velocity with a lag of about 0 to 12 months depending on the test (several adolescent studies). Early maturers are stronger than late maturers
 * Grip strength peaks at about 51 kg in men aged 29 to 39 (Dodds 2014, PLoS ONE, 12 British studies). It holds through midlife and then declines
 * Powerlifting performance peaks at about 27.7 to 31.5 years in one study. A larger dataset puts raw male lifters at 28 to 35 with the highest scores around 30 to 32. The decline after that is partly a selection effect
-* Masters powerlifters (men 45 plus) lose about 0.33% of deadlift per year
+* Men who kept competing in powerlifting from before 40 to after 60 lost about 0.33% of their deadlift per year (Kinesiology, "Age Is a Poor Predictor of Maximal Strength in Competitive Powerlifters")
 * A natural male beginner gains about 20 to 25 lb (9 to 11 kg) of muscle in year one of proper training and nutrition and about 10 to 12 lb, 5 to 6 lb and 2 to 3 lb in years two to four (Lyle McDonald model, sources disagree on size)
 * Untrained adult man deadlift is about 70 kg. Novice men reach about 1.25 to 1.5 times body mass
 * Catch-up in adult height is debated. Childhood stunting is not significantly made up in adolescence (review)
@@ -65,7 +65,7 @@ Peak
 * Trained D passes 90 percent of peak by age 24 and 95 percent by age 26
 * Largest yearly gains on the trained track: +25 kg from 18 to 19 and +20 kg from 19 to 20
 * Largest yearly gains on the untrained track: +15 kg per year from 16 to 18
-* Decline from the peak to 35 is about 3.7 percent on the trained track. This is a design choice. The sourced decline of 0.33 percent per year applies after 45
+* Decline from the peak to 35 is about 3.7 percent on the trained track. This is a design choice. The sourced decline of 0.33 percent per year comes from lifters who kept competing from about 40 into their 60s
 
 Effect of Undernutrition
 

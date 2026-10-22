@@ -220,11 +220,12 @@ Year-by-year record of when villains appear and how they are defeated. Dates fol
 - **At large:** Doctor Doom (mid-credits)
 
 ## 2028 (Spider-Man: Brand New Day)
-- **Appears:** Scorpion (Mac Gargan), Tombstone, Boomerang, Tarantula, the Hand, Department of Damage Control director Bill Metzger, Jean Grey
+- **Set:** four years after the No Way Home spell
+- **Appears:** Scorpion (Mac Gargan), Tombstone (Lonnie Lincoln), Boomerang (Fred Myers), Tarantula, Ramrod, the Hand (led by Snow), Department of Damage Control director Bill Metzger, Jean Grey
 - **Defeated:**
-  - Street-level villains: beaten by Spider-Man over four years
-  - Jean Grey: stopped after her powers explode across Manhattan; she keeps Peter alive after he is shot
-- **At large:** Department of Damage Control's experiments are exposed in the climax
+  - Jean Grey: her psionic field freezes everyone around the Damage Control facility. She drops it after Peter is shot shielding her from the Punisher, keeps him alive with her powers and leaves the city
+- **At large:**
+  - Bill Metzger: revealed to be experimenting on superpowered people. He disappears and the Department of Damage Control comes under investigation
 
 ---
 

@@ -21,7 +21,7 @@ This World
 * There are no massive world-ending threats.
 * The Fantastic Four and Doom feud in the background, like the 2005 movie.
 * Kingpin, Punisher and Daredevil mostly stay in Hell's Kitchen.
-* Super spiders exist and come from Oscorp (could have been made by Peter's father or Cindy). There are no Morlun or totems, and no Miles Morales.
+* Super spiders exist and come from Oscorp (could have been made by Peter's father or Cindy). There are no Morlun, no totems and no Miles Morales.
 * The symbiote comes from space.
 * D interacts with a symbiote soon, before college (ages 14 to 18).
 * Symbiotes reflect something about the mind of the person they pair with and amplify it. Their intelligence comes from the host's mind
@@ -43,14 +43,14 @@ D
 * Trains to survive the world
 * Orphan who meets Peter and Aunt May in the F.E.A.S.T. meal line as a kid on his own (the meeting can grow out of the children's home outing)
 * May gives him an extra plate and invites him to Sunday dinner; Ben and Peter treat him like family
-* Same age as Peter, Harry, Gwen and Lorna, and goes to school with them
+* Same age as Peter, Harry, Gwen and Lorna and goes to school with them
 * Finishes college right before 2008 and has his powers when Tony is abducted in spring 2008
 * Runs a delivery business: a neutral courier for heroes and villains alike and a cover for intel, run secretly or publicly just for fun. He has no one villains can threaten him with.
 * Later takes Eddie's symbiote, a space-born symbiote, experiments on it and absorbs it
 
 Peter Parker
 
-* Raimi-style Peter, but on the Lizard path instead of getting spider powers
+* Raimi-style Peter but on the Lizard path instead of getting spider powers
 * A weak nerd who does not train
 * The Lizard arc is finished before 2008
 * Lizard Peter beats guys in the wrestling cage; Uncle Ben gives him the talk
@@ -58,7 +58,7 @@ Peter Parker
 * Becomes a hero afterward
 * Gets together with Gwen as a crime-fighting duo
 * Learns about Gwen's symbiote bond with D and understands it: the symbiote is basically a clone of D and completely connected to D
-* Tries to help when Gwen loses her powers, but Cindy's serum blocks it
+* Tries to help when Gwen loses her powers but Cindy's serum blocks it
 * Look: messy brown hair, glasses and blue-gray eyes; hoodies, jeans and sneakers through his teens, then a flannel at 20 and a dark jacket with boots at 21
 * Full breakdown in Approved-Suggestions-and-Universal-Details.txt
 
@@ -96,7 +96,7 @@ Harry Osborn
 
 Lorna Dane (Polaris)
 
-* Main female lead next to Gwen, and really important to the story
+* Main female lead next to Gwen and really important to the story
 * Same age as the group and at their school
 * Maybe: D learns she works at the local diner to pay for her things
 
@@ -131,7 +131,7 @@ Villains
 
 Writing Approach
 
-* The story plays like a game. Files record starting points and plans, and outcomes are not fixed because it is hard to say how things will turn out.
+* The story plays like a game. Files record starting points and plans. Outcomes are not fixed because it is hard to say how things will turn out.
 * Daily life is the backbone; hero work is the interruption.
 * Anchor locations: Parker Sunday dinners, school, Lorna's diner, the F.E.A.S.T. kitchen, Gwen's band practice and Peter's lab corner.
 * D as the lens: courier routes and dinners give reasons to drop into everyone's routines.
@@ -144,8 +144,8 @@ Writing Approach
 
 Open Questions
 
-* D's power level and limits once his memories return, and how he hides them (venom model in D-Story-Spider-Abilities.txt)
-* Whether D stays at the children's home or is fostered or adopted, and how he makes money
+* D's power level and limits once his memories return and how he hides them (venom model in D-Story-Spider-Abilities.txt)
+* Whether D stays at the children's home or is fostered or adopted and how he makes money
 * Who makes up D's household
 * Uncle Ben's fate
 * Whether mutants and Magneto exist
@@ -159,7 +159,7 @@ Related Files
 * D-Story-So-Far.txt: the only story canon, everything already played
 * D-Story-Life-Timeline.txt: detailed D, Peter and Harry life timeline ideas with ages
 * Story-Outline.txt: everything as stated
-* Approved-Suggestions-and-Universal-Details.txt: approved suggestions (delivery business) and inspiration reference
+* Approved-Suggestions-and-Universal-Details.txt: approved suggestions (delivery business), character sheets, inspiration reference and MCU tie-ins
 * D-Story-Rough-Timeline.txt: full rough timeline including the MCU tie-ins
 * D-Story-Unapproved-Ideas.txt: unapproved ideas including the Oscorp deep science division
 * Fiction-Writing-Rules.txt: rules for writing the story
@@ -172,3 +172,4 @@ Related Files
 * D-Story-Speed-and-Skill-Over-Time.txt: speed and skill from 14 to 35
 * D-Story-Cast-Physical-Baselines.txt: Peter, Gwen, Harry and D from 14 to 35
 * D-Story-Symbiotes.txt: symbiote lore and nature
+* Reference docs: MCU timelines, MCU and comic villain lists, attainable powers and Goose (Reference folder in the repository; project root and claude folder in the project)

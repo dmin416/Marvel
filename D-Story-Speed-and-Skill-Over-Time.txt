@@ -61,7 +61,7 @@ Key Points
   * Trained peaks at 0.52 m from 24 to 27
 * Reaction time
   * Untrained reaches about 250 ms by 20 and then slows slowly
-  * Trained reaches 215 ms by 25 through practice and holds until about 28
+  * Trained reaches 215 ms by 25 through practice and holds until about 29
 * Processing speed peaks at 19 and declines about 0.6 points per year
 * Working memory peaks at 30
 * Task skill rises fastest from 15 to 22 and plateaus at 94 from 31 to 34

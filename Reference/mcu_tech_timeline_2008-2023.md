@@ -20,11 +20,11 @@ Runs from Tony Stark's capture in Afghanistan to *Avengers: Endgame*. Dates foll
 - **Hulk-fighting tech:** truck-mounted sonic cannons at Culver University, Banner's heart-rate watch that alerts him before he hits 200 bpm and Samuel Sterns' experimental antidote (*The Incredible Hulk*)
 - **Whiplash:** Vanko's homemade arc reactor powers electrified whips at the Monaco Grand Prix. His later full armor has a self-destruct. (*Iron Man 2*)
 - **Mark V:** the briefcase suit Happy delivers in Monaco (*Iron Man 2*)
-- **War Machine:** Rhodes takes the Mark II, and the Air Force has Hammer load it with weapons (*Iron Man 2*)
+- **War Machine:** Rhodes takes the Mark II and the Air Force has Hammer load it with weapons (*Iron Man 2*)
 - **Hammer Drones:** Vanko-built robot soldiers for the Army, Navy, Air Force and Marines, hijacked at the Stark Expo (*Iron Man 2*)
 - **Foreign copies:** Senate hearing footage shows other nations' failed Iron Man attempts (*Iron Man 2*)
 - **Lithium dioxide:** S.H.I.E.L.D.'s stopgap injection for Tony's palladium poisoning (*Iron Man 2*)
-- **New element:** Tony builds a particle accelerator at home to make Howard's element. It powers the Mark VI's triangular reactor, and the Mark VI carries a one-shot laser. (*Iron Man 2*)
+- **New element:** Tony builds a particle accelerator at home to make Howard's element. It powers the Mark VI's triangular reactor. The Mark VI carries a one-shot laser. (*Iron Man 2*)
 - **Asgardian tech on Earth:** the Bifrost, Mjolnir and the Destroyer automaton (*Thor*)
 - **S.H.I.E.L.D.:** seizes Jane Foster's wormhole research, builds a compound around Mjolnir and starts studying the Tesseract with Erik Selvig (*Thor*)
 
@@ -118,7 +118,7 @@ Runs from Tony Stark's capture in Afghanistan to *Avengers: Endgame*. Dates foll
 
 - **Time Heist:** Tony cracks time travel through the Quantum Realm with an inverted Möbius strip model. The team uses a quantum tunnel, nanotech time-travel suits, Time-Space GPS wrist units and a scarce supply of Pym Particles.
 - **Professor Hulk:** Bruce merges with the Hulk after 18 months of work in the gamma lab
-- **Nano Gauntlet:** a Stark-built gauntlet for all six Stones. Hulk's snap returns the vanished, and Tony's snap erases Thanos's forces.
+- **Nano Gauntlet:** a Stark-built gauntlet for all six Stones. Hulk's snap returns the vanished and Tony's snap erases Thanos's forces.
 - **Armor:** Tony's Mark 85 and Pepper's Rescue suit
 - **Nebula's cybernetics:** her implants sync with her 2014 self, which leaks the plan to Thanos
 - **2014 Thanos:** Sanctuary II bombards the Avengers Compound

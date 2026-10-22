@@ -18,9 +18,6 @@ D
 * Can choose to have his powers or start fresh
 * Starts the story as a normal kid with most of his memories sealed off
 * Trains to survive the world
-* Peter is a weak nerd
-* Gwen is a police captain's daughter who takes self defense but does not lift weights
-* Harry trains enough to attract women
 * Likes helping people and helps them if he can
 * The only people with good souls are the people who live with him
 * Finishes college right before 2008 and has powers when Tony is abducted
@@ -89,11 +86,16 @@ World
 * Gwen is bitten right before college on the senior trip to Oscorp
 * Super spider venom is a multiplier on the person's own baseline. Gwen gets a single full dose (strength x50) and D gets weeks of controlled doses totaling about 300% efficacy. See D-Story-Spider-Abilities.txt
 * Cindy Moon is downplayed for now (idea: scientist turned villain like the Green Goblin)
+* Superpowers are acknowledged as existing but somewhat rare
+* Many villains and an overall helpless police force, comic style
+* No massive world-ending issues
+* The Fantastic Four and Doom are side notes fighting amongst themselves, like the 2005 movie
 
 Gwen
 
 * A different version of Gwen who doesn't change dimensions
 * Has some of her memories and character growth
+* Gwen is a police captain's daughter who takes self defense but does not lift weights
 * Gwen's visual progression from 6 to 21 follows the character sheet (details in Approved-Suggestions-and-Universal-Details.txt)
 * Character sheets for Gwen, Peter and Harry are to be taken with a grain of salt
 * Her guilt is that she thinks she killed Peter
@@ -102,7 +104,7 @@ Gwen
 * Has to rely on symbiote D
 * As a symbiote, D appreciates adult Gwen's body
 * It's rude to Peter. Peter is fine since he loved Mary Jane after she ditched him for every famous nobody a thousand times
-* Peter tries to help when Gwen loses her powers and is desperate, but Cindy's serum blocks it
+* Peter tries to help when Gwen loses her powers and is desperate but Cindy's serum blocks it
 * Instead of technology, D's symbiote gives Gwen the powers she desires
 * Peter learns about the bond and understands it. The symbiote is basically a clone of D and more realistically completely connected to D
 * Gwen and Peter get together, as in The Amazing Spider-Man. Peter is an understanding guy
@@ -112,6 +114,8 @@ Gwen
 Green Goblin and the Osborns
 
 * Norman is like the Raimi version
+* Peter is a weak nerd
+* Harry trains enough to attract women
 * His madness happens after Peter works for Curt and the Lizard arc
 * Uncle Ben gives Peter the talk after Lizard Peter beats guys in the wrestling cage
 * Norman will fight whoever (Peter, Gwen, D or whoever) and nearly kill himself but survive
@@ -128,7 +132,3 @@ Green Goblin and the Osborns
 * Gwen will also be saved by D
 * D will eventually take over a symbiote maybe and bond with Gwen in a managed way
 * Gwen and Peter will eventually get together and become a crime-fighting duo
-* Superpowers are acknowledged as existing but somewhat rare
-* Many villains and an overall helpless police force, comic style
-* No massive world-ending issues
-* The Fantastic Four and Doom are side notes fighting amongst themselves, like the 2005 movie

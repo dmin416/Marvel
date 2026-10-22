@@ -51,7 +51,7 @@ Strength, Adhesion and Durability
   * Human scale at the theoretical value: about 12 tonnes of hold. Realistic values would be much lower
   * This is grip capacity and not a lifting record
 * Regeneration
-  * Many spiders regrow lost legs over later molts, and the new leg may start smaller
+  * Many spiders regrow lost legs over later molts and the new leg may start smaller
   * Adults of species that no longer molt generally cannot regrow limbs
 * Longevity
   * Gaius villosus: the female "Number 16" in Western Australia lived at least 43 years (first documented 1974 and last seen alive about 2016 so 43 is a minimum age)
@@ -72,7 +72,7 @@ Senses
   * Jumping spiders have the sharpest known spider vision
   * Principal eyes resolve fine detail while secondary eyes track motion across a wide field
   * Acuity is sharp for their body size and comparable to much larger animals such as pigeons and cats
-  * No verified arcminute figure was found. Human foveal acuity is commonly cited at about 1 arcminute. Avoid giving a spider figure until checked against primary literature
+  * Portia's principal eyes resolve about 0.04 degrees (2.4 arcminutes) per Williams and McIntyre (1980) as cited in Harland and Jackson (2000). Typical human acuity is about 1 arcminute. See D-Story-Chimera-Spider-Scale.txt
 * Night vision
   * Ogre-faced spiders with huge rear-facing eyes built for very dim light
 * Vibration sense

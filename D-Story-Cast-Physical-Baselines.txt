@@ -126,7 +126,7 @@ Reference Points
 
 Venom Results
 
-* Gwen at a single dose (strength x50, speed x2, reaction time divided by 3, jump x10): lift 2,000 kg | sprint 12.0 m/s (43 km/h) | reaction 80 ms | jump 3.0 m
+* Gwen at a single dose (strength x50, speed x2, reaction time divided by 3, jump x10) on her adult baseline: lift 2,000 kg | sprint 12.0 m/s (43 km/h) | reaction 80 ms | jump 3.0 m. At the age 18 bite her 38 kg baseline gives about 1,900 kg
 * D at 300% efficacy (strength x148, speed x4, reaction time divided by 7, jump x28): lift 20,720 kg | sprint 30.0 m/s (108 km/h) | reaction 31 ms | jump 14.0 m
 * D lifts 10.4 times what Gwen lifts
 
