@@ -9,9 +9,9 @@ Premise
 * D is an undernourished 14 year old orphan who is small for his age
 * Strength is measured as a one rep floor lift (deadlift) in kilograms
 * Two tracks: untrained and trained from age 18 (college)
-* D starts training at 14 and it is already happening in the played story (yard workout). The trained values below still model a start at 18 and need recalculating from 14
+* D starts training at 14 and it is already happening in the played story (yard workout). D-Story-Monthly-Strength.txt replaces the trained track below with a month-by-month model from 14 (168 kg at 22 and a 180 kg peak). The trained-from-18 column is kept only for comparison
 * D trains to survive the world. Peter stays a weak nerd and Gwen takes self defense without weights and Harry trains just enough to attract women
-* The trained track reaches 140 kg at age 22 to match D's baseline in D-Story-Spider-Abilities.txt
+* The old trained-from-18 track reached 140 kg at age 22
 
 Sourced Anchors
 
@@ -77,12 +77,12 @@ Effect of Undernutrition
 Use With the Venom Model
 
 * The venom multiplies the baseline at the age of the dose
-* A dose at 22 multiplies 140 kg
-* A dose at 30 would multiply the peak of about 164 kg. A later dose multiplies a higher baseline
-* Waiting to peak age improves the result by about 17 percent over a dose at 22
+* A dose at 22 multiplies 168 kg (D-Story-Monthly-Strength.txt)
+* A dose at 26 to 31 would multiply the peak of about 180 kg
+* Waiting to peak age improves the result by about 7 percent over a dose at 22
 
 Open Questions
 
 * The age at which D starts getting proper food after age 14
 * Whether his sealed memories include trained muscle memory
-* Recalculate the trained track with training from 14
+* Training from 14 is now modeled in D-Story-Monthly-Strength.txt

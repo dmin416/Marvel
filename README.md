@@ -21,7 +21,8 @@ The same files live in the claude.ai Project "Marvel". The project uses differen
 | D-Story-Super-Spider-Gains.txt | d_story/super_spider_gains.md | Earlier dosing brainstorm (numbers superseded) |
 | D-Story-Spider-Ability-Scale.txt | d_story/spider_ability_scale.md | Real spider records |
 | D-Story-Chimera-Spider-Scale.txt | d_story/chimera_spider_scale.md | Chimera spider donor traits |
-| D-Story-Strength-Over-Time.txt | d_story/strength_over_time.md | Strength from 14 to 35 |
+| D-Story-Monthly-Strength.txt | d_story/monthly_strength.md | D's base strength for every month from 14 to 35 |
+| D-Story-Strength-Over-Time.txt | d_story/strength_over_time.md | Sourced strength anchors and older yearly tracks |
 | D-Story-Speed-and-Skill-Over-Time.txt | d_story/speed_and_skill_over_time.md | Speed and skill from 14 to 35 |
 | D-Story-Cast-Physical-Baselines.txt | d_story/cast_physical_baselines.md | Peter, Gwen, Harry and D from 14 to 35 |
 | Sexual-Kinks-of-Superhumans.txt | d_story/superhuman_physiology.md | Adult-only superhuman setting mechanics |

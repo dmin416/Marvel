@@ -169,7 +169,8 @@ Related Files
 * D-Story-Super-Spider-Gains.txt: earlier venom efficacy brainstorm (superseded by the abilities file)
 * D-Story-Spider-Ability-Scale.txt: real spider records and scale
 * D-Story-Chimera-Spider-Scale.txt: chimera spider donor traits and scale
-* D-Story-Strength-Over-Time.txt: strength from 14 to 35
+* D-Story-Monthly-Strength.txt: D's base strength for every month from 14 to 35
+* D-Story-Strength-Over-Time.txt: sourced strength anchors and the older yearly tracks
 * D-Story-Speed-and-Skill-Over-Time.txt: speed and skill from 14 to 35
 * D-Story-Cast-Physical-Baselines.txt: Peter, Gwen, Harry and D from 14 to 35
 * D-Story-Symbiotes.txt: symbiote lore and nature
