@@ -1,6 +1,6 @@
 D Story: Story So Far
 
-Third-person, past-tense interactive narrative. Only events already played are recorded. This file is the only story canon; everything in the other D story files is planning ideas.
+Third-person, past-tense interactive narrative. Only events already played are recorded. Later days are recorded at the level they were played, which for the school days is a summary rather than scene by scene. This file is the only story canon; everything in the other D story files is planning ideas.
 
 The First Awakening
 
@@ -125,11 +125,51 @@ Evening Exercise
 
 D returned the Popular Science magazines to the back shelf and put his folder in his cubby. He went out to the yard and Eli followed to watch from the curb by the fountain. D did pull-ups and dips at the railing, push-ups and sit-ups on the asphalt and laps around the fence line. Eli ran half a lap beside him before dropping back to the curb. D finished at 5:20 with dinner at six.
 
+Sunday Evening
+
+Dinner was at six in the same hall: baked chicken, rice, canned green beans and bread. Chores followed, with the dishes going to the two older boys. The common room had one television and a staff member put the evening news on it. The lead story was the Midtown jewelry robbery. Showers ran in shifts down the hall from the dormitory. Lights out was at nine.
+
+The building showed its size over those hours. Three or four staff covered about sixty boys. One woman ran the kitchen. Hand-me-down clothes were sorted by size in a closet off the dormitory. A pay phone stood in the front hall under a list of rules, and the office by it stayed locked with a filing cabinet visible behind the glass. Mrs. Matthews read the Saturday F.E.A.S.T. list aloud again at dinner and reminded the seven boys about closed shoes. She also gave the morning's schedule: breakfast at 6:45 and the Midtown High bus at 7:15 from the front door.
+
+Monday, September 13, 1999: First Day at Midtown High
+
+The bus crossed the bridge into Queens. Midtown High School of Science and Technology stood behind a chain-link fence and a parking lot, four floors of brick with a banner over the doors for the fall term.
+
+Homeroom took attendance twice before the teacher got the list right. The boy at the next desk introduced himself and asked where D came from, which lunch period he had and whether he knew anybody. The first-day classes ran short periods and handed out textbooks with other students' names inked in the covers, a syllabus each and a form for a parent to sign. D worked through everything the teachers put in front of him, read ahead in the chapters while the rooms were still settling and copied out the whole year's unit list from the algebra syllabus. In biology the terrariums along the window were labeled in a careful hand and the first lab was two weeks out. The English teacher wanted a notebook kept daily.
+
+Lunch was turkey and gravy over bread, corn, an apple and milk. A few students made room at a table and talked through it, mostly about teachers and who was tough. The food was plain. D ate all of it and went back for a second apple.
+
+In his last period a girl asked to share a book because hers had not come in, and spent the period pointing out which pages the teacher would skip. She said the library stayed open until four and nobody ever used the back tables.
+
+Last bell was at 2:45 and the bus left at 3:00. D took the bus. The ride back crossed the bridge with the river flat and brown underneath and the skyline off to the left, and let the boys out at the front door a little before four. Mrs. Matthews checked them in and collected the parent forms, which she signed herself at the desk.
+
+Monday Study Hall and Evening
+
+Study hall ran from four to five-thirty on school nights. Two boys a year behind D were already waiting at the second row, Marcus with the same linear equations sheet Eli had worked on and Benny with fractions. D ran the balance idea again with Marcus, writing each step out and making him check the answer by putting it back in. Benny had never been told that a fraction was a division, so D wrote it as a bar and then as a divide sign and let him do the same problem twice. Eli came over partway through and sat in on it. Mr. Reyes came by twice and said he would rather have four boys finishing their sheets than one, then asked whether D would take the same table on school nights. D told him yes, and Mr. Reyes wrote it on the back of his own folder.
+
+D trained in the yard in the last hour of light: pull-ups and dips at the railing, push-ups and sit-ups on the asphalt and laps along the fence. Eli sat on the curb by the fountain with the pumped-up ball. Marcus tried the railing, got three pull-ups and ran one lap.
+
+Dinner was sausage and peppers over rice, bread and canned pears. Mrs. Matthews read the Saturday list aloud again. Chores, the common room, showers in shifts and lights out at nine followed.
+
+Tuesday, September 14, 1999
+
+Tuesday ran full periods instead of Monday's short ones. Algebra started the first chapter. Biology spent the hour on microscopes, two students to a scope, with prepared slides from a box that had been in the cabinet a long time. English collected the first notebook entry. The history teacher talked for the whole period without notes.
+
+The hallway sorted itself out more clearly than on Monday: which stairwell to use and which hall was impassable at the bell. A couple of students talked to D at the lockers, one comparing the algebra homework and another asking whether he had a lunch period free for a study group that met in the cafeteria corner.
+
+Lunch was fish sticks, tater tots, green beans, a roll and milk. D ate all of it.
+
+After school came the bus back and study hall at four, where Mr. Reyes sent three boys to the table, two of them from the day before. D trained in the yard until the light went. Dinner was at six. The evening news carried an arrest in the Midtown jewelry case and said two of the crew were still out, with some of the jewelry recovered and a lot of it not. Lights out at nine.
+
 Current Stopping Point
 
-* Sunday, September 12, 1999, 5:20 p.m. D has just finished exercising in the yard with Eli watching from the curb. Dinner is at six. D has agreed to tutor other boys for Mr. Reyes.
+* Wednesday, September 15, 1999, 6:30 a.m. The dormitory lights have just come on. Three days until the Saturday F.E.A.S.T. trip.
+* D is a freshman at Midtown High School of Science and Technology in Queens. The bus leaves the home at 7:15 and the last bell is at 2:45.
+* D tutors at the second-row table in study hall on school nights, four to five-thirty. Mr. Reyes sends the boys who need it.
+* D trains in the yard in the last hour of light and again in the evening when there is time.
 * The Saturday outing is still in the future. D is signed up for it.
-* No adoption, meeting with the Parkers, school day or other later event has occurred.
+* No adoption, meeting with the Parkers or other later event has occurred.
+
 
 Characters Introduced
 
@@ -140,4 +180,6 @@ Characters Introduced
 * Eli: the smaller boy; sat on the curb with a deflated ball that D pumped up and played on D's side for a moment. At the home since last spring. Wants to be a basketball player or a bus driver.
 * Mrs. Garcia: the woman in the hairnet who serves the meals; D hugged her at lunch
 * Two older boys: assigned to wash and dry dishes after lunch
-* Mr. Reyes: thin young staff member who runs the study hall; asked D to tutor other boys
+* Mr. Reyes: thin young staff member who runs the study hall; D tutors at his table on school nights
+* Marcus and Benny: two boys a year behind D at the home; D tutored them in linear equations and fractions
+* Midtown High students: a few in D's classes talked to him at the lockers and at lunch. None are named yet
