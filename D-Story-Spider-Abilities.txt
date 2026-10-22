@@ -1,0 +1,93 @@
+D Story: Spider Abilities
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: design brainstorm only. Nothing here is approved. This file supersedes the efficacy numbers in D-Story-Super-Spider-Gains.txt.
+
+The Multiplier Model
+
+* Super spider venom is a multiplier applied to a person's own baseline
+* A single full dose (Gwen) gives multiplier M1 for each trait
+* Efficacy is the effect size of the venom. A single dose is 100%
+* The effect is M1 minus 1. At efficacy E the multiplier is 1 + E x (M1 - 1)
+* D at 300% efficacy: M = 1 + 3 x (M1 - 1)
+* A higher baseline means a higher absolute result. Venom does not level people out
+* Gain in absolute terms equals baseline x (M - 1). The stronger person gains the most
+
+Trait Multipliers
+
+* Strength and lift: single dose x10 and D at 300% x28
+* Jump height: single dose x10 and D at 300% x28
+* Running speed: single dose x2 and D at 300% x4
+  * Speed scales far less than strength because air drag grows with the square of speed
+* Reaction speed (time divided by M): single dose x3 and D at 300% x7
+* Durability and impact tolerance: single dose x3 and D at 300% x7
+* Healing rate: single dose x5 and D at 300% x13
+* Stamina and recovery: single dose x5 and D at 300% x13
+
+Baselines Used
+
+* Verified
+  * Untrained adult man deadlift is about 70 kg and an untrained adult woman about 39 kg (strength standards summaries)
+  * Deadlift record: 501 kg by Hafthor Bjornsson in 2020 (with a suit) and 505 kg in 2025. Eddie Hall's 500 kg is held in a separate category
+  * Raw bench press record: 355 kg by Julius Maddox in 2021
+  * Usain Bolt's top speed was about 12.4 m/s (about 44.7 km/h). A UC Davis analysis gives 12.28 m/s
+  * Bolt's reaction time to the gun was 0.146 s to 0.17 s depending on the source
+* Design estimates (not sourced)
+  * Lift of 50 kg for a scrawny nerd and for Gwen. Gwen is a fit drummer so she sits above the 39 kg untrained figure
+  * D lifts 140 kg as a larger fit man
+  * Elite tier (Daredevil or Punisher) lifts 250 kg
+  * Sprint speeds, reaction times and vertical jumps for the non-record people
+  * Reaction times for ordinary people are estimates and need a source before use
+
+Results
+
+Baselines
+* Scrawny nerd (Peter type): lift 50 kg | sprint 5.5 m/s (20 km/h) | reaction 260 ms | vertical jump 0.3 m
+* Gwen (small woman): lift 50 kg | sprint 6.0 m/s (22 km/h) | reaction 250 ms | vertical jump 0.3 m
+* D (larger fit man): lift 140 kg | sprint 7.5 m/s (27 km/h) | reaction 220 ms | vertical jump 0.5 m
+* Elite (Daredevil/Punisher tier): lift 250 kg | sprint 9.0 m/s (32 km/h) | reaction 180 ms | vertical jump 0.75 m
+* Peak human (record level): lift 505 kg | sprint 12.4 m/s (45 km/h) | reaction 150 ms | vertical jump 1.0 m
+
+Single full dose
+* Scrawny nerd (Peter type): lift 500 kg | sprint 11.0 m/s (40 km/h) | reaction 87 ms | jump 3.0 m
+* Gwen (small woman): lift 500 kg | sprint 12.0 m/s (43 km/h) | reaction 83 ms | jump 3.0 m
+* D (larger fit man): lift 1,400 kg | sprint 15.0 m/s (54 km/h) | reaction 73 ms | jump 5.0 m
+* Elite (Daredevil/Punisher tier): lift 2,500 kg | sprint 18.0 m/s (65 km/h) | reaction 60 ms | jump 7.5 m
+* Peak human (record level): lift 5,050 kg | sprint 24.8 m/s (89 km/h) | reaction 50 ms | jump 10.0 m
+
+D protocol 300% efficacy
+* Scrawny nerd (Peter type): lift 1,400 kg | sprint 22.0 m/s (79 km/h) | reaction 37 ms | jump 8.4 m
+* Gwen (small woman): lift 1,400 kg | sprint 24.0 m/s (86 km/h) | reaction 36 ms | jump 8.4 m
+* D (larger fit man): lift 3,920 kg | sprint 30.0 m/s (108 km/h) | reaction 31 ms | jump 14.0 m
+* Elite (Daredevil/Punisher tier): lift 7,000 kg | sprint 36.0 m/s (130 km/h) | reaction 26 ms | jump 21.0 m
+* Peak human (record level): lift 14,140 kg | sprint 49.6 m/s (179 km/h) | reaction 21 ms | jump 28.0 m
+
+Comparisons
+
+* D at 300% against Gwen at a single dose
+  * Multiplier ratio: strength and jump 2.8x and speed 2x and reaction 2.3x
+  * Result ratio: lift 7.8x and jump 4.7x and sprint 2.5x and reaction 2.7x quicker
+  * About two thirds of the lift gap is D's higher baseline. The rest is his higher efficacy
+* Peak human against a scrawny nerd
+  * Baseline: lift 10.1x and sprint 2.3x and reaction 1.7x quicker and jump 3.3x
+  * After any equal dose the ratios stay the same for lift because the venom is a pure multiplier
+  * Single-dose peak human lifts 5,050 kg against 500 kg for the nerd
+  * Peak human gains 4,545 kg from one dose and the nerd gains 450 kg
+* Peak human on a single dose against D at 300%
+  * Lift: peak human is 1.3x stronger (5,050 kg against 3,920 kg)
+  * Sprint: D is faster (30.0 m/s against 24.8 m/s) because speed scales so little
+* Peak human at 300% efficacy lifts about 14 tons and sprints near 50 m/s. That is the extreme ceiling for this model
+
+Notes for the Story
+
+* Gwen's single dose puts her above every human record in strength while staying a small woman
+* D's protocol is the best case for a body of his size. A stronger person on the same protocol would exceed him
+* The ceiling from the earlier spider files still applies. About 300% is the safe limit before mutation
+* Cost still applies: calories, sleep and recovery time scale with the multiplier
+
+Open Questions
+
+* Whether efficacy can stack past 300% for someone with a higher baseline
+* Whether the multiplier should apply to cross-section strength or to muscle quality only
+* Whether durability keeps pace with strength so users do not injure themselves
