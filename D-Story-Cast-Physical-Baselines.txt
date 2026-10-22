@@ -1,0 +1,37 @@
+D Story: Cast Physical Baselines
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: design brainstorm only. Nothing here is approved. Values are design estimates before any venom.
+
+Training Lifestyles
+
+* Peter: weak nerd. Does not train
+* Gwen: police captain's daughter. Takes self defense but does not lift weights
+* Harry: trains enough to attract women
+* D: trains to survive the world. Trained track from age 18 (see D-Story-Strength-Over-Time.txt and D-Story-Speed-and-Skill-Over-Time.txt)
+
+Baselines at Adult Age
+
+* Peter: lift 50 kg | sprint 5.5 m/s (20 km/h) | reaction 260 ms | vertical jump 0.30 m
+* Gwen: lift 40 kg | sprint 6.0 m/s (22 km/h) | reaction 240 ms | vertical jump 0.30 m
+* Harry: lift 100 kg | sprint 7.0 m/s (25 km/h) | reaction 240 ms | vertical jump 0.45 m
+* D at age 22: lift 140 kg | sprint 7.5 m/s (27 km/h) | reaction 220 ms | vertical jump 0.50 m
+
+Reference Points
+
+* Untrained adult man lifts about 70 kg and an untrained adult woman about 39 kg
+* Deadlift record is 505 kg (2025)
+* Usain Bolt's top speed was about 12.4 m/s
+
+Venom Results
+
+* Gwen at a single dose (strength x50, speed x2, reaction time divided by 3, jump x10): lift 2,000 kg | sprint 12.0 m/s (43 km/h) | reaction 80 ms | jump 3.0 m
+* D at 300% efficacy (strength x148, speed x4, reaction time divided by 7, jump x28): lift 20,720 kg | sprint 30.0 m/s (108 km/h) | reaction 31 ms | jump 14.0 m
+* D lifts 10.4 times what Gwen lifts
+
+Related Files
+
+* D-Story-Spider-Abilities.txt: multiplier model and canon feat check
+* D-Story-Strength-Over-Time.txt: strength from 14 to 35
+* D-Story-Speed-and-Skill-Over-Time.txt: speed and skill from 14 to 35
