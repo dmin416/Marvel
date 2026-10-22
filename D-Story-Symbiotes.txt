@@ -25,6 +25,28 @@ This Story's Symbiote (from existing files)
 * Can spawn offspring like Carnage
 * Gwen later relies on a managed bond with symbiote D. The symbiote gives her the powers she wants instead of technology
 
+Nature of Symbiotes (this story)
+
+* A symbiote reflects something about the mind of the person it pairs with and amplifies it
+* The reflected trait becomes its personality and drives its behavior
+* Its intelligence comes from the host's mind and not from a separate mind of its own
+* If the host completely overwhelms the symbiote, the symbiote may be absorbed into the host instead of staying separate
+* This matches D taking Eddie's symbiote, experimenting on it and absorbing it
+
+Implications
+
+* Eddie Brock: the symbiote amplifies his resentment and ambition as a failed reporter
+* D: his symbiote is a clone reflecting D and is completely connected to him, so absorbing it is easy
+* Gwen: a symbiote paired with Gwen reflects her traits (guilt and drive) while staying tied to D
+* Different hosts produce different symbiotes from the same source
+
+Open Questions
+
+* Which trait the symbiote reflects: a dominant emotion or a hidden desire or the whole personality
+* How strong a will must be to overwhelm a symbiote
+* Whether absorption keeps the symbiote's powers and memories in the host
+* Whether a host can be overwhelmed by their own amplified trait
+
 Capabilities (comics)
 
 * Reads the host's adrenaline and bonds closely with them
