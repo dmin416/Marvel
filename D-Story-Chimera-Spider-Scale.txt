@@ -24,13 +24,16 @@ Part 1: Real Spider Baselines
 Visual Acuity
 
 * Jumping spider principal eyes resolve about 0.04 degrees (about 2.4 arcminutes), roughly two spots 0.12 mm apart at 20 cm
-* Comparison from one secondary source (Cabinet Magazine): human acuity 0.007 degrees against 0.04 degrees for a jumping spider, comparable to a domestic cat. Humans resolve about 6 times finer detail. Other sources give human acuity as about 1 arcminute (0.017 degrees)
+* Comparison: human acuity 0.007 degrees against 0.04 degrees for Portia, comparable to a domestic cat. Other sources give typical human acuity as about 1 arcminute (0.017 degrees)
 * The principal eye works like a Galilean telescope (a long tube with lenses at both ends)
 * The principal eye retina covers only about 0.6 degrees and holds no more than about 1,500 receptors
 * Acuity comes from a small dense region. The secondary eyes cover motion across a wide field
-* Portia summary: inter-receptor angles can be as small as 2.4 arcminutes, about six times coarser than humans. This matches the 0.04 degree figure
+* Primary source: Harland and Jackson, "Eight-legged cats and how they see" (2000). Portia acuity is 0.04 degrees (Williams and McIntyre 1980), which is 2.4 arcminutes
+* Dragonfly acuity (highest known in insects) is 0.4 degrees, so Portia is ten times finer despite much smaller eyes
+* Human acuity of 0.007 degrees (Land 1981) is only about five times better than Portia
+* At 200 mm Portia can separate objects 0.12 mm apart
+* The human eye has over 150 million photocells and a salticid eye only thousands
 * The principal eyes cover a small field of about 1 to 2 degrees (Land 1969). Williams and MacIntyre (1980) showed a pit at the rear of the tube acts as a lens and gives even better acuity than Land found
-* The 0.04 degree value is a secondary figure. The Harland and Jackson Portia papers were not reachable
 
 Danger Sense
 
