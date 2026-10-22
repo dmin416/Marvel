@@ -93,6 +93,8 @@ Open Questions
 * Whether efficacy can stack past 300% for someone with a higher baseline
 * Whether the multiplier should apply to cross-section strength or to muscle quality only
 * Whether durability keeps pace with strength so users do not injure themselves
+* Gwen is bitten right before college at 18 so her baseline lift is 39 kg and not 40 kg. The difference is small
+* The age at which D takes his dosing protocol. The multiplier acts on his baseline at that age: a protocol at 18 (75 kg lift) gives about 11,100 kg at 300% and one at 22 (140 kg lift) gives about 20,720 kg
 
 Canon Feat Check
 
