@@ -7,15 +7,17 @@ Status: planning ideas only. Nothing here is set. The only story canon is D-Stor
 Approved Direction
 
 * The Fantastic Four are based on the 2005 movie
-* Victor Von Doom is an investor or the son of royalty but not the ruler of Latveria
+* Victor Von Doom is the son of Latveria's royal family who lives abroad as a businessman
+* After he gets his powers and Ultron's destruction hits Latveria, he goes back to rule it
 * The Fantastic Four and Doom feud among themselves in the background
 * D's Baxter Building deliveries are how the story checks in on them and Doom
 
 Victor Von Doom
 
 * Latverian-born billionaire who runs Von Doom Industries out of New York
-* Either an investor or the son of royalty (to be decided). Option A: a self-made investor whose family has old money from Latveria. Option B: a younger son of Latveria's royal family who lives abroad and has no claim to the throne
-* Not the ruler of Latveria. Someone else rules the country
+* Son of Latveria's royal family. He lives abroad as a businessman and does not rule Latveria at the start
+* Someone else rules Latveria until Ultron's destruction
+* After he gets his powers and Ultron destroys Latveria, he goes back to rule it
 * Proud, image-obsessed and used to getting his way, as in the 2005 movie
 * Was a classmate and rival of Reed Richards
 * Dates Sue Storm and wants to marry her
@@ -41,7 +43,9 @@ Origin (2005 Movie Inspiration)
 
 Changes for This Story
 
-* Victor is not the ruler of Latveria. If he goes to Latveria afterward he is a returning royal son or a wealthy exile, not its king
+* Victor starts as a royal son abroad, not the ruler of Latveria
+* The 2005 ending where his body is shipped to Latveria is not used as the way he takes power. He goes back to rule only after Ultron's destruction of Latveria
+* Open: whether Ultron's destruction of Latveria replaces Sokovia or happens alongside it (Age of Ultron is 2015 in the MCU timeline)
 * Doom stays a recurring rival rather than a world-ending threat
 * The Fantastic Four are public heroes from the start
 * They live and work in the Baxter Building in Manhattan
