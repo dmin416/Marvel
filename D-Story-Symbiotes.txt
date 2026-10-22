@@ -17,7 +17,7 @@ Comics History (inspiration)
 This Story's Symbiote (from existing files)
 
 * The symbiote comes from space
-* D's one and only symbiote contact comes around the turn of the century (about 2000, age 15). There is only one symbiote
+* D's one and only symbiote contact comes on his 15th birthday, December 30, 1999. There is only one symbiote. From then on it maximizes his nutrition, recovery and gains
 * Eddie Brock gets it
 * D takes it from Eddie, experiments on it and absorbs it
 * The symbiote is basically a clone of D and completely connected to D
@@ -145,7 +145,7 @@ Proposed Multiplier Model
 * Already enhanced host (D)
   * Gains shrink through diminishing stacking on top of the host's current level
   * Strength x1.5 to x2 and speed x1.2 to x1.5 and reaction time divided by 1.5 and jump x1.5 to x2 and durability x2 to x3 and healing x1.5 to x2
-  * D at 300% venom lifts 24,864 kg at 22 so with the symbiote about 37,300 to 49,700 kg
+  * D at 300% venom lifts 51,800 kg at 22 so with the symbiote about 77,700 to 103,600 kg
   * D sprints 30 m/s so with the symbiote about 36 to 45 m/s
   * D reacts in 31 ms so with the symbiote about 21 ms
   * D jumps 14 m so with the symbiote about 21 to 28 m
