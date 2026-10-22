@@ -82,7 +82,7 @@ Comparisons
 Notes for the Story
 
 * Gwen's single dose puts her at about 2.5 tonnes: far above every human record and enough to lift a car while staying a small woman
-* A loaded garbage truck of about 27 tonnes is out of reach for Gwen but inside D's range at 300% (about 20.7 tonnes empty-truck class)
+* An empty garbage truck (about 14 to 16 tonnes) is out of reach for Gwen but within D at 300% (about 20.7 tonnes). A loaded truck (about 24 to 28 tonnes) is beyond both
 * D's protocol is the best case for a body of his size. A stronger person on the same protocol would exceed him
 * The ceiling from the earlier spider files still applies. About 300% is the safe limit before mutation
 * Cost still applies: calories, sleep and recovery time scale with the multiplier
