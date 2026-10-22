@@ -8,7 +8,7 @@ Approved Direction
 
 * The Fantastic Four are based on the 2005 movie
 * Victor Von Doom is the son of Latveria's royal family who lives abroad as a businessman
-* After he gets his powers and Ultron's destruction hits Latveria, he goes back to rule it
+* Ultron's attack kills Latveria's rulers while Victor is away fighting the Fantastic Four. The UN names its accords after Latveria, which angers him. After Civil War he goes back to rule Latveria
 * The Fantastic Four and Doom feud among themselves in the background
 * D's Baxter Building deliveries are how the story checks in on them and Doom
 
@@ -16,8 +16,8 @@ Victor Von Doom
 
 * Latverian-born billionaire who runs Von Doom Industries out of New York
 * Son of Latveria's royal family. He lives abroad as a businessman and does not rule Latveria at the start
-* Someone else rules Latveria until Ultron's destruction
-* After he gets his powers and Ultron destroys Latveria, he goes back to rule it
+* Someone else rules Latveria until Ultron's attack kills the rulers
+* After he gets his powers, Latveria's destruction and the events of Civil War, he goes back to rule it
 * Proud, image-obsessed and used to getting his way, as in the 2005 movie
 * Was a classmate and rival of Reed Richards
 * Dates Sue Storm and wants to marry her
@@ -44,7 +44,7 @@ Origin (2005 Movie Inspiration)
 Changes for This Story
 
 * Victor starts as a royal son abroad, not the ruler of Latveria
-* The 2005 ending where his body is shipped to Latveria is not used as the way he takes power. He goes back to rule only after Ultron's destruction of Latveria
+* The 2005 ending where his body is shipped to Latveria is not used as the way he takes power. He goes back to rule only after Ultron's destruction of Latveria and the events of Civil War
 * Doom stays a recurring rival rather than a world-ending threat
 * The Fantastic Four are public heroes from the start
 * They live and work in the Baxter Building in Manhattan
@@ -67,8 +67,8 @@ Latveria Replaces Sokovia
 * Sokovia does not exist in this story. Latveria takes its place in every MCU event
 * 2015: Hydra's Baron Strucker holds Loki's scepter at a base in Latveria and experiments on volunteers there
 * Wanda and Pietro Maximoff are Latverian
-* Ultron lifts a Latverian city into the sky and drops it. Pietro dies and the city is destroyed
-* Victor Von Doom, by then powered, goes back afterward and rules Latveria
-* 2016: the Lagos incident leads to the Latveria Accords
+* Ultron lifts a Latverian city into the sky and drops it. Pietro dies, the city is destroyed and Latveria's rulers are killed
+* Victor Von Doom, by then powered, is away fighting the Fantastic Four wherever they clash and does not go home
+* 2016: the Lagos incident leads the United Nations to pass the Latveria Accords. Naming the accords after his country pisses Victor off
 * Helmut Zemo is a Latverian colonel whose family died in the Ultron attack
-* Open: how Victor's rule fits with the Accords and with Zemo
+* After the events of Civil War, Victor goes back and rules Latveria
