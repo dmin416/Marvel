@@ -96,6 +96,7 @@ Gwen
 * A different version of Gwen who doesn't change dimensions
 * Has some of her memories and character growth
 * Gwen is a police captain's daughter who takes self defense but does not lift weights
+* Gwen is a drummer
 * Gwen's visual progression from 6 to 21 follows the character sheet (details in Approved-Suggestions-and-Universal-Details.txt)
 * Character sheets for Gwen, Peter and Harry are to be taken with a grain of salt
 * Her guilt is that she thinks she killed Peter
