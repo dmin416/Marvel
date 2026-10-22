@@ -19,14 +19,13 @@ Sourced Anchors
 * Masters powerlifters (men 45 plus) lose about 0.33% of deadlift per year
 * A natural male beginner gains about 20 to 25 lb (9 to 11 kg) of muscle in year one of proper training and nutrition and about 10 to 12 lb, 5 to 6 lb and 2 to 3 lb in years two to four (Lyle McDonald model, sources disagree on size)
 * Untrained adult man deadlift is about 70 kg. Novice men reach about 1.25 to 1.5 times body mass
-* Chronic undernutrition delays puberty. A Kenyan study found boys delayed by about 3 years with the gap narrowing as maturation continued
 * Catch-up in adult height is debated. Childhood stunting is not significantly made up in adolescence (review)
 * No study was found measuring adult muscle strength after adolescent undernutrition. The effect on final strength is a design assumption
 
 Phases
 
-* 14 to 15: stunted and underweight. Puberty has not started. Strength is far below normal for age
-* 15 to 17: delayed growth spurt. Height velocity peaks around 16 instead of the usual 13 to 14. Strength climbs fastest right after it
+* 14 to 15: underweight and undernourished. Strength is far below normal for age
+* 15 to 17: nutrition improves and strength climbs fastest
 * 17 to 18: peak strength velocity. Steady food drives a large catch-up
 * 18 to 22: college training. Novice gains dominate
 * 22 to 28: intermediate gains slow as the body approaches its ceiling
@@ -69,8 +68,7 @@ Peak
 
 Effect of Undernutrition
 
-* Delayed puberty pushes the whole growth curve back by about 2 years
-* A stronger catch-up in the late teens lets him reach the same adult range
+* A strong catch-up in the late teens lets him reach the same adult range
 * Assumed permanent cost: slightly lower adult height than genetics predicted and a slightly lower strength ceiling (about 5 percent)
 * The cost applies to the ceiling and not to how fast he trains once fed
 
