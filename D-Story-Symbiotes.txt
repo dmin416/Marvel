@@ -25,6 +25,40 @@ This Story's Symbiote (from existing files)
 * Can spawn offspring like Carnage
 * Gwen later relies on a managed bond with symbiote D. The symbiote gives her the powers she wants instead of technology
 
+Comics Lore on Symbiote Minds and Hosts (researched)
+
+* Biology
+  * Symbiotes are amorphous alien multicellular organisms that bond with a host to survive
+  * Each leaves a codex behind in its host: a cellular imprint wrapped around the host's DNA that shares information about hosts with the hive (Venom #8)
+  * They reproduce asexually with a limited number of seeds. The original Venom symbiote spawned seven offspring and a clone
+  * They are effectively immortal but can die
+  * Some versions need chocolate or brain tissue (phenethylamine) and the symbiote feeds on adrenaline
+* Minds and intelligence
+  * Symbiotes are sentient and have hive-mind connections through their codices
+  * The influence runs both ways: the host's mental state shapes the symbiote as much as the symbiote shapes the host
+  * Venom's personality depends largely on who hosts it
+  * A symbiote amplifies the host's existing traits and can alter personality and memories and push darkest desires
+  * Some symbiotes are corrupted by harmful hosts. Anti-Venom is mindless in some accounts
+  * Whether Carnage inherits Venom's memories is unresolved in the sources found
+* Control and resistance examples
+  * Ben Reilly: the symbiote disguised itself as part of his Scarlet Spider hoodie and tried to bond fully but his strong will kept it from taking control
+  * Max Modell overcame the symbiote's control with Spider-Man's help
+  * Flash Thompson as Agent Venom struggled to control the symbiote's darker impulses and the symbiote developed some affection for him
+  * Spider-Man rejected the symbiote using sonic attacks
+  * Eddie Brock found the symbiote too much to handle and separated from it
+  * In some stories symbiotes consume their hosts entirely (Grendel-bonded soldiers and some What If? stories)
+  * Peter Parker succumbs in Spider's Shadow
+* Weaknesses
+  * Sound and fire
+  * Light (Krobaa)
+  * Chemical and biological attacks
+  * Electricity in the Ultimate version
+  * Telepaths
+  * Bonding with multiple hosts at once
+  * Anti-Venom
+* Source notes
+  * The Wikipedia article and fan wikis were the main sources and the Marvel.com history page could not be opened. Some specific claims such as Wolverine resisting a symbiote were not found in canon
+
 Nature of Symbiotes (this story)
 
 * A symbiote reflects something about the mind of the person it pairs with and amplifies it
@@ -49,7 +83,7 @@ Open Questions
 
 Hive Mind Versus Host Mind
 
-* Symbiotes are not the T-virus or G-virus. The only parallel is that symbiote tissue can develop a mind of its own
+* Symbiote tissue can develop a mind of its own
 * No body horror: no organs eaten and no eyes or growths on the body
 * That mind is infantile: it has simple drives and little depth
 * A sufficiently powerful human mind overwhelms it
