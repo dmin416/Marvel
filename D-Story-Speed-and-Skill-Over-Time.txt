@@ -6,7 +6,8 @@ Status: design brainstorm only. Nothing here is approved. Companion to D-Story-S
 
 Premise
 
-* D is an undernourished 14 year old who starts training at 18
+* D is an undernourished 14 year old
+* D starts training at 14 and it is already happening in the played story (yard workout). The trained values below still model a start at 18 and need recalculating from 14
 * Same two tracks as the strength file: untrained and trained from 18
 * D trains to survive the world. Peter stays a weak nerd and Gwen takes self defense without weights and Harry trains just enough to attract women
 * Trained values at age 22 match D's baseline in D-Story-Spider-Abilities.txt: sprint 7.5 m/s and vertical jump 0.5 m and reaction 220 ms
@@ -71,7 +72,7 @@ Use With the Venom Model
 * The venom multiplies the baseline at the age of the dose
 * Reaction time is divided by the reaction multiplier
 * Task skill is not multiplied. Faster bodies need more practice to control
-* The venom speeds the body but not the learning of control. Weeks of controlled dosing give D time to adjust
+* The venom speeds the body but not the learning of control. At least two weeks of controlled dosing give D time to adjust
 
 Open Questions
 

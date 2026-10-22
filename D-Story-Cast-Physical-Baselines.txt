@@ -9,7 +9,7 @@ Training Lifestyles
 * Peter: weak nerd. Does not train
 * Gwen: police captain's daughter. Takes self defense but does not lift weights
 * Harry: trains enough to attract women
-* D: trains to survive the world. Trained track from age 18 (see D-Story-Strength-Over-Time.txt and D-Story-Speed-and-Skill-Over-Time.txt)
+* D: trains to survive the world from 14. D starts training at 14 and it is already happening in the played story (yard workout). The trained values below still model a start at 18 and need recalculating from 14 (see D-Story-Strength-Over-Time.txt and D-Story-Speed-and-Skill-Over-Time.txt)
 
 Development 14 to 35
 

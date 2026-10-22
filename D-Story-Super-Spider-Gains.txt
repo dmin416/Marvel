@@ -7,7 +7,7 @@ Status: brainstorm only. Nothing here is approved. All numbers are story design 
 Source
 
 * The super spider is from Oscorp
-* It could have been made by Peter's father or Cindy
+* SPIDER NOTE: who made the super spider does not matter until the story gets there. The options are Peter's father or Cindy. Nothing more is decided
 * Gwen is the one bitten, right before college on the senior trip to Oscorp
 * D collects the spider and works on it
 
@@ -20,7 +20,7 @@ Bite Baseline
 Protocol
 
 * Fully supported with fluids, glucose, electrolytes, cooling, sedation and monitoring
-* Micro-doses spread over a week
+* Micro-doses spread over at least two weeks
 * Doses small enough to trigger no fever
 * Each dose builds on the last
 * Straight IV is the reckless shortcut that backfires
@@ -45,7 +45,7 @@ Why the Gains Are Larger
 
 Extending the Protocol
 
-* A second week at the same pace could add another 20 to 30% in each trait before returns flatten
+* Each extra week past two at the same pace could add another 20 to 30% in each trait before returns flatten
 * Slower spacing lets the body finish each layer fully
 * A very high calorie diet and sleep schedule push results toward the top of each range
 
@@ -57,6 +57,6 @@ Ceiling
 
 Limits
 
-* Venom supply is the bottleneck: one spider cannot supply a week of doses
+* Venom supply is the bottleneck: one spider cannot supply two weeks of doses
 * D needs several spiders, a breeding method or a synthesis method
-* The week out of school needs a cover story with May and Ben
+* The weeks out of school need a cover story with May and Ben

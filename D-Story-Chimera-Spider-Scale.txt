@@ -6,7 +6,7 @@ Status: reference and brainstorm only. Nothing here is approved for the story. T
 
 Premise
 
-* Norman heavily modified the Oscorp super spider
+* The Oscorp super spider is heavily modified. SPIDER NOTE: who made the super spider does not matter until the story gets there. The options are Peter's father or Cindy. Nothing more is decided
 * Spider baseline plus octopus regeneration and camouflage
 * Electric eel organ
 * Axolotl or tardigrade or planarian traits
@@ -192,5 +192,5 @@ Open Questions
 
 * Which traits are always on and which are triggered
 * Whether D's micro-dose protocol can carry the eel and tardigrade genes or only the spider ones
-* How Norman hid the extra genes in the spider
+* How the extra genes were hidden in the spider
 * Calorie cost of running all systems together
