@@ -4,88 +4,129 @@ Note: This is my own version of the story and its characters. Marvel and other w
 
 Status: planning reference. This is real-world market history for D's foreknowledge. The only story canon is D-Story-So-Far.txt.
 
-Accuracy note: direction and rough magnitude were checked against press coverage. No clean 1999-to-2020 total-return dataset was found. Treat every percentage as approximate and verify any exact figure before putting it in the story. Most published rankings exclude dividends and use different start and end dates.
+Accuracy note: the figures below are sourced and each one says where it came from. Published rankings use different start and end dates and most exclude dividends, so numbers for the same company vary a lot between sources. Where a figure is my own arithmetic the method is shown so it can be rechecked.
 
-The Timing Problem
+The Verified Anchor List
 
-* The story starts in September 1999, four to six months before the dot-com peak in March 2000
-* Buying tech in late 1999 means buying near the top. The Nasdaq fell roughly 78% from its March 2000 peak to its October 2002 bottom
-* Several famous 1999 names never paid off on that timeline. Cisco did not close above its March 2000 high until about 2025. Intel took roughly a quarter century. Microsoft was still well below its 2000 peak in 2020 and only just beat the S&P 500 over those two decades
-* So the useful knowledge is not "buy tech." It is knowing which specific companies survived the crash and which to sell before March 2000
-* A second entry point matters as much as the first: October 2002 and March 2009 were the two great buying moments in this window
+Source: howmuch.net, "Best Performing Stocks Since 2000." Start date December 31, 1999 or the company's IPO date if later. End date October 22, 2019. Total return on $100.
 
-The Biggest Winners Buyable in 1999
+1. Monster Beverage: 62,444%
+2. Netflix: 23,071% (IPO 2002, so measured from the IPO)
+3. Equinix: 12,050%
+4. Tractor Supply Company: 10,171%
+5. Intuitive Surgical: 9,155%
+6. Ansys: 7,856%
+7. Apple: 7,416%
+8. IDEXX Laboratories: 6,822%
+9. Mastercard: 6,279% (IPO 2006, so measured from the IPO)
+10. Ross Stores: 6,003%
 
-* Monster Beverage, then named Hansen Natural: the single best performer of this era by most rankings. Roughly a 60,000% gain from the end of 1999 by 2020, with figures over 100,000% quoted for later end dates. Nobody saw it coming, which makes it the clearest demonstration of foreknowledge
-* Apple: near its lowest point in 1999 and ran through the iPod in 2001 and the iPhone in 2007. Rankings put it in the thousands of percent over this window
-* Amazon: fell about 90% in the crash and then became one of the largest companies in the world. Surviving that drop is the whole test
-* Nvidia: went public in January 1999, so it is buyable from the start. Enormous over the full window
-* Priceline, later Booking Holdings: fell something like 99% in the crash and then became one of the great recoveries of the era
-* Intuitive Surgical: went public in 2000 and rose enormously on surgical robotics
-* Illumina: went public in 2000 and rose with genetic sequencing
-* Regeneron: a small biotech in 1999 that became very large
+Notes on this list:
 
-Quieter Compounders That Beat Almost Everything
+* It is the closest published dataset to the 1999-to-2020 window with a fixed start and end date
+* The article states the same number as both a percentage and a dollar value for $100, which is internally inconsistent by a factor of about 100. Treat the ranking order as solid and the exact percentages as approximate
+* Netflix and Mastercard are measured from their IPOs, so a 1999 investor could not have bought them at all
+* Equinix, Ansys and IDEXX Laboratories are the three names almost nobody would guess
 
-These are the unglamorous names that avoided the crash entirely:
+Monster Beverage, Calculated to End of 2020
 
-* Old Dominion Freight Line, trucking
-* Tractor Supply, farm and ranch retail
-* Pool Corporation, swimming pool supplies
-* Ross Stores and TJX, discount retail
-* Middleby, commercial kitchen equipment
-* NVR, homebuilding
-* Church and Dwight, consumer products
-* Altria, tobacco, mostly through reinvested dividends
+Method, using year-end as-traded prices from 1stock1 and the split list from the same page:
 
-Big Winners Not Buyable Until Later
+* Year-end 1999 price: $4.3125, as traded
+* Splits between 2000 and the end of 2020: 2-for-1 in 2005, 4-for-1 in 2006, 2-for-1 in 2012 and 3-for-1 in 2016. That multiplies one share into 48
+* Year-end 2020 price: $92.48
+* One share at $4.3125 becomes 48 shares worth $4,439, which is about 1,030 times the money, or roughly a 103,000% gain
+* Cross-check: the same method at the October 2019 price gives about 63,000%, which matches the anchor list's 62,444% closely. That is why the method is trusted here
+* Monster pays no dividend, so price return is close to total return
+* A later 2023 article from the Motley Fool says 116,700% since the start of 2000, which fits the same curve extended by three more years
 
-D cannot buy these in 1999, which matters for a story that starts there:
+Amazon, the Surprise
 
-* Netflix: public in 2002
-* Google, now Alphabet: public in 2004
-* Salesforce: public in 2004
-* Chipotle: public in 2006
-* Domino's Pizza: public in 2004
-* Jazz Pharmaceuticals: public in 2007
-* Tesla: public in 2010
-* Facebook, now Meta: public in 2012
-* Shopify: public in 2015
+* Year-end 1999 price: $456.75, split-adjusted for its 1999 splits (1stock1)
+* Year-end 2020 price: $3,256.93. Amazon had no splits between 2000 and 2020; the 20-for-1 came in 2022
+* That is about 7.1 times the money, or roughly a 613% gain over twenty-one years
+* Amazon is the single most important lesson in this file. Buying the most famous internet company at the end of 1999 returned about 7x over two decades, while a canned drinks company returned about 1,030x
+* The reason is the entry price. End of 1999 was near Amazon's bubble peak. It then fell about 80% in 2000 and about 30% in 2001 before recovering
 
-The Famous Losers of 1999
+The Long-Run Ordering
 
-Useful because D knows to avoid or sell them:
+Source: totalrealreturns.com, $10,000 invested on January 22, 1999, dividends reinvested, measured to October 2026. Useful for relative ranking only, since the end date is past the story window.
 
-* Cisco, Intel, Microsoft, Oracle, Sun Microsystems, Lucent, Nortel, Yahoo, AOL, Qualcomm and the whole dot-com class
-* Pets.com, Webvan, eToys and the rest of the companies that disappeared
-* Enron collapsed in 2001 and WorldCom in 2002
-* Lehman Brothers, Bear Stearns, Washington Mutual and AIG in the 2008 crisis
-* Blockbuster, Kodak, Sears, Nokia, BlackBerry and Toys R Us over the longer run
+* Nvidia: about $56.6 million
+* Monster Beverage: about $18.4 million
+* Apple: about $12.0 million
+* Amazon: about $814,000
 
-Other Moves in the Window
+Nvidia went public on January 22, 1999, so it is buyable from the story's first months. Most of its rise came after 2016 and especially after 2022, which is outside the 1999-to-2020 window.
 
-* Gold ran from a few hundred dollars an ounce in 1999 to far higher by 2011
+The Crash Is the Real Knowledge
+
+* The Nasdaq peaked at 5,048.62 on March 10, 2000 and bottomed at 1,114.11 on October 9, 2002, a fall of about 78%
+* Cisco did not close above its March 2000 high until about December 2025, roughly 25 years later. Its market value is still well below the bubble peak because of share buybacks
+* Intel took roughly a quarter century to clear its 2000 peak
+* Microsoft was still down about 44% from its peak in 2020 and was the only one of the five biggest dot-com names to beat the S&P 500 over the following two decades
+* So the valuable foreknowledge in September 1999 is not a list of companies. It is knowing to sell in early 2000 and buy again in October 2002 and March 2009
+
+Quiet Compounders
+
+These avoided the crash and appear in the anchor list or in similar rankings. They are unglamorous on purpose:
+
+* Tractor Supply, farm and ranch retail (10,171% in the anchor list)
+* Ross Stores, discount retail (6,003% in the anchor list)
+* IDEXX Laboratories, veterinary diagnostics (6,822% in the anchor list)
+* Ansys, engineering simulation software (7,856% in the anchor list)
+* Equinix, data centers (12,050% in the anchor list)
+* Old Dominion Freight Line, trucking. Price-only compounding of its annual figures gives roughly 7.4x across the 2000s decade alone, about 22% a year (my calculation from Companies Market Cap annual figures, dividends excluded, unverified against a second source)
+* Also commonly named in this class and not verified here: Pool Corporation, TJX, Middleby, NVR and Church and Dwight
+
+Not Buyable in 1999
+
+D cannot buy these when the story starts, which matters:
+
+* Netflix: public 2002
+* Google, now Alphabet: public 2004
+* Salesforce: public 2004
+* Domino's Pizza: public 2004
+* Mastercard: public 2006
+* Chipotle: public 2006
+* Jazz Pharmaceuticals: public 2007
+* Tesla: public 2010
+* Facebook, now Meta: public 2012
+* Shopify: public 2015
+
+The Famous Losers
+
+* The dot-com class: Cisco, Intel, Microsoft, Oracle, Sun Microsystems, Lucent, Nortel, Yahoo, AOL and Qualcomm. All were bought near the top by anyone investing in late 1999
+* Companies that disappeared: Pets.com, Webvan and eToys
+* Frauds and collapses: Enron in 2001 and WorldCom in 2002
+* The 2008 crisis: Lehman Brothers, Bear Stearns, Washington Mutual and AIG
+* The slow deaths: Blockbuster, Kodak, Sears, Nokia, BlackBerry and Toys R Us
+
+Other Markets
+
+* Gold ran from a few hundred dollars an ounce around 1999 to far higher by its 2011 peak
 * Oil peaked in 2008 and crashed, then crashed again in 2020
-* Housing peaked around 2006 and collapsed. Shorting mortgage securities in 2007 was the trade of the decade and is not available to a retail investor
+* U.S. housing peaked around 2006 and collapsed. Shorting mortgage securities in 2007 was the trade of the decade and is not available to a retail investor
 * Bitcoin exists from 2009 and is a different kind of answer entirely
 
 The Real Constraint for the Story
 
-D's problem in 1999 is not knowing what to buy. It is these:
+D's problem in September 1999 is not knowing what to buy:
 
-* He is fourteen. A minor cannot open a brokerage account alone in 1999. He needs a custodial account with an adult, which means telling an adult something
-* He has no money. He lives in a children's home. The first stake has to come from somewhere, which is a story problem worth playing rather than skipping
+* He is fourteen. A minor could not open a brokerage account alone in 1999. He needs a custodial account with an adult, which means telling an adult something
+* He has no money. He lives in a children's home, so the first stake has to come from somewhere. That is a story problem worth playing rather than skipping
 * Trading in 1999 means a phone call to a broker or a dial-up account, a commission on every trade and no instant information
-* Explosive returns take years. Monster's run is a twenty-year hold, not a quick score
-* Sudden unexplained wealth draws attention: the home, the school, the IRS and anyone watching
-* Picking only winners, every time, over twenty years, looks like insider trading to anyone who checks
+* Explosive returns take decades. Monster's run is a twenty-year hold, not a quick score
+* Sudden unexplained wealth draws attention from the home, the school, the IRS and anyone watching
+* Picking only winners for twenty years looks like insider trading to anyone who checks
 
 Story Uses
 
 * A small, patient, boring portfolio explains the wealth D and Harry have by 2012 without anyone being able to prove anything
-* Buying before the crash and selling at the right moment is a cleaner demonstration of foreknowledge than any single pick
+* Selling in early 2000 and buying back in late 2002 is a cleaner demonstration of foreknowledge than any single pick and the one a reader will recognize
+* Monster Beverage is the perfect joke pick. A fortune made on canned energy drinks while everyone else chased the internet
 * The 2008 crisis is where D can look like a genius and a villain at once, since he profits while the city suffers
-* The money is what funds the courier company, the labs and Oscorp's turn toward medicine (see D-Story-World-Economy.txt)
+* The money funds the courier company, the labs and Oscorp's turn toward medicine (see D-Story-World-Economy.txt)
 
 Open Questions
 
@@ -94,3 +135,12 @@ Open Questions
 * Whether the business or the market is the main source of his wealth
 * Whether anyone ever investigates how he does it
 * Whether D invests for other people too
+
+Sources
+
+* howmuch.net, "Best Performing Stocks Since 2000" (fixed window December 31, 1999 to October 22, 2019)
+* 1stock1.com year-by-year price and split tables for Monster Beverage and Amazon
+* totalrealreturns.com cumulative growth tables
+* The Motley Fool, April 2023, on Monster Beverage since the start of 2000
+* Press coverage of Cisco's 2025 recovery above its 2000 high and of Intel's and Microsoft's recoveries
+* Companies Market Cap annual price performance for Old Dominion Freight Line
