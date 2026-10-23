@@ -82,7 +82,17 @@ Durability Outruns Strength
 * Approved for this story: he is about five strong men in strength and about ten times as robust
 * So durability is raised roughly twice as far as strength. Five times on the output side, ten times on the taking-it side
 * A normal man's rib breaks under a certain impact. Captain America's takes about ten times that. The same goes for his skull, his joints, his connective tissue and his organs
-* What he survives: falls from heights that would break a normal body, being thrown through walls and concrete, car impacts, grenade and energy blasts at close range, Bucky's metal arm at full force and a sustained beating from an armored Iron Man suit
+
+The Parachute Jump, and Why Ten Times Is the Right Number
+
+* In The Winter Soldier, Steve jumps from a Quinjet with no parachute and goes into the Potomac. He swims out. This is the feat that sets the durability number
+* A falling human reaches a terminal velocity of about 55 m/s belly-down. Water at that speed behaves like a solid surface
+* An uncontrolled water entry is roughly survivable up to about 20 m/s, which is a fall of about 20 m. Past that it kills people
+* Impact energy scales with the square of the speed, so a 55 m/s entry carries about 7.6 times the energy of a 20 m/s one (my calculation)
+* Ten times robustness allows about 3.2 times the survivable speed, which is about 63 m/s. That is above terminal velocity
+* So ten times is exactly the number that lets him survive a no-parachute fall from any height into water and nothing much more. The feat and the figure agree
+* It also explains the shield. Ten times covers falling, impacts and being thrown through things. It does not cover a rifle round, which concentrates its energy into a few square millimetres rather than spreading it over a body
+* What he survives: a jump from a Quinjet into the Potomac with no parachute, falls from heights that would break a normal body, being thrown through walls and concrete, car impacts, grenade and energy blasts at close range, Bucky's metal arm at full force and a sustained beating from an armored Iron Man suit
 * His bones and connective tissue are the part the serum improved most. That is why he can hit as hard as he can without destroying his own hands and wrists and why he can hold a helicopter without tearing his shoulder out
 * Combined with four times healing, this makes him very hard to put down and very fast to get back up. He loses fights and is rarely out of action
 * Design note: this is the opposite of D's problem. D's strength outruns his tendons, so his emergency lift can injure him (see D-Story-Peak-Human.txt). The serum raised the frame first, so Captain America has no such ceiling
@@ -93,6 +103,7 @@ He Can Still Die
 * Approved: ten times robust is not invulnerable. A bullet can still kill him. So can a fall from high enough, drowning, fire, a knife in the right place or enough damage at once
 * Ten times means a shot that would kill a normal man might not kill him. A graze that would cripple a normal man barely slows him. It does not mean bullets bounce off
 * The shield exists because he is not bulletproof. He blocks with it rather than taking hits
+* The difference is how the energy arrives. Spread over his whole body he can take an enormous amount, which is why the parachute jump works. Concentrated into a point he cannot, which is why a bullet still matters
 * Fate is on his side. Things go his way more often than they should, he survives what should have killed him and he is in the right place at the right moment. That is a property of the story and not of his body
 * Design note: this is the useful combination. He is tough enough that ordinary danger does not stop him and fragile enough that danger still means something. A character who cannot be hurt has nothing at stake
 
