@@ -249,6 +249,20 @@ Mutants
 * Mutants mostly stay out of the MCU events. They are busy with their own affairs for some reason. Idea: an alternate-reality twist where they disappeared. The reason is open
 * Open: how many mutants there are, whether they are public and how that shapes politics and the economy
 
+The Defenders and Hell's Kitchen (Approved)
+
+* Fisk runs Hell's Kitchen. Matt Murdock, Frank Castle, Jessica Jones, Luke Cage and Danny Rand handle it themselves
+* Nobody snitches. As in any neighborhood, the people there do not talk to outsiders
+* So the whole Hell's Kitchen situation stays under Hydra's and S.H.I.E.L.D.'s radar
+* What that means:
+  * The street-level heroes are a local secret, not a federal case file
+  * S.H.I.E.L.D. and Hydra have no useful intelligence on them, so neither recruits them, hunts them or counts them in their plans
+  * After S.H.I.E.L.D. falls in 2014 there are no files on them to leak
+  * The Latveria Accords in 2016 cannot cover people the government cannot name
+  * Fisk benefits too. The same silence that protects the heroes protects him
+* Story use for D: a neutral courier is trusted exactly because he does not talk. That is the price of entry in Hell's Kitchen and the reason he can carry for Fisk and the heroes both
+* Open: whether D is inside the circle of silence or just another outsider who gets nothing
+
 Open Questions
 
 * Whether 9/11 and the Afghanistan and Iraq wars happen as in the real world
