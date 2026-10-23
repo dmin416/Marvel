@@ -16,10 +16,10 @@ Comics History (inspiration)
 
 This Story's Symbiote (from existing files)
 
-* The symbiote comes from space
+* The symbiote comes from space. There is only one and D is its only host
 * D's one and only symbiote contact comes on his 15th birthday, December 30, 1999. There is only one symbiote. From then on it maximizes his nutrition, recovery and gains
-* Eddie Brock gets it
-* D takes it from Eddie, experiments on it and absorbs it
+* There is only one symbiote and D is the only one who ever bonds with it. Eddie Brock never meets any symbiote
+* D experiments on it and absorbs it
 * The symbiote is basically a clone of D and completely connected to D
 * Weak to sound and fire
 * Does not trigger spider-sense
@@ -66,11 +66,10 @@ Nature of Symbiotes (this story)
 * The reflected trait becomes its personality and drives its behavior
 * Its intelligence comes from the host's mind and not from a separate mind of its own
 * If the host completely overwhelms the symbiote, the symbiote may be absorbed into the host instead of staying separate
-* This matches D taking Eddie's symbiote, experimenting on it and absorbing it
+* This matches D experimenting on the symbiote and absorbing it
 
 Implications
 
-* Eddie Brock: the symbiote amplifies his resentment and ambition as a failed reporter
 * D: his symbiote is a clone reflecting D and is completely connected to him, so absorbing it is easy
 * Gwen: a symbiote paired with Gwen reflects her traits (guilt and drive) while staying tied to D
 * Different hosts produce different symbiotes from the same source
@@ -113,7 +112,7 @@ Application to D
 * Whenever a symbiote tries to infiltrate his mind the symbiote's action inadvertently unlocks D's memories and capacity (a thousand lifetimes of willpower and self control)
 * The unlocked capacity kills the symbiote's mind and essentially turns it into a vegetable
 * D then absorbs the symbiote
-* Absorbing Eddie's symbiote after experimenting on it follows the clean absorption or scar tissue outcome
+* Absorbing the symbiote after experimenting on it follows the clean absorption or scar tissue outcome
 * D's own clone symbiote is a reflection of D so the contest hardly exists
 * Gwen's managed bond holds only while neither her mind nor the symbiote's overwhelms the other
 
@@ -161,7 +160,6 @@ Open questions
 * Whether the symbiote can be made to give D's knowledge back and what that would cost
 * Whether anyone else could read the imprint out of it
 * Whether spawned offspring carry the imprint too
-* Whether this is the same contact as the 1999 bonding or a later one (the timeline has symbiote contact on December 30, 1999 and Eddie's symbiote in 2014 to 2016)
 
 Capabilities (comics)
 

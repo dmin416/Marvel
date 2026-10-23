@@ -64,8 +64,7 @@ World
 * Sandman exists
 * Rhino exists
 * Chthon's Juggernaut exists
-* Eddie Brock exists as a lousy reporter and eventually a SWAT team member
-* D will take Eddie's symbiote and absorb it after experimenting on it
+* Eddie Brock exists as a reporter and never meets any symbiote
 * The symbiote comes from space
 * D's one and only symbiote contact comes on his 15th birthday, December 30, 1999. There is only one symbiote. From then on it maximizes his nutrition, recovery and gains
 * Symbiotes reflect something about the mind of the person they pair with and amplify it. Their intelligence comes from the host's mind
