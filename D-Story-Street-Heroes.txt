@@ -106,6 +106,36 @@ Story ties
 * Harlem is also Tombstone's turf (see D-Story-World-Economy.txt)
 * Burstein's work ties into the super-soldier research that runs through the world: Erskine's serum, Oscorp's enhancer and A.I.M.'s Extremis
 
+Danny Rand (Iron Fist)
+
+Approved
+
+* Danny is with Misty Knight
+* When Danny comes back to New York he lands in legal trouble over the Rand company and his own identity. D and Harry help him with it
+* D and Harry connect him to Matt Murdock, who takes the case. That is how Danny meets Daredevil's civilian side
+* Timing is open. Whenever he returns
+
+Why Misty rather than Colleen
+
+* Misty is his long partner in the comics, through Heroes for Hire and alongside Daughters of the Dragon
+* Misty is a former NYPD detective turned private investigator, so she pulls Danny toward the police, the courts and the rest of the street-level cast. Colleen pulls him back toward the dojo and K'un-Lun, where he already lives
+* Misty connects straight to Luke and Jessica, who are already in this story
+* Colleen stays in as Misty's partner in Daughters of the Dragon and as the one who trains with Danny
+
+Key people (source)
+
+* Misty Knight: NYPD detective who loses an arm and gets a bionic replacement, then works as a private investigator
+* Colleen Wing: swordswoman and dojo owner, Misty's partner as Daughters of the Dragon
+* Harold Meachum with Ward and Joy Meachum: the family that runs Rand while Danny is gone and fights his return
+* Davos (Steel Serpent): his rival from K'un-Lun
+* Jeri Hogarth: the lawyer in the Netflix shows
+
+Story ties
+
+* The legal fight over Rand gives D's courier company and Harry's Oscorp money a reason to be in the room
+* Murdock taking the case puts Hell's Kitchen and the group in contact without either side knowing the other's night work
+* Rand is a company on the scale of Oscorp and Von Doom Industries, so Danny's return moves money in the city (see D-Story-World-Economy.txt)
+
 Kilgrave
 
 Powers (both versions)
@@ -154,5 +184,6 @@ Open Questions
 * Jessica's grade, foster family and when her accident happens
 * Whether Trish Walker exists
 * Luke's age and how his years in prison line up
-* Whether Iron Fist exists
+* How Danny's legal trouble starts and what the Meachums do about it
+* Whether Danny keeps Rand or walks away from it
 * Whether Jessica kills Kilgrave as in the Netflix show
