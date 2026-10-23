@@ -2,9 +2,21 @@ D Story: Investments 1999 to 2020
 
 Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
 
-Status: planning reference. This is real-world market history for D's foreknowledge. The only story canon is D-Story-So-Far.txt.
+Status: planning reference. Part one is real-world market history for D's foreknowledge. Part two is where this world's markets stop matching reality. The only story canon is D-Story-So-Far.txt.
 
 Accuracy note: the figures below are sourced and each one says where it came from. Published rankings use different start and end dates and most exclude dividends, so numbers for the same company vary a lot between sources. Where a figure is my own arithmetic the method is shown so it can be rechecked.
+
+How Much of Reality Applies
+
+* For ordinary people and ordinary companies this world is exactly the real 1999 (see Technology Level in D-Story-World-Economy.txt). Dial-up internet, Pentium III computers, no smartphones, oil and gas energy, the real dot-com boom
+* The advances in this world sit locked inside Oscorp, Stark, Pym, S.H.I.E.L.D., Wakanda and Von Doom Industries. None of them share or publish. So nothing leaks into the wider economy and the public market behaves like the real one
+* That means real market history is usable, with real companies, real prices and real crashes, from 1999 up to spring 2018
+* After the Snap in spring 2018 nothing real applies. Half of all life vanishing ends the usefulness of any real figure
+* Oscorp, Stark Industries, Hammer Industries, Von Doom Industries and Roxxon are this world's own public companies. Their prices are a story matter and not a real one
+
+Part One: Real Market History, 1999 to 2018
+
+Everything in this part is real and usable up to spring 2018. Figures with later end dates are marked.
 
 The Verified Anchor List
 
@@ -23,7 +35,7 @@ Source: howmuch.net, "Best Performing Stocks Since 2000." Start date December 31
 
 Notes on this list:
 
-* It is the closest published dataset to the 1999-to-2020 window with a fixed start and end date
+* It is the closest published dataset to the 1999-to-2020 window with a fixed start and end date. Its October 2019 end date falls after this world's Snap, so the last eighteen months of it do not apply here
 * The article states the same number as both a percentage and a dollar value for $100, which is internally inconsistent by a factor of about 100. Treat the ranking order as solid and the exact percentages as approximate
 * Netflix and Mastercard are measured from their IPOs, so a 1999 investor could not have bought them at all
 * Equinix, Ansys and IDEXX Laboratories are the three names almost nobody would guess
@@ -109,6 +121,49 @@ Other Markets
 * U.S. housing peaked around 2006 and collapsed. Shorting mortgage securities in 2007 was the trade of the decade and is not available to a retail investor
 * Bitcoin exists from 2009 and is a different kind of answer entirely
 
+Part Two: Where This World Stops Matching Reality
+
+This World's Own Stocks
+
+* Oscorp: a New York chemicals company moving into military biotechnology, with an Army contract in 1999 (Played). Its price should track the contracts, Norman's madness, the board's deaths, the takeover and then the turn toward medicine. The 2008 scandal is a crash. Harry's rebuild and the medicine pivot is a long climb
+* Stark Industries: the largest U.S. weapons maker. In spring 2008 Tony is captured and then shuts down weapons manufacturing, which crashes the stock. The arc reactor and clean energy rebuild it. By 2012 the company is in a different business entirely
+* Hammer Industries: a second-tier contractor. It rises on the contracts Stark abandons in 2008 and collapses after the Stark Expo drone disaster in spring 2010 and Justin Hammer's arrest
+* Von Doom Industries: aerospace, buying American suppliers in 1999 (Played) and planning a private orbital platform. The failed space station mission and the cosmic storm wreck it. Victor's board then pushes him out
+* Roxxon: oil and gas, which tracks real oil prices
+* Pym Technologies: Hank's own company. Darren Cross and Hope van Dyne push him out. Cross then tries to sell the Yellowjacket suit in 2015
+* None of these have real tickers. Their prices are whatever the story needs
+
+The Event Shocks This World Adds
+
+* Spring 2008, Tony's capture and Stark leaving weapons: Stark crashes, Hammer rises and the whole defense sector reshuffles
+* Spring 2010, the Stark Expo drone attack and the Harlem fight: Hammer collapses. Ross brought the Army into a New York neighborhood, which no amount of silence could hide
+* May 2012, the Battle of New York: enormous damage to Midtown East. Insurers take huge losses. Construction, demolition, hauling and salvage boom. Property near the damage sells cheap and then recovers. D's company wins the Chitauri salvage contract and D and Harry take most of what would have been Fisk's monopoly (see D-Story-World-Economy.txt)
+* December 2013 to early 2014, A.I.M. and the fake Mandarin: terror attacks on U.S. soil, so defense and security rise
+* Spring 2014, S.H.I.E.L.D. and Hydra exposed: a government intelligence agency collapses in public. Contractors tied to it fall
+* Spring 2015, Ultron destroys a Latverian city: a European country loses a city. Reconstruction and defense money follow
+* Spring 2016, the Latveria Accords: registration law, which creates a compliance and insurance industry around superhumans
+* Summer 2016, Wakanda opens to the world: the biggest shock of all, since a hidden nation with technology decades ahead joins the world economy. Long term it changes everything
+* Spring 2018, the Snap: half of all life gone
+
+The Snap Ends Normal Investing
+
+* Half of every company's customers, employees, suppliers and shareholders vanish in an instant
+* Half of every landlord's tenants and half of every lender's borrowers are gone. Property values and debt markets are meaningless for years
+* Shares held by the vanished sit unclaimed. Nobody knows whether to treat them as dead or missing
+* Supply chains break because half of every link is gone
+* Any company whose value came from scale, crowds or growth is hit hardest
+* Five years of shrinking population follow, from 2018 to 2023
+* Fall 2023, the return: billions of people come back at once to a world that moved on without them. Housing, jobs and borders all have to absorb them
+* No real-world data covers any of this. Everything after spring 2018 in this story is invented
+
+What That Means for D's Foreknowledge
+
+* His knowledge is good for about nineteen years, from September 1999 to spring 2018. Then it runs out
+* He knows the Snap is coming, which is worth more than any stock pick. It is also the hardest thing to act on without explaining how he knows
+* Selling everything before spring 2018 is the single most suspicious thing he could possibly do
+* Hard assets, land and the business survive the Snap better than paper does. People still need to eat and still need things moved
+* The courier company is the right shape for this world. It profits from every disaster, it needs no market to function and it does not depend on anyone's stock price
+
 The Real Constraint for the Story
 
 D's problem in September 1999 is not knowing what to buy:
@@ -127,6 +182,7 @@ Story Uses
 * Monster Beverage is the perfect joke pick. A fortune made on canned energy drinks while everyone else chased the internet
 * The 2008 crisis is where D can look like a genius and a villain at once, since he profits while the city suffers
 * The money funds the courier company, the labs and Oscorp's turn toward medicine (see D-Story-World-Economy.txt)
+* The Snap is the natural end of the investing thread. After 2018 D's wealth has to come from what he owns and what he can do, not from what he knows about the market
 
 Open Questions
 
@@ -135,6 +191,9 @@ Open Questions
 * Whether the business or the market is the main source of his wealth
 * Whether anyone ever investigates how he does it
 * Whether D invests for other people too
+* Whether D sells before the Snap and how he explains it
+* How Oscorp's share price moves through Norman's fall and Harry's rebuild
+* Whether anyone else in the world has foreknowledge and is visible in the market
 
 Sources
 
