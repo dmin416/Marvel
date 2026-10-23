@@ -167,6 +167,7 @@ Open Questions
 
 Related Files
 
+* D-Story-Investments-1999-2020.txt: real market history for D's foreknowledge
 * D-Story-World-Economy.txt: the world economy, Oscorp's ideological reformation and the 2012 rebuilding contracts
 * D-Story-Peak-Human.txt: the peak human ceiling and the costs that come with it
 * D-Story-Street-Heroes.txt: Jessica Jones, Luke Cage and Kilgrave

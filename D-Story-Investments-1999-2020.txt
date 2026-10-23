@@ -1,0 +1,96 @@
+D Story: Investments 1999 to 2020
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: planning reference. This is real-world market history for D's foreknowledge. The only story canon is D-Story-So-Far.txt.
+
+Accuracy note: direction and rough magnitude were checked against press coverage, but no clean 1999-to-2020 total-return dataset was found. Treat every percentage as approximate and verify any exact figure before putting it in the story. Most published rankings exclude dividends and use different start and end dates.
+
+The Timing Problem
+
+* The story starts in September 1999, four to six months before the dot-com peak in March 2000
+* Buying tech in late 1999 means buying near the top. The Nasdaq fell roughly 78% from its March 2000 peak to its October 2002 bottom
+* Several famous 1999 names never paid off on that timeline. Cisco did not close above its March 2000 high until about 2025. Intel took roughly a quarter century. Microsoft was still well below its 2000 peak in 2020 and only just beat the S&P 500 over those two decades
+* So the useful knowledge is not "buy tech." It is knowing which specific companies survived the crash and which to sell before March 2000
+* A second entry point matters as much as the first: October 2002 and March 2009 were the two great buying moments in this window
+
+The Biggest Winners Buyable in 1999
+
+* Monster Beverage, then named Hansen Natural: the single best performer of this era by most rankings. Roughly a 60,000% gain from the end of 1999 by 2020, with figures over 100,000% quoted for later end dates. Nobody saw it coming, which makes it the clearest demonstration of foreknowledge
+* Apple: near its lowest point in 1999 and ran through the iPod in 2001 and the iPhone in 2007. Rankings put it in the thousands of percent over this window
+* Amazon: fell about 90% in the crash and then became one of the largest companies in the world. Surviving that drop is the whole test
+* Nvidia: went public in January 1999, so it is buyable from the start. Enormous over the full window
+* Priceline, later Booking Holdings: fell something like 99% in the crash and then became one of the great recoveries of the era
+* Intuitive Surgical: went public in 2000 and rose enormously on surgical robotics
+* Illumina: went public in 2000 and rose with genetic sequencing
+* Regeneron: a small biotech in 1999 that became very large
+
+Quieter Compounders That Beat Almost Everything
+
+These are the unglamorous names that avoided the crash entirely:
+
+* Old Dominion Freight Line, trucking
+* Tractor Supply, farm and ranch retail
+* Pool Corporation, swimming pool supplies
+* Ross Stores and TJX, discount retail
+* Middleby, commercial kitchen equipment
+* NVR, homebuilding
+* Church and Dwight, consumer products
+* Altria, tobacco, mostly through reinvested dividends
+
+Big Winners Not Buyable Until Later
+
+D cannot buy these in 1999, which matters for a story that starts there:
+
+* Netflix: public in 2002
+* Google, now Alphabet: public in 2004
+* Salesforce: public in 2004
+* Chipotle: public in 2006
+* Domino's Pizza: public in 2004
+* Jazz Pharmaceuticals: public in 2007
+* Tesla: public in 2010
+* Facebook, now Meta: public in 2012
+* Shopify: public in 2015
+
+The Famous Losers of 1999
+
+Useful because D knows to avoid or sell them:
+
+* Cisco, Intel, Microsoft, Oracle, Sun Microsystems, Lucent, Nortel, Yahoo, AOL, Qualcomm and the whole dot-com class
+* Pets.com, Webvan, eToys and the rest of the companies that disappeared
+* Enron collapsed in 2001 and WorldCom in 2002
+* Lehman Brothers, Bear Stearns, Washington Mutual and AIG in the 2008 crisis
+* Blockbuster, Kodak, Sears, Nokia, BlackBerry and Toys R Us over the longer run
+
+Other Moves in the Window
+
+* Gold ran from a few hundred dollars an ounce in 1999 to far higher by 2011
+* Oil peaked in 2008 and crashed, then crashed again in 2020
+* Housing peaked around 2006 and collapsed. Shorting mortgage securities in 2007 was the trade of the decade and is not available to a retail investor
+* Bitcoin exists from 2009 and is a different kind of answer entirely
+
+The Real Constraint for the Story
+
+D's problem in 1999 is not knowing what to buy. It is these:
+
+* He is fourteen. A minor cannot open a brokerage account alone in 1999. He needs a custodial account with an adult, which means telling an adult something
+* He has no money. He lives in a children's home. The first stake has to come from somewhere, which is a story problem worth playing rather than skipping
+* Trading in 1999 means a phone call to a broker or a dial-up account, a commission on every trade and no instant information
+* Explosive returns take years. Monster's run is a twenty-year hold, not a quick score
+* Sudden unexplained wealth draws attention: the home, the school, the IRS and anyone watching
+* Picking only winners, every time, over twenty years, looks like insider trading to anyone who checks
+
+Story Uses
+
+* A small, patient, boring portfolio explains the wealth D and Harry have by 2012 without anyone being able to prove anything
+* Buying before the crash and selling at the right moment is a cleaner demonstration of foreknowledge than any single pick
+* The 2008 crisis is where D can look like a genius and a villain at once, since he profits while the city suffers
+* The money is what funds the courier company, the labs and Oscorp's turn toward medicine (see D-Story-World-Economy.txt)
+
+Open Questions
+
+* Where D's first stake comes from
+* Who opens the account for him
+* Whether the business or the market is the main source of his wealth
+* Whether anyone ever investigates how he does it
+* Whether D invests for other people too

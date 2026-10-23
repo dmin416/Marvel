@@ -33,6 +33,7 @@ The same files live in the claude.ai Project "Marvel". The project uses differen
 | D-Story-High-School-Social.txt | d_story/high_school_social.md | How girls bond at 14 to 18, Gwen's path to Peter and D and the self defense club idea |
 | D-Story-Gwen-Life.txt | d_story/gwen_life.md | Gwen Stacy life projection and source versions |
 | D-Story-AIM.txt | d_story/aim.md | A.I.M., Extremis and the Iron Man 3 storyline |
+| D-Story-Investments-1999-2020.txt | d_story/investments_1999_2020.md | Real market history 1999 to 2020 for D's foreknowledge |
 | D-Story-World-Economy.txt | d_story/world_economy.md | Governments, corporations, shadow groups, crime, wars and the global economy |
 | Sexual-Kinks-of-Superhumans.txt | d_story/superhuman_physiology.md | Adult-only superhuman setting mechanics |
 
