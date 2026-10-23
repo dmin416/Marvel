@@ -4,7 +4,7 @@ Note: This is my own version of the story and its characters. Marvel and other w
 
 Status: planning reference. This is real-world market history for D's foreknowledge. The only story canon is D-Story-So-Far.txt.
 
-Accuracy note: direction and rough magnitude were checked against press coverage, but no clean 1999-to-2020 total-return dataset was found. Treat every percentage as approximate and verify any exact figure before putting it in the story. Most published rankings exclude dividends and use different start and end dates.
+Accuracy note: direction and rough magnitude were checked against press coverage. No clean 1999-to-2020 total-return dataset was found. Treat every percentage as approximate and verify any exact figure before putting it in the story. Most published rankings exclude dividends and use different start and end dates.
 
 The Timing Problem
 
