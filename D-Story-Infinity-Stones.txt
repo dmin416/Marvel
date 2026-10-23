@@ -117,11 +117,71 @@ These are design proposals for this story and not canon:
 * Soul Stone: it takes a soul. For a Christian character whose soul is the one thing he did not get from a world, this is the only stone that threatens something the symbiote cannot replace. Thematically it is the most dangerous one in the setting for D specifically
 * Mind Stone: the interesting case. It attacks the mind and D's mind is the strongest thing about him. It also unlocks latent ability rather than only controlling, which is what happened to Wanda. A symbiote's attempt to infiltrate his mind already unlocked his sealed memories (see D-Story-Symbiotes.txt), so a stone trying the same thing is the one encounter where D might come out ahead instead of dead
 
+Conduits: How Every Holder Actually Did It
+
+Nobody in the films holds a bare stone and simply uses it. Each one uses a conduit, and the conduit is what decides whether they survive and what they can do with it:
+
+* Thanos and the Gauntlet: dwarf-forged Uru metal, built for the job by Eitri. It sets all six stones in one frame and translates their output into intent. Even so a Snap nearly killed him and burned his arm
+* Tony Stark and the nanite suit: he pulls the stones into his own armor's nanites and snaps with it. His conduit is technology he built, and it kills him. Bruce Banner used the Gauntlet earlier and survived with a ruined arm because he is the most durable person on the team
+* Vision and his body: the Mind Stone is set into a vibranium frame grown in Helen Cho's cradle. His conduit is a purpose-built synthetic body and the only case of a permanent stable housing. He is not a user, he is a host
+* Loki and the sceptre: the Mind Stone mounted in a weapon. The sceptre lets him point the stone's effect at a person and nothing more. It is a narrow conduit that gives narrow use
+* Peter Quill and his bare hand: the only bare-hand case. It worked because of Celestial ancestry and because three others shared the load. It was tearing him apart the whole time
+* Carol Danvers and no conduit at all: the Tesseract's energy was released into her body by the engine explosion. She did not hold a stone, she absorbed its output and it rebuilt her. That is a one-time transformation rather than a tool she carries
+* Jane Foster and her own body: the Reality Stone entered her and used her as its vessel. It was killing her the whole time. A living body is a bad container
+* Carina and her bare hand: no ancestry, no sharing, no container. She exploded
+* Doctor Strange and the Eye: a pendant made by the Masters to hold and meter the Time Stone. His conduit is an object plus years of training
+
+The pattern
+
+* Container beats body. Metal, vibranium or a crafted relic survives what flesh does not
+* Narrow conduits give narrow but safe use. The sceptre and the Eye both do one thing well
+* A living body as the conduit is always fatal or nearly so, unless it is purpose-built like Vision's
+* Shared load works. Four beings split what one could not take
+* Nature matters. Celestial ancestry bought Quill seconds. Nothing biological bought Carina anything
+
+The Symbiote as a Conduit
+
+Approved premise to work from: the symbiote becomes the conduit. Breaking that down:
+
+Why it is a better conduit than a body
+
+* It is not D. It is a separate mass of living tissue wrapped around him, so the stone's load lands on the symbiote and not on D's cells. That is the single most important point. Every fatal case in the films is a stone in direct contact with the holder's own body
+* It is the ultimate in cellular manipulation and it repairs itself from almost nothing (see D-Story-Symbiotes.txt). A conduit that regenerates faster than it is destroyed can hold something that destroys
+* It carries D's imprinted knowledge, so it can execute instructions far beyond what tissue should manage, with D directing
+* It has no mind of its own after D destroyed its psyche, so a stone has nothing to seduce, corrupt or take over. The Gauntlet is also mindless, which is why it works
+* It shapes itself at will, so it can make whatever housing a given stone needs: a glove, a gauntlet, a sealed sphere, a sceptre
+* D rewrote it, so its sound and fire weakness is gone and it has no obvious exploit left
+
+Why it is still not the Gauntlet
+
+* The Gauntlet is Uru, forged in a star by a craftsman who built Mjolnir. The symbiote is biology, however advanced. Biology is the worst material for this job in every film example
+* The symbiote is alive and the Reality Stone's whole trick is rewriting what living things are
+* Repair takes energy and the symbiote's energy comes from food. Holding a stone would mean a hunger with no ceiling
+* One symbiote is one conduit. Thanos needed six settings in one frame. A single mass of tissue holding six stones is holding six things that each want to unmake it
+* It protects D's body. It does not protect D's mind, and two of the six stones go straight at the mind or the soul
+
+Stone by stone through the symbiote
+
+* Power Stone: the best case for this conduit. The symbiote takes the annihilation and regrows, with D never touching it. Proposed limit: seconds at a time, enormous food cost afterward and a real chance the symbiote is destroyed outright. Never bare, always sealed inside the tissue
+* Space Stone: the safest. It displaces rather than destroys, so the symbiote only needs to hold it steady while D aims. This is the one D could plausibly use well
+* Mind Stone: the symbiote protects nothing here, since the stone goes past tissue to the mind. But the symbiote has no mind to take and D's mind already broke a symbiote's. Proposed outcome: the stone cannot control him and may unlock what he sealed instead
+* Reality Stone: the worst case. It is a liquid that wants a living vessel and the symbiote is the most willing living vessel imaginable. Proposed outcome: it takes the symbiote rather than the reverse, which is the one scenario where D loses the symbiote entirely
+* Time Stone: the conduit is irrelevant. It needs training and discipline rather than a container. D's unlocked knowledge is the relevant asset, not the symbiote
+* Soul Stone: the symbiote cannot help at all. It has no soul to offer and D's is not its to give. This stays the one stone that is simply beyond him
+
+What this buys the story
+
+* It gives a reason D could be in a room with a stone and not die, without making him a god
+* The costs keep it bounded: seconds of use, enormous hunger, a real risk of losing the symbiote and no protection at all from the two stones that matter most to him
+* It never makes him a rival to Thanos. Thanos has six stones in forged metal. D would have one stone in a tired piece of tissue
+* The Reality Stone and the Soul Stone are his hard limits. Both threaten who he is rather than how strong he is
+
 The rule to write by
 
 * Physical enhancement is a ladder. The stones are not on it
-* Nothing in this story's power system interacts with a stone on its own terms. The only defenses are containment, shared burden, cosmic nature and the mind
-* That keeps the stones meaningful. However strong D gets, they stay out of reach and the story's threats stay human-scaled
+* What matters is the conduit, not the body. Containment, shared load, a mindless housing and a trained will are the only things that have ever worked
+* The symbiote is a good conduit and not a great one. It buys D access and charges him for it
+* That keeps the stones meaningful. However strong D gets, using one is always a decision with a price
 
 What That Means for This Story
 
