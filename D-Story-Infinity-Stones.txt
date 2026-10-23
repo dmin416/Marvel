@@ -83,17 +83,58 @@ Not stone-powered, in case of confusion
 * Kamala Khan's bangle: not a stone, though it is connected to the Ten Rings
 * The Darkhold, which Wanda later uses: a book, not a stone
 
+What Happens If an Enhanced Human Touches One
+
+The canon evidence, from Guardians of the Galaxy (2014)
+
+* Carina, the Collector's servant, grabs the bare Power Stone. She explodes instantly and the blast destroys the Collector's entire collection. That is the baseline outcome for an ordinary person
+* Later the stone falls free of Ronan's weapon and Peter Quill catches it. It starts tearing him apart at once
+* Quill survives longer than he should. Gamora notes this and the reason is that he is half Celestial, which Vol. 2 confirms. His father was a cosmic being
+* Even so Quill cannot hold it alone. Gamora takes his hand, Drax grabs his shoulder and Rocket grabs Drax, and the four of them share the burden. Only together can they hold it long enough to use it on Ronan
+* The lesson: what saved Quill was not toughness. It was cosmic ancestry, and then four people splitting the load
+
+Why none of D's enhancements help
+
+* Everything that makes D and this story's cast strong is biological: muscle, bone, tendon, healing rate, nervous system, cellular control
+* The Power Stone does not injure. It unmakes. It is not an impact, a heat load or a force that a stronger frame resists. Tensile strength is not the relevant unit
+* So the whole ladder is irrelevant against it:
+  * Peak human D, 357 kg max effort: irrelevant
+  * The super soldier serum, five strong men and ten times robust: irrelevant. Captain America can survive terminal velocity because that is kinetic energy spread over a body. This is not
+  * Gwen at a single spider dose, 2,000 kg: irrelevant
+  * D at 300% spider venom, 51,800 kg: irrelevant
+  * The symbiote's cellular repair: it rebuilds cells. The stone removes them. Repair cannot outrun annihilation
+* A body that is ten or a hundred times tougher than a human's dies a hundredth of a second later than Carina did. The margin does not matter
+* What actually works in canon: a container, a shared burden across several beings, a cosmic nature or a purpose-built Gauntlet
+
+Proposed outcomes stone by stone
+
+These are design proposals for this story and not canon:
+
+* Power Stone: instant death for anyone in this story's cast. No enhancement changes it. The only survivable version is contained or shared, and even then it is temporary
+* Space Stone: it displaces rather than destroys. The Red Skull was banished to Vormir, not killed. So touching it is survivable and the problem is where it puts you. Durability is irrelevant and so is strength
+* Reality Stone: it rewrites what you are. Jane Foster survived by hosting it and it was killing her slowly. For D it would overwrite the body the symbiote built, and the symbiote's cellular control is exactly the wrong tool because it would be fighting a change at a level above cells
+* Time Stone: no bodily harm from touching it. It needs training and will, not a body. This is the one stone an ordinary person could hold safely and still be unable to use
+* Soul Stone: it takes a soul. For a Christian character whose soul is the one thing he did not get from a world, this is the only stone that threatens something the symbiote cannot replace. Thematically it is the most dangerous one in the setting for D specifically
+* Mind Stone: the interesting case. It attacks the mind, and D's mind is the strongest thing about him. It also unlocks latent ability rather than only controlling, which is what happened to Wanda. A symbiote's attempt to infiltrate his mind already unlocked his sealed memories (see D-Story-Symbiotes.txt), so a stone trying the same thing is the one encounter where D might come out ahead instead of dead
+
+The rule to write by
+
+* Physical enhancement is a ladder. The stones are not on it
+* Nothing in this story's power system interacts with a stone on its own terms. The only defenses are containment, shared burden, cosmic nature and the mind
+* That keeps the stones meaningful. However strong D gets, they stay out of reach, and the story's threats stay human-scaled
+
 What That Means for This Story
 
 * The stones are a different scale from everything else in the setting. D's symbiote can rebuild a body. A stone can rebuild a universe
 * They are almost entirely offscreen for the story's main window. S.H.I.E.L.D. has the Tesseract in secret, the Eye sits at Kamar-Taj and none of it touches New York until 2012
 * The Mind Stone is the one that intersects with this story's themes. It unlocks latent potential in people, which is exactly what the Oscorp enhancer, the super spider and the serum all try to do by other means. The stone does it instantly and for free
 * The Snap in 2018 is the only time the stones affect D's world directly, and it changes everything (see D-Story-Investments-1999-2020.txt)
-* D's courier business should never go near one. Carrying a stone is not a delivery, it is a death sentence
+* D's courier business should never go near one. Carrying a stone is not a delivery, it is a death sentence. Carina's explosion is what a bare Power Stone does to whoever signs for it
 
 Open Questions
 
 * Whether D ever learns any of this exists
 * Whether the story shows any stone before 2012
 * Whether D's unlocked knowledge includes knowing what they are
-* Whether the symbiote's cellular control could do anything with a stone, or whether that is far out of its class
+* Whether the Mind Stone would unlock D's memories the way the symbiote did
+* Whether D ever handles a contained stone, such as the Tesseract in its cube, as cargo
