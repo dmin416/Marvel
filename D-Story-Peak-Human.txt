@@ -4,6 +4,8 @@ Note: This is my own version of the story and its characters. Marvel and other w
 
 Status: design notes only. Nothing here is approved. This file says what a peak human body can do in this story and what it costs. It is written as story constraints, not as a design recipe.
 
+Accuracy note: the physiology here is general background written from memory and not sourced. It is tuned for the story rather than for accuracy.
+
 Why This File Exists
 
 * The symbiote maximizes D's nutrition, recovery and gains to the highest level a human body can reach (D-Story-Monthly-Strength.txt). That raises the question of what the ceiling is

@@ -4,6 +4,8 @@ Reference only. These are the source films for inspiration. Nothing here is a fa
 
 Years are release years for the Raimi and Webb films. MCU years follow the MCU timeline book.
 
+Accuracy note: written from memory of the films and not fact checked. The films rarely state ages or dates, so ages are inferred. Verify before relying on any detail.
+
 ---
 
 ## Raimi Trilogy (Tobey Maguire)
