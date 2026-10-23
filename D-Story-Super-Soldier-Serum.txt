@@ -17,12 +17,12 @@ What 4x Metabolism Actually Means
 Food
 
 * Steve post-serum is about 6 feet 2 inches and roughly 240 pounds, so about 1.88 m and 108 kg
-* A normal resting rate for that body is about 2,100 kcal a day, and about 3,700 with ordinary activity (my calculation, Mifflin St Jeor)
+* A normal resting rate for that body is about 2,100 kcal a day and about 3,700 with ordinary activity (my calculation, Mifflin St Jeor)
 * At four times that: roughly 8,500 kcal a day at rest and about 15,000 a day with activity
 * For comparison, a Tour de France rider burns roughly 6,000 to 8,000 kcal on a hard stage. Steve lives permanently above that
 * 15,000 kcal is roughly 5 kg of ordinary food a day, or about 25 fast food burgers
 * In sustained combat the figure goes far higher
-* Story consequence: he has to eat constantly and enormously, and he cannot go long without food. An army can feed him. A man alone in the field cannot
+* Story consequence: he has to eat constantly and enormously and cannot go long without food. An army can feed him. A man alone in the field cannot
 
 Heat
 
@@ -46,7 +46,7 @@ Drugs and anesthesia
 
 Healing
 
-* Wound healing is limited by how fast cells divide and lay down collagen, and metabolism drives both
+* Wound healing is limited by how fast cells divide and lay down collagen. Metabolism drives both
 * Roughly four times faster healing: a cut that takes a week heals in about two days, a broken bone in weeks rather than months
 * Not regeneration. He does not regrow limbs and he can still be killed
 * Story consequence: he recovers between fights in days instead of months, which is why he can fight a war without a long convalescence
@@ -86,7 +86,7 @@ Where He Sits Against This Story's Cast
 Using the figures in D-Story-Monthly-Strength.txt and D-Story-Spider-Abilities.txt:
 
 * D at 23, trained peak human: base lift 214 kg, max effort 357 kg, emergency 575 kg
-* Captain America: about 500 kg controlled, so above D's max effort and near D's emergency lift, and he can do it repeatedly without injury
+* Captain America: about 500 kg controlled, so above D's max effort and near D's emergency lift, which he can do repeatedly without injury
 * Gwen with a single spider dose: about 2,000 kg, so four times Captain America
 * D at 300% spider venom: about 51,800 kg, so about a hundred times Captain America
 * So the serum is the ceiling of what a human body can be pushed to. The spider venom is a different category entirely
@@ -95,7 +95,7 @@ Why the Serum Matters to the Story
 
 * It is the original of every enhancement program in this world. Oscorp's enhancer, A.I.M.'s Extremis, Hydra's Winter Soldier program and Dr. Noah Burstein's work at Seagate all chase the same thing (see D-Story-World-Economy.txt)
 * Norman Osborn's Army contract for a "human performance program" is a super soldier contract in everything but name (Played, September 1999)
-* The serum's real lesson is that it worked once, on one man, and nobody has reproduced it. Everything after it is a worse copy that breaks the subject
+* The serum's real lesson is that it worked once, on one man, and nobody since has reproduced it. Everything after it is a worse copy that breaks the subject
 * D's symbiote does what the serum does and more, by rebuilding cells directly. That makes it the thing every one of these programs would kill for
 
 Open Questions
