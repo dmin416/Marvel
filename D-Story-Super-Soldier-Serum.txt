@@ -80,7 +80,7 @@ No MCU film states a number. These are the feats and the fan estimates around th
 Durability Outruns Strength
 
 * Approved for this story: his durability is raised further than his strength is
-* His strength is somewhere around 1.4 times a peak human's controlled lift. His durability is far past any multiple of that
+* His strength is about 2.5 times a peak human's max effort. His durability is far past even that
 * What he survives: falls from heights that would break a normal body, being thrown through walls and concrete, car impacts, grenade and energy blasts at close range, Bucky's metal arm at full force and a sustained beating from an armored Iron Man suit
 * His bones and connective tissue are the part the serum improved most. That is why he can hit as hard as he can without destroying his own hands and wrists and why he can hold a helicopter without tearing his shoulder out
 * Combined with four times healing, this makes him very hard to put down and very fast to get back up. He loses fights and is rarely out of action
@@ -96,19 +96,24 @@ Commonly quoted figures, all unofficial:
 
 A Working Number for This Story
 
-* Proposed: treat Captain America as roughly 500 kg for a controlled press and up to about 1,000 to 1,500 kg for a short all-out effort
-* That is about 1.4 times D's peak human ceiling on a controlled lift and about three to four times it on an emergency effort
+* Approved: he is roughly five strong men. Not five average men, five strong ones
+* Taking a strong trained man at about 180 kg on a floor lift, that puts Captain America around 900 kg controlled
+* Range: about 750 to 1,000 kg depending on where a strong man is set
+* Short all-out effort with everything behind it: somewhere above that, call it 1,200 to 1,500 kg
+* For scale, the real world deadlift record is 505 kg by Hafthor Bjornsson with suit and straps, so 900 kg is about 1.8 times the strongest lift any human has ever made, and he can do it repeatedly and one-handed
 * The serum raises strength, speed, reflexes, endurance, healing and senses together. Durability is the exception and runs well ahead of the rest (see below)
 
 Where He Sits Against This Story's Cast
 
 Using the figures in D-Story-Monthly-Strength.txt and D-Story-Spider-Abilities.txt:
 
+* A strong trained man: about 180 kg floor lift
+* World record deadlift: 505 kg, Hafthor Bjornsson, with suit and straps
 * D at 23, trained peak human: base lift 214 kg, max effort 357 kg, emergency 575 kg
-* Captain America: about 500 kg controlled, so above D's max effort and near D's emergency lift, which he can do repeatedly without injury
-* Gwen with a single spider dose: about 2,000 kg, so four times Captain America
-* D at 300% spider venom: about 51,800 kg, so about a hundred times Captain America
-* So the serum is the ceiling of what a human body can be pushed to. The spider venom is a different category entirely
+* Captain America: about 900 kg controlled, so about 2.5 times D's absolute max effort and well past D's emergency lift, and he can do it repeatedly without injury
+* Gwen with a single spider dose: about 2,000 kg, so a bit over twice Captain America
+* D at 300% spider venom: about 51,800 kg, so roughly sixty times Captain America
+* So the serum is far past anything training can reach and still a long way below the spider venom. It sits in its own tier
 
 Why the Serum Matters to the Story
 
