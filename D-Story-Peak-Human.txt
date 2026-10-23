@@ -8,7 +8,7 @@ Why This File Exists
 
 * The symbiote maximizes D's nutrition, recovery and gains to the highest level a human body can reach (D-Story-Monthly-Strength.txt). That raises the question of what the ceiling is
 * The numbers live in D-Story-Monthly-Strength.txt, D-Story-Cast-Physical-Baselines.txt and D-Story-Speed-and-Skill-Over-Time.txt. This file explains the ceiling behind them and the costs that come with it
-* The point of the costs is drama. A body at the ceiling is not free, and the bill comes due in scenes
+* The point of the costs is drama. A body at the ceiling is not free. The bill comes due in scenes
 
 There Is No Single Perfect Body
 
@@ -30,7 +30,7 @@ Connective tissue
 
 Heat
 
-* More power means more waste heat. Humans cool better than any other large mammal through sweat, and that still has a ceiling
+* More power means more waste heat. Humans cool better than any other large mammal through sweat. That still has a ceiling
 * Story use: long fights and long runs in summer cost him. He overheats before he runs out of strength
 
 Calories
@@ -41,7 +41,7 @@ Calories
 Sprint against endurance
 
 * Fast-twitch and slow-twitch muscle fibers compete for the same space. No body is maxed for both
-* Story use: D is fast and he lasts, but he is not a world-record sprinter and a world-record marathoner at once. A balanced mix is his ceiling
+* Story use: D is fast and he lasts. He is not a world-record sprinter and a world-record marathoner at once. A balanced mix is his ceiling
 
 Oxygen delivery
 
@@ -81,7 +81,7 @@ What Peak Human Looks Like in This Story
 
 The In-World Explanation
 
-* D does not need a scientific account of why he is at the ceiling. The symbiote maximizes nutrition, recovery and gains, and his training does the rest
+* D does not need a scientific account of why he is at the ceiling. The symbiote maximizes nutrition, recovery and gains. His training does the rest
 * Before the symbiote (September to December 1999) he is an undernourished kid training in a yard on children's home food. The gains are small and slow
 * After his 15th birthday the ceiling is what limits him instead of his circumstances
 * Anything past the human ceiling in this story comes from the spider venom, not from training (D-Story-Spider-Abilities.txt)
