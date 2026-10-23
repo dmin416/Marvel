@@ -126,7 +126,8 @@ Villains
 * Present: Green Goblin, Otto Octavius, Electro, Sandman, Rhino, Chthon's Juggernaut, Scorpion, Hobgoblin, Chameleon and Tombstone
 * When they fit: Kingpin, Kraven and Mysterio
 * After the Battle of New York: Vulture
-* Allies: Cloak and Dagger
+* Allies: Cloak and Dagger, Jessica Jones (a Midtown High student with a radioactive accident origin) and Luke Cage (Netflix origin)
+* Kilgrave exists. His origin is either the comics spy and nerve gas or the Netflix parents' experiments (to be decided)
 * Most of Spider-Man's villains exist in one form or another.
 * Otto Octavius: his existence begins the same way as in the original trilogy (fusion reactor experiment, inhibitor chip, wife Rosalie). Once D interacts with him anything is on the table. Whether his wife dies is unknown.
 
@@ -158,6 +159,7 @@ Open Questions
 
 Related Files
 
+* D-Story-Street-Heroes.txt: Jessica Jones, Luke Cage and Kilgrave
 * D-Story-Lorna-Polaris.txt: Lorna Dane's abilities, personality, history and story notes
 * D-Story-Guys-Maturity.txt: Peter, Harry and Flash maturity, source ages and projections
 * D-Story-High-School-Social.txt: high school social dynamics, Gwen's path to Peter and D and the self defense club idea

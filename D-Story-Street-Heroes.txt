@@ -1,0 +1,158 @@
+D Story: Jessica Jones, Luke Cage and Kilgrave
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: the approved direction is set. Everything else is planning ideas. The only story canon is D-Story-So-Far.txt. None of these characters has appeared in the played story yet.
+
+Approved Direction
+
+* Since Cloak and Dagger exist, Luke Cage and Jessica Jones exist too. That means Kilgrave exists
+* Jessica Jones: a radioactive accident like Daredevil's gives her powers while she attends the same high school as Peter, Gwen and the others
+* Luke Cage: the Netflix origin. A scientist working on a super-soldier program uses it to save his life
+* Kilgrave: two origins kept on file. The user will choose one later
+  * Option A (comics): a spy who breaks into a facility and is exposed to nerve gas
+  * Option B (Netflix): his parents experiment on him as a child to cure a neurological condition
+
+Jessica Jones
+
+This story's version
+
+* Goes to Midtown High School of Science and Technology with D, Peter, Harry, Gwen and Lorna
+* Open: whether she is in the same grade (born about 1985) or a year apart
+* Her family's car crashes into a truck or military convoy carrying radioactive chemicals. Her parents and younger brother die. She is in a coma and wakes with powers
+* This is close to Daredevil's origin, where young Matt Murdock is blinded by radioactive chemicals from a truck
+* Source note: the radioactive convoy and Midtown High with Peter Parker are the comics origin (Alias). The Netflix origin is different (below). This story uses the radioactive version
+* Open: whether the accident happens before she starts at Midtown or while she is there
+* Open: whether she is fostered or adopted afterward, as with the Walkers in both versions
+
+Powers
+
+* Superhuman strength: enough to lift cars and smash through walls
+* Durability: tougher than a normal person but she can be hurt. She heals faster than normal
+* Leaping and flight: in the Netflix show she calls it "guided falling," long leaps rather than true flight. In the comics she can fly, though not always well
+* Kilgrave's control: after he controls her she is later able to resist him (Netflix season 1)
+
+Personality (both versions)
+
+* Sarcastic, guarded, blunt and hard drinking as an adult
+* Carries survivor's guilt over her family and trauma from Kilgrave
+* Tries being a costumed hero (Jewel in the comics) and gives it up
+* Works as a private investigator. Her agency is Alias Investigations
+* Decent underneath. She keeps helping people while insisting she does not care
+
+Source origins
+
+* Comics (Alias, 2001): a Midtown High classmate of Peter Parker who had a crush on him. A family car crash into a military convoy carrying radioactive chemicals kills her family. She wakes from a coma with powers. Adopted by the Jones family in some tellings
+* Netflix (2015): a car crash kills her family. The company IGH and Dr. Karl Malus experiment on her while she is in a coma. Her mother Alisa survives and is altered too. Adopted by Dorothy Walker, which makes child star Trish Walker her foster sister
+
+Her history with Kilgrave (source)
+
+* Kilgrave controls her for months, uses her in his crimes and makes her kill a woman named Reva Connors (Netflix). She breaks free and he becomes obsessed with her
+* Netflix season 1: she hunts Kilgrave and kills him by snapping his neck
+* Comics: Kilgrave keeps her for about eight months. The trauma ends her hero career until she rebuilds
+
+Relationships (source)
+
+* Trish Walker (Netflix foster sister; Patsy Walker, Hellcat in the comics)
+* Luke Cage: lover in the Netflix show and husband in the comics. They have a daughter, Danielle, in the comics
+* Malcolm Ducasse (Netflix), Jeri Hogarth (Netflix lawyer)
+* Peter Parker (comics high school crush)
+
+Luke Cage
+
+This story's version
+
+* The Netflix origin: an innocent man in prison is nearly killed and a scientist uses super-soldier research to save his life
+* Open: whether his real name is Carl Lucas as in both versions
+* Open: his age. He is older than the Midtown group in both versions
+
+Source origin (Netflix, 2016)
+
+* Carl Lucas, a former police officer, is framed and sent to Seagate Prison
+* Guards run illegal fights. Lucas is beaten nearly to death
+* Dr. Noah Burstein, running a super-soldier-based experiment at the prison, puts him in a regeneration tank to save his life
+* A guard sabotages the process. The surge gives Lucas unbreakable skin and great strength
+* He escapes and takes the name Luke Cage. He lives quietly in Harlem working at Pop's barber shop until he is pulled into a fight with Cottonmouth, Mariah Dillard and Diamondback
+
+Comics origin (1972)
+
+* Carl Lucas is framed by his friend Willis Stryker and sent to Seagate
+* He volunteers for Dr. Noah Burstein's cell regeneration experiment based on super-soldier research
+* A racist guard sabotages it. Lucas gains steel-hard skin and strength, escapes and becomes a hero for hire
+
+Powers
+
+* Unbreakable skin: bullets, blades and most impacts do not penetrate
+* Superhuman strength: enough to flip cars and punch through walls
+* Fast healing and great stamina
+* Weaknesses: the Judas bullet made from alien metal (Netflix). Surgery is nearly impossible because his skin resists scalpels
+
+Personality
+
+* Calm, principled and reluctant to be a hero
+* Protective of Harlem and its people
+* A sense of justice shaped by being framed
+* Slow to anger, unstoppable once moved
+
+Key people (source)
+
+* Reva Connors: his wife in the Netflix show. Her death links him to Jessica
+* Willis Stryker (Diamondback): his half-brother in the Netflix show and his betrayer in the comics
+* Pop, Misty Knight, Claire Temple, Cottonmouth (Cornell Stokes), Mariah Dillard, Bushmaster
+* Jessica Jones and Danny Rand (Iron Fist), his "Heroes for Hire" partner in the comics
+
+Story ties
+
+* Harlem is also Tombstone's turf (see D-Story-World-Economy.txt)
+* Burstein's work ties into the super-soldier research that runs through the world: Erskine's serum, Oscorp's enhancer and A.I.M.'s Extremis
+
+Kilgrave
+
+Powers (both versions)
+
+* Mind control by spoken command. People obey whatever he says
+* The effect fades over hours once he is out of range (Netflix about 12 hours)
+* Option B (Netflix) works through a virus he gives off. Option A (comics) works through pheromones
+* Comics version has purple skin from the exposure
+
+Option A: comics origin
+
+* Zebediah Killgrave is a spy from Communist Yugoslavia (Croatia in some tellings)
+* He tries to break into a U.S. military facility to steal a nerve gas formula
+* He is exposed to the experimental nerve gas. His skin turns purple and he gains the power to control people with pheromones
+* Becomes the Purple Man, a supervillain who uses people for pleasure and profit
+
+Option B: Netflix origin
+
+* Kevin Thompson is born with a degenerative neurological disease
+* His parents, scientists Albert and Louise Thompson, experiment on him to cure it
+* The treatment gives him a virus that lets him control people by speaking
+* He blames his parents for the pain of the experiments and later runs away. He renames himself Kilgrave
+
+Personality (both versions)
+
+* Charming, narcissistic and completely without empathy
+* Treats people as objects
+* Obsessive. Fixates on Jessica
+* A coward without his power
+
+What he does to Jessica (source)
+
+* Controls her for months, uses her in his crimes and makes her kill Reva Connors
+* Becomes obsessed when she breaks free
+
+Timeline Ideas
+
+* Jessica: born about 1985. At Midtown from 1999. The accident happens in her teens (exact year open)
+* Luke: older. His prison years and escape happen before the Netflix-era events (dates open)
+* Kilgrave: his time with Jessica happens when she is a young adult. The Netflix events are set around 2015 to 2016
+* Cloak and Dagger tie in during the 2012 to 2014 street-level era (see D-Story-Rough-Timeline.txt)
+
+Open Questions
+
+* Kilgrave's origin: Option A or Option B
+* Jessica's grade, foster family and when her accident happens
+* Whether Trish Walker exists
+* Luke's age and how his years in prison line up
+* Whether Iron Fist exists
+* Whether Jessica kills Kilgrave as in the Netflix show
