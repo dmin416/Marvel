@@ -25,11 +25,11 @@ Food
 
 * Steve post-serum is about 6 feet 2 inches and roughly 240 pounds, so about 1.88 m and 108 kg
 * A normal resting rate for that body is about 2,100 kcal a day and about 3,700 with ordinary activity (my calculation, Mifflin St Jeor)
-* Four times the rate at four times the efficiency cancels out. His food need lands close to a normal man of his size, around 3,700 to 5,000 kcal a day, and he gets roughly four times the work out of it
-* He still eats a lot, because he is a large and very active man, but not the 15,000 kcal a day that four times the rate alone would demand
+* Four times the rate at four times the efficiency cancels out. His food need lands close to a normal man of his size, around 3,700 to 5,000 kcal a day, while he gets roughly four times the work out of it
+* He still eats a lot because he is a large and very active man. He does not need the 15,000 kcal a day that four times the rate alone would demand
 * In sustained combat the figure climbs, though nowhere near as steeply as it would without the efficiency
 * Story consequence: he eats like a serious athlete rather than like a furnace. He can live on field rations and does not need a dedicated supply line
-* Design note: the alternative version, four times the rate with normal efficiency, needs about 15,000 kcal a day. That is roughly 5 kg of food, more than a Tour de France rider on a hard stage, and it makes him dependent on an army to feed him. This story does not use that version
+* Design note: the alternative version, four times the rate with normal efficiency, needs about 15,000 kcal a day. That is roughly 5 kg of food, more than a Tour de France rider on a hard stage, which makes him dependent on an army to feed him. This story does not use that version
 
 Heat
 
