@@ -12,6 +12,34 @@ How to read this file
 * Raw scaling by body size overstates what a human body could do because strength grows with cross-section and weight grows with volume. Use the human-scale figures as an upper bound for story design
 * Real spiders have no single established champion in several categories. Those are marked as examples
 
+Leaderboard at a Glance
+
+* Running speed: Australian huntsman (Heteropoda), 3.59 m/s (2026 preprint, not peer reviewed)
+* Tumbling escape: Moroccan flic-flac spider
+* Turning speed: flattie spiders (Selenopidae)
+* Jumping: jumping spiders (Salticidae)
+* Raw size and mass: Goliath birdeater
+* Wall climbing: jumping spider Evarcha arcuata
+* Strongest silk and largest orb web: Darwin's bark spider
+* Most dangerous venom to humans: Australian funnel-web spiders
+* Daytime vision: jumping spiders
+* Night vision: ogre-faced spiders
+* Intelligence: Portia jumping spiders
+* Fastest jaw strike: trap-jaw spiders (Zearchaea)
+* Projectile attack: spitting spiders (Scytodes)
+* Ranged trap: bolas spiders (Mastophora)
+* Camouflage: bird-dropping mimics and wrap-around spiders
+* Aquatic survival: diving bell spider
+* Water walking: fishing spiders (Dolomedes)
+* Aerial travel: ballooning spiders
+* Electric field sensing: sheet-web spiders (Erigone)
+* Cooperative hunting: Anelosimus eximius
+* Longevity: Gaius villosus
+* Leg span: giant huntsman (Heteropoda maxima)
+* Unusual diet: Bagheera kiplingi
+* Display: Maratus peacock spiders
+* Defensive hairs: New World tarantulas
+
 Speed and Movement
 
 * Running speed
@@ -137,3 +165,10 @@ Candidate Power Sources
 * Aerial: ballooning spiders
 * Electric sensing: Erigone
 * Healing: molting regeneration
+
+Most Interesting for a Designed Spider
+
+* Portia fimbriata: unusual intelligence and the sharpest vision
+* Darwin's bark spider: the extraordinary silk
+* Diving bell spider: surviving underwater
+* Note: unlike electrical discharge, every ability in this file has a real spider equivalent that a fictional mutation could exaggerate
