@@ -1,0 +1,63 @@
+D Story: Research Tracker
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: working list. Updated after the regeneration research.
+
+Part 1: Things to Fix in the Files
+
+Needs a decision
+* The age at which D takes his dosing protocol. A protocol at 18 (75 kg lift) gives about 11,100 kg at 300% and one at 22 (140 kg lift) gives about 20,720 kg
+* Whether the venom supply covers weeks of doses when one spider yields very little
+* How Eddie's symbiote (absorbed after D kills its mind) relates to the separate clone symbiote bonded to Gwen
+* Whether Gwen's symbiote reflects Gwen or D when the clone is tied to D
+* When D's first symbiote interaction (ages 14 to 18) happens relative to the 2014 to 2016 timeline entry for Eddie getting the symbiote
+* Multipliers for the Lizard serum on Peter and for Harry's serum
+
+Mechanical fixes
+* Gwen is bitten at 18 so her baseline lift is 39 kg and not the 40 kg adult figure. The difference is small. Fixed here by note only
+* D-Story-Super-Spider-Gains.txt still shows the old efficacy numbers and is marked superseded
+* D-Story-Chimera-Spider-Scale.txt Part 3 values predate the multiplier model and are marked superseded
+
+Part 2: Science Fixed This Session
+
+* Electric eel pulse: the 2 ms figure is likely the gap between the low voltage pulse and the first strong pulse and not the pulse width. Low voltage discharge lasts 1.24 to 1.78 ms. Hunting pulses fire at about 500 Hz. High voltage output scales with body length (151 V at 200 mm up to 572 V at 609 mm)
+* Axolotl limb staging: wound healing by day 3 and dedifferentiation by day 8 and early bud by day 15 and palette by day 28 and digital outgrowth by day 37 (age of animals not stated). Adult siblings regenerated slower and with deformities in one experiment
+* Cell division and energy numbers for regrowth added in D-Story-Regeneration-Speeds.txt
+* Portia acuity confirmed against Harland and Jackson (2000)
+* Jump distance corrected to about 6 body lengths
+* Trap-jaw strike corrected to 0.084 ms mean
+
+Part 3: Comic and Film Notes
+
+* Spider-Man strength: Class 10 handbook rating (about 10 tons). Later handbook text about 20 tons. Single stories show 50 to 200 plus tons (fan summaries). No source confirms a garbage truck lift
+* Comic feats: Amazing Spider-Man #33 (machinery) and #424 (subway car) and Spider-Man #98 (Daily Bugle building)
+* Spider-Man 2 (2004) train stop: no official tonnage. A modern NYC subway car weighs about 38.6 tonnes empty
+* Symbiotes: strength figures unverified (Venom about 11 tons and Anti-Venom 13 to 70 tons and Carnage over 80 tons)
+* Symbiote codex: each symbiote leaves a cellular imprint wrapped around the host's DNA (Venom #8)
+* Control examples: Ben Reilly's will kept a symbiote from taking control. Flash Thompson struggled with Agent Venom. Max Modell overcame the symbiote with help
+* Regeneration: Wolverine regrows eyes in seconds and organs from a skeleton in minutes (varies by writer). Lizard regrows an arm in the comics and film. See D-Story-Regeneration-Speeds.txt
+
+Part 4: Research Still Needed
+
+Science
+* Parry and Brown (1959) leg pressure figures from the paper itself. The journal PDF returned access errors
+* Bite force of spiders in newtons
+* Heart rate of jumping spiders and tarantulas
+* Human sized web shooting speed beyond the spitting spider
+* Octopus colour change timing from a primary study
+* Huntsman 3.59 m/s result once peer reviewed and the species name
+* Adult axolotl limb regeneration timeline from a primary study
+* Tardigrade space exposure details from the FOTON-M3 paper
+* Sprint speed and vertical jump norms by age for boys 14 to 18
+* Ordinary person reaction times by age
+* Strength after adolescent undernutrition
+
+Comics and film
+* Timed regrowth of the Lizard's arm in The Amazing Spider-Man (2012) and the comics
+* Which character regrows limbs instantly (Deadpool or another)
+* Morbius and Doctor Strange regeneration
+* Marvel Official Handbook strength classes for Spider-Man and Venom
+* Whether Carnage inherits Venom's memories
+* Symbiote feeding needs and lifespan details in comics
+* Whether any comic shows a symbiote mind destroyed and absorbed by its host

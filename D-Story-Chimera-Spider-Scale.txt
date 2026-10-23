@@ -101,7 +101,11 @@ Electric Eel
 * About 0.15 V per electrocyte (secondary review). Cells stack in series for voltage and in parallel for current
 * About 2,000 to 5,000 stacked layers produce 300 to 800 V externally (same review). Textbooks say only several thousand
 * Catania measured discharge repetition up to about 400 per second, a 2.5 ms period and about 0.5 ms half-width per peak (secondary report)
-* A 2 ms duration for the full shock appears in one source but conflicts with the pulse measurements. Treat it as unverified
+* The 2 ms figure is likely the gap between the low-voltage pulse and the first strong pulse in hunting discharges (Springer prey-capture study) and not the pulse width
+* Hunting high-voltage discharges fire at about 500 Hz
+* Low-voltage discharge duration is about 1.24 to 1.78 ms (E. voltai species description)
+* High-voltage discharge scales with body length: 151 V in a 200 mm fish up to 572 V in a 609 mm fish. The 860 V record came from a larger fish
+* Early oscilloscope work on E. electricus measured roughly 220 V peak in one specimen
 * 860 V x 1 A = 860 W is a nominal peak product and not delivered power
 * Delivered power estimate: about 63 W (0.24 A) to a human trunk from a 1.8 m eel. An extrapolation from a 40 cm eel
 * The eel is already human sized so its figures need no scaling
@@ -116,6 +120,8 @@ Axolotl
 * The first 28 days cover amputation, early bud, late bud and pallet stages (Voss 2015)
 * One logbook reports about 5 weeks of fast growth after the blastema forms and then about 9 more weeks of slow growth until the limb matches the other side (low quality source)
 * A review says timing depends on size and age and older animals take longer. It also says regeneration completes within a month, which conflicts with the logbook
+* Staging timeline (age of animals not stated): wound healing by day 3 and dedifferentiation by day 8 and early bud by day 15 and palette by day 28 and digital outgrowth by day 37
+* One experiment found adult siblings regenerated slower than juveniles and with deformities in the regrown limb
 * No primary source gives a clean adult digit-complete day. A working range for an adult forelimb is about 1 to 4 months
 * Adults of other Ambystoma species took about 155 to 375 days. Hobbyist reports range from days for toes to months for a limb
 

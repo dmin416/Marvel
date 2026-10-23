@@ -154,3 +154,5 @@ Related Files
 * D-Story-Speed-and-Skill-Over-Time.txt: speed and skill from 14 to 35
 * D-Story-Cast-Physical-Baselines.txt: Peter, Gwen, Harry and D from 14 to 35
 * D-Story-Symbiotes.txt: symbiote lore and nature
+* D-Story-Regeneration-Speeds.txt: regeneration in comics and film and what it means biologically
+* D-Story-Research-Tracker.txt: fixes and research still needed

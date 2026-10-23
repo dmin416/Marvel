@@ -1,0 +1,73 @@
+D Story: Regeneration Speeds
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: reference and brainstorm only. Nothing here is approved. Comics and film figures come from fan wikis and review summaries. The biology numbers are calculations from the stated assumptions.
+
+Regeneration in Comics and Film
+
+* Wolverine
+  * Eyes regrown within seconds (reference summaries)
+  * Skin and muscle and organs regrown from a bare skeleton within minutes (reference summaries)
+  * Speed varies with the writer: in the 1980s severe recovery could take days or weeks or months
+  * One source says he has never regenerated a severed body part. In the Ultimate universe a severed finger regrows in seconds
+* Deadpool
+  * A weak source says minor wounds heal almost instantly and full limbs take hours to days
+  * The source is a Spanish language FAQ page and needs checking against comics
+* Hulk
+  * Reported to regrow limbs after amputation with a short regeneration time. No specific speed found
+* Lizard (Curt Connors)
+  * Comics: first appears in Amazing Spider-Man #6 (1963) as a geneticist studying how reptiles regrow limbs. He regrows his amputated right arm after testing a reptile DNA serum on himself and turns into the Lizard. No regrowth time found
+  * The Amazing Spider-Man (2012): Connors injects the formula and passes out. He awakens to find his arm regenerated. Reviews describe the regrowth as almost instant. A preview describes a human hand regrowing first and then scales growing up and down his body. No timed duration found
+  * Lizard form is the result of an overdose of the formula in the film
+* Not found
+  * Morbius and Doctor Strange regeneration
+  * A definitive fastest regenerator in Marvel
+  * The character who regenerates limbs instantly is probably Deadpool or a similar healing factor character. It is unconfirmed
+
+Real Regeneration (anchors)
+
+* Planarian head and brain in under a week. Tail partial at 6 to 8 days and complete at 10 to 13 days
+* Axolotl juvenile limb in about 40 to 50 days. Staging timeline in the chimera file: wound healing by day 3 and early bud by day 15 and palette by day 28 and digital outgrowth by day 37
+* Octopus arm tip fully regenerated in about 130 days with early signs at about 3 weeks
+
+What Instant Limb Regrowth Would Mean Biologically
+
+Assumptions
+* A man of 75 kg. Arm mass is about 5.7 percent of body weight for men (segment table) so one whole arm is about 4.3 kg
+* Normal tissue holds about 1e8 to 5e8 cells per gram (BioNumbers) so a 4.3 kg arm holds about 4e11 to 2e12 cells
+* Tissue energy content is taken as about 1.5 kcal per gram (an estimate not a sourced figure)
+* Building the tissue costs about as much energy again as it stores (an assumption)
+* Regrowth starts from a seed of about one million cells at the stump (an assumption)
+
+Results
+* Energy: about 6,400 kcal stored in the arm and about 12,800 kcal in total including the cost of building it (about 54 MJ)
+* Heat: about 27 MJ is released as heat while building the tissue
+* If that heat cannot leave the body it would raise body temperature by about 100 K. That is fatal
+* Heat dissipation: a person sheds roughly 1 to 2 kW at most. Dumping 27 MJ takes about 3.7 to 7.5 hours. Regrowth faster than that needs a much larger cooling system
+* Power: regrowth in 10 seconds needs about 5.4 MW of total power and about 2.7 MW of heat output. In 1 minute about 0.9 MW. In 10 minutes about 90 kW. In 1 hour about 15 kW. In 1 day about 0.6 kW
+* Oxygen: the heat generating part needs about 1,300 litres of oxygen. At a hard working peak of about 6 L per minute that is 220 minutes
+* Cell divisions: growing from a million cells to the full arm takes about 19 to 22 doublings
+  * At a 24 hour cell cycle that is about 19 to 22 days
+  * At the shortest adult mammal cycles (about 6.5 to 10 hours) about 5 to 9 days
+  * At early fruit fly embryo cycles (about 8 minutes) about 2.5 to 3 hours
+  * Finishing in 10 seconds needs a doubling every 0.5 seconds. Finishing in 1 minute needs one every 3 seconds. Nothing known divides that fast
+* Supply: new tissue needs blood vessels and nerves and raw material. Several kilograms of protein must be moved to the stump
+* Raw material: 4.3 kg of tissue contains about 1 kg of protein. The body must hold a large reserve or the regrowth must consume other tissue
+
+What This Means for the Story
+
+* Seconds scale regrowth cannot come from ordinary biology. It needs extra mass, extra energy and extra cooling from somewhere
+* Minutes scale regrowth needs a power budget of around 100 kW and a large heat sink
+* Hours scale regrowth still needs several times normal calorie intake and strong cooling
+* Days to weeks scale regrowth is close to real biology and needs a big appetite and plenty of food
+* Wolverine-like speed is easier to explain as a story rule than as biology
+* The Lizard's near instant arm growth in the film would need a reptile-DNA formula to act as both blueprint and large energy source. His scales and larger Lizard body suggest extra mass was added at the same time
+* Cost scene ideas: starving appetite after a regrowth, overheating, collapse, or taking mass from the rest of the body
+
+Open Questions
+
+* How fast D's regeneration should be (days or hours or minutes)
+* Whether the chimera's octopus and axolotl and planarian traits come with an energy source
+* Whether regrowth burns fat and muscle from elsewhere in the body
+* What the Lizard serum does to Peter's body in this story
