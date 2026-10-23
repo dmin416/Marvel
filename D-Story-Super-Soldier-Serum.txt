@@ -26,10 +26,11 @@ Food
 
 Heat
 
-* A normal resting body puts out about 100 watts of heat
-* Four times the metabolism means roughly 400 watts at rest (my calculation), which is what a normal person produces during moderate exercise
-* He runs hot all the time. He is warm to the touch, sweats easily and sheds heat constantly
-* Story consequence: he needs less clothing in cold weather and overheats faster in hot weather and in enclosed armor
+* Approved for this story: he does not run much hotter than a normal person
+* The arithmetic alone would say otherwise. Four times the metabolism would mean roughly 400 watts at rest instead of about 100, which is what moderate exercise produces (my calculation). A body doing that continuously would be visibly hot and in trouble
+* The resolution: the serum improves how efficiently his body uses energy and how well it sheds heat, in step with the metabolic rate. He burns four times the fuel and gets four times the useful work out of it rather than four times the waste heat
+* So he is slightly warm to the touch at most. He is comfortable in cold weather, tolerates heat well and does not overheat in armor or in a long fight
+* This also keeps the enormous food intake meaningful. The fuel goes into output, not into radiating warmth
 
 Alcohol
 
@@ -68,6 +69,16 @@ No MCU film states a number. These are the feats and the fan estimates around th
 * Endgame: he lifts and wields Mjolnir, which is a worthiness test rather than a strength test
 * He survives falls, impacts and blasts that would kill a normal person, which is durability rather than strength
 
+Durability Outruns Strength
+
+* Approved for this story: his durability is raised further than his strength is
+* His strength is somewhere around 1.4 times a peak human's controlled lift. His durability is far past any multiple of that
+* What he survives: falls from heights that would break a normal body, being thrown through walls and concrete, car impacts, grenade and energy blasts at close range, Bucky's metal arm at full force, and a sustained beating from an armored Iron Man suit
+* His bones and connective tissue are the part the serum improved most. That is why he can hit as hard as he can without destroying his own hands and wrists, and why he can hold a helicopter without tearing his shoulder out
+* Combined with four times healing, this makes him very hard to put down and very fast to get back up. He loses fights and is rarely out of action
+* Design note: this is the opposite of D's problem. D's strength outruns his tendons, so his emergency lift can injure him (see D-Story-Peak-Human.txt). The serum raised the frame first, so Captain America has no such ceiling
+* Story consequence: beating him is not about out-lifting him. It is about out-ranging him, out-numbering him or hitting him with something that does not care how tough he is
+
 Commonly quoted figures, all unofficial:
 
 * About 800 pounds (roughly 360 kg) press, from the comics Official Handbook
@@ -79,7 +90,7 @@ A Working Number for This Story
 
 * Proposed: treat Captain America as roughly 500 kg for a controlled press and up to about 1,000 to 1,500 kg for a short all-out effort
 * That is about 1.4 times D's peak human ceiling on a controlled lift and about three to four times it on an emergency effort
-* The serum raises everything together: strength, speed, reflexes, endurance, healing and senses, all in proportion. There is no single trait that runs far ahead of the rest
+* The serum raises strength, speed, reflexes, endurance, healing and senses together. Durability is the exception and runs well ahead of the rest (see below)
 
 Where He Sits Against This Story's Cast
 
