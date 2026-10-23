@@ -49,26 +49,46 @@ What D Can Do With a Sample
 
 Getting one, spring 2010
 
-* The Harlem fight is the opportunity. Ross brought the Army into a New York neighborhood, which means wreckage, blood, a cordon, a cleanup and a hundred people with camera phones (see D-Story-World-Economy.txt)
-* What is physically on the ground afterward: Hulk blood, Abomination blood, serum residue and shredded military hardware
-* D's courier company is the natural way in. Someone has to move the cleanup, the samples and the paperwork, and they call a neutral courier with a clean record
-* Sterns' lab in New York holds the synthesized supply and it is wrecked by the end. Whatever survives there is unguarded for a window
-* Alternative: D is simply there, since Harlem is near Tombstone's turf and D has reasons to be uptown
+* D does not wait for a cleanup contract. By 2010 he is twenty-five, has his powers and runs his own company. He takes it
+* Option one, steal it. Sterns' lab in New York holds a large synthesized supply and the lab is wrecked by the end of the fight. D walks in during the chaos and leaves with it. Nobody is counting vials while an Abomination is loose in Harlem
+* Option two, join the fight. Ross brought the Army into a neighborhood and people are dying in the street. D helps because that is who he is. A sample is what he walks away with. Blood is already everywhere
+* Either way he is there in person rather than filing paperwork afterward
+* What is physically available: Hulk blood, Abomination blood, Sterns' synthesized supply, serum residue and shredded military hardware
+* Helping in the fight is the richer option. It puts him in front of Banner, Ross and Blonsky, it is in character and it means the sample is something he earned rather than took
+* Risk of joining in: Ross sees him. The Army files a report on an unidentified enhanced man in Harlem. That is the first time D appears on anyone's radar
 
 What the symbiote can do with it
 
 The symbiote is the ultimate in cellular manipulation and it analyzes biological samples (see D-Story-Symbiotes.txt). Proposed capabilities, in order of difficulty:
 
 * Read it. Understand exactly what gamma did to Banner's cells, which is more than Sterns or Ross ever managed
-* Separate it. The valuable parts of the gamma package are regeneration, durability and the refusal to die. The worthless parts are the mass, the green and the rage. Pulling them apart is the whole prize and it is what nobody else in this world can do
-* Take only the regeneration. Proposed: the symbiote copies Banner's healing and durability into D without the transformation. That is a large upgrade with no monster attached
+* Separate it. The whole gamma package is worth having once it can be taken apart. Regeneration, durability and the refusal to die come first. The mass is potential rather than waste and so is the rage. The only part with no value is the loss of self. Pulling the useful from the uncontrolled is the prize and nobody else in this world can do it
+* Take the regeneration. The symbiote copies Banner's healing and durability into D without the transformation. A large upgrade with no monster attached
+
+The mass as potential
+
+* Hulk's strength comes largely from mass. Banner is an ordinary-sized man who becomes something several times his own size, so the extra matter has to come from somewhere
+* That is not waste, it is a capability: adding mass on demand. The symbiote already adds mass to D, since it is a separate body wrapped around him
+* Proposed: the symbiote can do what gamma does, controlled. It builds mass when D wants it and sheds it when he does not. No green, no rage, no loss of himself
+* The cost is energy and therefore food, which is already the symbiote's standing cost (see D-Story-Symbiotes.txt)
+* Limits worth keeping: adding mass takes time rather than happening in a second, there is a ceiling on how much, and more mass brings more inertia and less agility. He gets to choose between fast and heavy rather than having both
+
+Emotion as the throttle
+
+* Gamma's most interesting mechanic is that Hulk's strength scales with rage. The emotion is the dial
+* For Banner that is a curse, because the dial is not in his hands. The angrier he gets the stronger and the less himself he is
+* Proposed for D: the symbiote reads his adrenaline already, which is canon symbiote behavior. With the gamma knowledge it can use emotion as a deliberate throttle rather than a leak
+* So D can push his output by choosing to let go and pull it back by choosing to be calm. The dial is in his hands because his mind is the thing that beat a symbiote
+* This is the clean inversion of Banner. Same mechanism, opposite ownership. Banner's emotion controls his power and D's power answers to his emotion
+* Story value: it gives him a reason to feel things hard in a fight and a reason to keep hold of himself, which is a better fight scene than a fixed number
+* Limits worth keeping: it is still a throttle on what he has and not a new ceiling, letting go has a cost in control and judgment, and he can misjudge how far he opened the dial
 * Build a cure. Banner spends years looking for one. D could have it, which is enormous leverage over Banner, Ross and S.H.I.E.L.D.
 * Build a weapon. The same knowledge makes gamma weapons, which is exactly what Ross and Blonsky wanted. D would not, which is a choice worth playing
 * Immunize. Make himself, or Peter and Gwen and Harry, immune to gamma exposure
 
 What it probably cannot do
 
-* Give D Hulk-scale strength. Hulk's strength comes from mass and rage while D's whole design is control. A rage-scaled power source is the opposite of who he is
+* Reach Hulk's top end. An enraged Hulk has no stated limit and D does. The mass and the emotional throttle raise his ceiling, they do not remove it
 * Fix Banner by itself. Banner's problem is as much psychological as cellular while the symbiote works on tissue
 * Stay secret if used openly. Anyone who sees gamma-grade regeneration will ask where it came from
 
