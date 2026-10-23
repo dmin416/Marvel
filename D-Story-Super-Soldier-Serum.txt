@@ -83,7 +83,7 @@ Durability Outruns Strength
 * So durability is raised roughly twice as far as strength. Five times on the output side, ten times on the taking-it side
 * A normal man's rib breaks under a certain impact. Captain America's takes about ten times that. The same goes for his skull, his joints, his connective tissue and his organs
 
-The Parachute Jump, and Why Ten Times Is the Right Number
+The Parachute Jump and Why Ten Times Is the Right Number
 
 * In The Winter Soldier, Steve jumps from a Quinjet with no parachute and goes into the Potomac. He swims out. This is the feat that sets the durability number
 * A falling human reaches a terminal velocity of about 55 m/s belly-down. Water at that speed behaves like a solid surface
