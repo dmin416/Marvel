@@ -117,6 +117,52 @@ Application to D
 * D's own clone symbiote is a reflection of D so the contest hardly exists
 * Gwen's managed bond holds only while neither her mind nor the symbiote's overwhelms the other
 
+The Imprint: Why the Symbiote Is a McGuffin
+
+Approved direction
+
+* The symbiote is the ultimate in cellular manipulation
+* When a symbiote tries to infiltrate D's mind, the attempt unlocks an incredible amount of knowledge in him
+* That knowledge imprints on the symbiote before D seals his memories again
+* So the symbiote keeps what D cannot reach. It can do a crazy amount of things and is a bigger McGuffin than before
+
+How the imprint works
+
+* The infiltration opens a channel in both directions. D's unlocked memories pour through it
+* The symbiote's mind dies in the flood (see Application to D). What survives is not a mind but a library written into the tissue
+* D seals his memories again afterward. The symbiote does not seal anything, so the knowledge stays in it
+* The tissue cannot think with the knowledge. It executes. D directs it
+
+What that means in practice
+
+* Cellular control: the symbiote can read, repair, rewrite and rebuild living tissue at the cellular level, its own and a host's
+* Healing: it closes wounds, regrows tissue, clears disease and fixes damage that medicine cannot
+* Enhancement: it tunes a host's body toward whatever the host needs, which is how Gwen gets the powers she wants instead of technology
+* Replication: it can copy a biological structure it has studied, including powers whose basis is biological
+* Analysis: it can take apart and understand a biological sample, which is how D experiments on things
+* Chemistry: it synthesizes compounds inside itself, including serums, antidotes and toxins
+* Shaping: shapeshifting, webbing and armor as in the comics, with far finer control
+* Self-repair: it rebuilds itself from very little tissue
+
+Limits that keep it from being a magic wand
+
+* It needs D to direct it. Without his instruction it only falls back on its old drives
+* It works on living tissue and biology. It is not telekinesis, magic or technology
+* Sound and fire still hurt it (see Capabilities)
+* Everything it does costs energy, which means food. Big work means enormous hunger
+* Rewriting a living person takes time, care and usually their cooperation. Fast and forced means damage
+* It cannot give back the knowledge. D sealed his memories. Asking the symbiote for them means opening that seal again
+* A host who is not D gets only what D set up for them. Gwen's bond is managed for that reason
+* Story control: the user decides what it can do in any given scene. Being a McGuffin does not make it a solution to every problem
+
+Open questions
+
+* Whether D knows how much the symbiote carries
+* Whether the symbiote can be made to give D's knowledge back and what that would cost
+* Whether anyone else could read the imprint out of it
+* Whether spawned offspring carry the imprint too
+* Whether this is the same contact as the 1999 bonding or a later one (the timeline has symbiote contact on December 30, 1999 and Eddie's symbiote in 2014 to 2016)
+
 Capabilities (comics)
 
 * Reads the host's adrenaline and bonds closely with them
