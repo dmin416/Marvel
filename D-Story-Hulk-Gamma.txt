@@ -1,0 +1,104 @@
+D Story: The Hulk, Gamma and Banner's Blood
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: reference and design notes. Nothing here is approved for the story. The only story canon is D-Story-So-Far.txt.
+
+Accuracy note: the film details come from Wikipedia and fan wikis rather than the film itself. Sources disagree on exactly how Blonsky received Banner's blood. Strength figures for the Hulk are fan estimates, since no film states one.
+
+Why the Hulk Matters to This Story
+
+* The Hulk is pure biology. No stone, no armor, no magic and no alien metal. A man, a serum and radiation
+* That makes him the proof that biology in this world reaches far higher than the super soldier serum does. The serum is five strong men. The Hulk is in the hundreds of tonnes
+* So the ceiling in D-Story-Peak-Human.txt is the ceiling for a trained natural body, not the ceiling for biology
+* For scale against this story's own numbers: D at 300% spider venom lifts about 51,800 kg. A calm Hulk is usually put above that and an angry one has no stated limit. So D with the spider venom is roughly half a calm Hulk and nowhere near an angry one
+* The Hulk is also the warning. Everyone who has chased this has produced a monster
+
+What the Hulk Is
+
+* Bruce Banner, a scientist, was working on a program Ross told him was radiation resistance. It was really an attempt to replicate the super soldier serum
+* Banner tested it on himself with a gamma dose. The result was the Hulk
+* So the Hulk is the super soldier serum's failure mode: the same goal reached with gamma radiation instead of Erskine's formula and the Vita-Ray chamber
+* Where the serum gave Steve Rogers perfection in proportion, gamma gave Banner mass, strength and rage with no control
+* Strength scales with rage. There is no fixed number. The angrier he is the stronger he gets, which is why no figure holds
+* He cannot be killed by ordinary means. Banner says he tried to shoot himself and the other guy spat the bullet out
+* He regenerates from almost anything and ages very slowly
+* The cost is the whole point. Banner loses himself. The power is real and the man is gone while it lasts
+
+Banner's Blood
+
+The canon facts
+
+* His blood is the carrier. The gamma is in it and it is transmissible
+* A single drop of it fell into a soda bottle at a Brazilian factory. The man who drank that bottle in Milwaukee got gamma sickness, and that is how Ross tracked Banner down. One drop, across the world, through a drink
+* Banner mailed blood samples to Samuel Sterns from Brazil under a false name, looking for a cure
+* Sterns synthesized those samples into a large supply. He intended to apply its limitless potential to medicine
+* Emil Blonsky took a small dose of an altered super soldier serum first. It gave him strength, speed, agility and fast healing. His bones broke against the Hulk and healed
+* Sterns warned that the serum and gamma together would make an abomination. Blonsky wanted it anyway
+* Blonsky got Banner's gamma blood and became the Abomination. Sources disagree on whether Sterns injected him willingly or under threat
+* Sterns himself took gamma blood into an open head wound and started to change
+
+What that establishes
+
+* Gamma is inheritable through blood and needs no equipment to transmit
+* It can be synthesized and stockpiled. Sterns did it in a basement lab with 2008-era technology
+* Combined with the super soldier serum it produces something worse, not something better
+* Every single person who has taken it has lost control of themselves. Banner, Blonsky and Sterns, three for three
+
+What D Can Do With a Sample
+
+Getting one, spring 2010
+
+* The Harlem fight is the opportunity. Ross brought the Army into a New York neighborhood, which means wreckage, blood, a cordon, a cleanup and a hundred people with camera phones (see D-Story-World-Economy.txt)
+* What is physically on the ground afterward: Hulk blood, Abomination blood, serum residue and shredded military hardware
+* D's courier company is the natural way in. Someone has to move the cleanup, the samples and the paperwork, and they call a neutral courier with a clean record
+* Sterns' lab in New York holds the synthesized supply and it is wrecked by the end. Whatever survives there is unguarded for a window
+* Alternative: D is simply there, since Harlem is near Tombstone's turf and D has reasons to be uptown
+
+What the symbiote can do with it
+
+The symbiote is the ultimate in cellular manipulation and it analyzes biological samples (see D-Story-Symbiotes.txt). Proposed capabilities, in order of difficulty:
+
+* Read it. Understand exactly what gamma did to Banner's cells, which is more than Sterns or Ross ever managed
+* Separate it. The valuable parts of the gamma package are regeneration, durability and the refusal to die. The worthless parts are the mass, the green and the rage. Pulling them apart is the whole prize and it is what nobody else in this world can do
+* Take only the regeneration. Proposed: the symbiote copies Banner's healing and durability into D without the transformation. That is a large upgrade with no monster attached
+* Build a cure. Banner spends years looking for one. D could have it, which is enormous leverage over Banner, Ross and S.H.I.E.L.D.
+* Build a weapon. The same knowledge makes gamma weapons, which is exactly what Ross and Blonsky wanted. D would not, which is a choice worth playing
+* Immunize. Make himself, or Peter and Gwen and Harry, immune to gamma exposure
+
+What it probably cannot do
+
+* Give D Hulk-scale strength. Hulk's strength comes from mass and rage while D's whole design is control. A rage-scaled power source is the opposite of who he is
+* Fix Banner by itself. Banner's problem is as much psychological as cellular while the symbiote works on tissue
+* Stay secret if used openly. Anyone who sees gamma-grade regeneration will ask where it came from
+
+The dangers
+
+* Gamma is radioactive. A sample is dangerous to transport, to store and to be near
+* One drop poisoned a stranger in Milwaukee. Carrying a vial is carrying a public health incident
+* Ross would kill to get it back and would kill whoever had it
+* Sterns is a competitor who already has a large synthesized supply and the ambition to use it
+* A failed experiment on himself turns D into the thing every other subject became. The symbiote reduces that risk and does not remove it
+* If Oscorp or A.I.M. ever got the sample, they would make an Abomination and sell it (see D-Story-AIM.txt)
+
+Where This Sits Among the Enhancement Programs
+
+Ranking what each one gets you, with everything from this story's own files:
+
+* Erskine's super soldier serum: perfection in proportion. Five strong men, ten times robust, four times metabolism and efficiency. Worked once, never reproduced
+* Gamma, the Hulk: hundreds of tonnes and near immortality, at the cost of the man. Reproducible through blood and worse every time
+* Oscorp's enhancer: Norman's split personality. The same bargain as gamma with a smaller payoff
+* The super spider: about 2,000 kg for a single dose, up to about 51,800 kg for D's controlled 300%. No loss of self, which makes it the best of the four
+* A.I.M.'s Extremis: regeneration and heat, with unstable subjects exploding
+* Dr. Noah Burstein's work at Seagate: unbreakable skin and strength, by accident
+* D's symbiote: the only one that can read all of the above and take the parts it wants
+
+The pattern worth writing: every program in this world trades the subject's self for power. The symbiote is the only thing that does not, because D destroyed its mind before it could take his.
+
+Open Questions
+
+* Whether D ever gets a sample and when
+* Whether he takes the regeneration or leaves it alone
+* Whether he ever meets Banner
+* Whether Sterns becomes a villain in this story
+* Whether anyone else gets gamma because of something D moved

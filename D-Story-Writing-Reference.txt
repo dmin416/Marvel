@@ -168,6 +168,7 @@ Open Questions
 
 Related Files
 
+* D-Story-Hulk-Gamma.txt: the Hulk, gamma and what D can do with a blood sample
 * D-Story-Infinity-Stones.txt: the six stones, their powers and who they empower
 * D-Story-Super-Soldier-Serum.txt: Captain America's strength and health and the serum's place in this world
 * D-Story-Investments-1999-2020.txt: real market history for D's foreknowledge
