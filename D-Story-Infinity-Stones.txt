@@ -90,8 +90,8 @@ The canon evidence, from Guardians of the Galaxy (2014)
 * Carina, the Collector's servant, grabs the bare Power Stone. She explodes instantly and the blast destroys the Collector's entire collection. That is the baseline outcome for an ordinary person
 * Later the stone falls free of Ronan's weapon and Peter Quill catches it. It starts tearing him apart at once
 * Quill survives longer than he should. Gamora notes this and the reason is that he is half Celestial, which Vol. 2 confirms. His father was a cosmic being
-* Even so Quill cannot hold it alone. Gamora takes his hand, Drax grabs his shoulder and Rocket grabs Drax, and the four of them share the burden. Only together can they hold it long enough to use it on Ronan
-* The lesson: what saved Quill was not toughness. It was cosmic ancestry, and then four people splitting the load
+* Even so Quill cannot hold it alone. Gamora takes his hand, Drax grabs his shoulder and Rocket grabs Drax. The four of them share the burden. Only together can they hold it long enough to use it on Ronan
+* The lesson: what saved Quill was not toughness. It was cosmic ancestry and then four people splitting the load
 
 Why none of D's enhancements help
 
@@ -110,18 +110,18 @@ Proposed outcomes stone by stone
 
 These are design proposals for this story and not canon:
 
-* Power Stone: instant death for anyone in this story's cast. No enhancement changes it. The only survivable version is contained or shared, and even then it is temporary
+* Power Stone: instant death for anyone in this story's cast. No enhancement changes it. The only survivable version is contained or shared, and even that is temporary
 * Space Stone: it displaces rather than destroys. The Red Skull was banished to Vormir, not killed. So touching it is survivable and the problem is where it puts you. Durability is irrelevant and so is strength
-* Reality Stone: it rewrites what you are. Jane Foster survived by hosting it and it was killing her slowly. For D it would overwrite the body the symbiote built, and the symbiote's cellular control is exactly the wrong tool because it would be fighting a change at a level above cells
+* Reality Stone: it rewrites what you are. Jane Foster survived by hosting it and it was killing her slowly. For D it would overwrite the body the symbiote built. The symbiote's cellular control is exactly the wrong tool because it would be fighting a change at a level above cells
 * Time Stone: no bodily harm from touching it. It needs training and will, not a body. This is the one stone an ordinary person could hold safely and still be unable to use
 * Soul Stone: it takes a soul. For a Christian character whose soul is the one thing he did not get from a world, this is the only stone that threatens something the symbiote cannot replace. Thematically it is the most dangerous one in the setting for D specifically
-* Mind Stone: the interesting case. It attacks the mind, and D's mind is the strongest thing about him. It also unlocks latent ability rather than only controlling, which is what happened to Wanda. A symbiote's attempt to infiltrate his mind already unlocked his sealed memories (see D-Story-Symbiotes.txt), so a stone trying the same thing is the one encounter where D might come out ahead instead of dead
+* Mind Stone: the interesting case. It attacks the mind and D's mind is the strongest thing about him. It also unlocks latent ability rather than only controlling, which is what happened to Wanda. A symbiote's attempt to infiltrate his mind already unlocked his sealed memories (see D-Story-Symbiotes.txt), so a stone trying the same thing is the one encounter where D might come out ahead instead of dead
 
 The rule to write by
 
 * Physical enhancement is a ladder. The stones are not on it
 * Nothing in this story's power system interacts with a stone on its own terms. The only defenses are containment, shared burden, cosmic nature and the mind
-* That keeps the stones meaningful. However strong D gets, they stay out of reach, and the story's threats stay human-scaled
+* That keeps the stones meaningful. However strong D gets, they stay out of reach and the story's threats stay human-scaled
 
 What That Means for This Story
 
