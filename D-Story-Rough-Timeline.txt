@@ -34,7 +34,7 @@ Pre-2008: School
   * Public heroes do not exist yet and the secret ones do not act. D does not have the power to stop the attack itself
   * D gets people to evacuate beforehand by any means that works: bomb threats, fire alarms, staged gas leaks or explosions (method open)
   * Through Harry, D gets Norman to prepare Oscorp for this kind of disaster. Oscorp is ready with emergency measures when it happens and its stock value rises sharply
-  * Aftermath: Larry Silverstein, who took the World Trade Center lease in July 2001, has a realistic response to the disaster. He acts on his faith and takes care of the people affected, including those hurt by the dust
+  * Aftermath: Larry Silverstein, who took the World Trade Center lease in July 2001, has a realistic response to the disaster. He takes care of the people affected, including those hurt by the dust
   * Oscorp negotiates on behalf of the Port Authority of New York and New Jersey and takes financial control of the site
 * Gwen is bitten by a super spider from Oscorp right before college on the senior trip to Oscorp and gains her powers (the spider could have been made by Peter's father or Cindy)
 * D collects the spider (see D-Story-Super-Spider-Gains.txt)
