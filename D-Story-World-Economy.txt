@@ -249,6 +249,29 @@ Mutants
 * Mutants mostly stay out of the MCU events. They are busy with their own affairs for some reason. Idea: an alternate-reality twist where they disappeared. The reason is open
 * Open: how many mutants there are, whether they are public and how that shapes politics and the economy
 
+Oscorp's Ideological Reformation (Approved)
+
+* D serves as a kind of financial advisor to Harry and shares in the wealth. He earns that share through his knowledge and through his beliefs
+* Oscorp has an enormous amount of arms wealth. D convinces Harry to turn the company toward medicine and helping people
+* The pitch: medicine and charity pay better over a lifetime than weapons do. They also build the thing the weapons money cannot buy
+* What they build:
+  * Medicine: Oscorp's research money moves from military biotechnology toward treatment, vaccines, prosthetics and regeneration. Harry's own genetic curse gives him a personal reason
+  * Small loans: credit for people banks will not touch, in the neighborhoods they own property in
+  * Housing: the buildings they took after 2012 become places people can afford to live rather than lots to flip
+  * Jobs: the courier company, the salvage work, construction and the labs all hire locally
+  * Donations: a steady flow of charitable money, which brings more donations in from others
+* Why it works economically: loans, housing and jobs put money into circulation instead of taking it out. The neighborhood grows, which raises the value of everything they own. Doing good turns out to be the better business
+* Why it works for them: Oscorp's name changes from the company that makes weapons for the Army to the company that fixes people. That buys goodwill, political cover and the public's benefit of the doubt
+* The contradiction: they go on selling weapons the whole time. D is a Christian and knows better. Harry inherited an arms company and is not giving up its revenue
+  * Nobody in the group makes an issue of it. They are being good Christian people with one hand and filling Army contracts with the other
+  * The contradiction is deliberate and stays unresolved unless the story chooses to resolve it
+  * It is also the thing an enemy, a reporter or a friend can throw in their faces at the worst moment
+* Contrast with Fisk: Fisk takes money out of Hell's Kitchen and D and Harry put it in. That is why the neighborhood eventually sides with them and why Fisk cannot buy the loyalty he had in the show
+* Contrast with Stark: Tony quits weapons publicly in 2008 after Afghanistan and loses the stock price for it. Oscorp pivots quietly and keeps the revenue
+* Open: whether anyone inside Oscorp fights the pivot, such as the board or the military customers
+* Open: whether D ever faces the contradiction directly
+* Open: how much of D's advice comes from unlocked knowledge and how much from faith
+
 The 2012 Rebuilding Contracts (Approved)
 
 * By the Battle of New York in May 2012, D and Harry have enough wealth between them to take an enormous slice of what would have been Fisk's monopoly
