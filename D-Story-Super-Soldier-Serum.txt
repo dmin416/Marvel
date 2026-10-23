@@ -14,27 +14,35 @@ The One Canon Number
 
 What 4x Metabolism Actually Means
 
+Four Times Faster and Four Times More Efficient
+
+* Approved for this story: the serum makes him four times more efficient as well as four times faster
+* Metabolism is the rate at which his body processes fuel. Efficiency is how much useful work it gets out of that fuel. The serum raises both
+* A normal human body converts something like 20 to 25 percent of the energy it burns into mechanical work and loses the rest as heat. Four times that efficiency means almost all of it goes into output
+* This is what solves the heat problem and the food problem at the same time
+
 Food
 
 * Steve post-serum is about 6 feet 2 inches and roughly 240 pounds, so about 1.88 m and 108 kg
 * A normal resting rate for that body is about 2,100 kcal a day and about 3,700 with ordinary activity (my calculation, Mifflin St Jeor)
-* At four times that: roughly 8,500 kcal a day at rest and about 15,000 a day with activity
-* For comparison, a Tour de France rider burns roughly 6,000 to 8,000 kcal on a hard stage. Steve lives permanently above that
-* 15,000 kcal is roughly 5 kg of ordinary food a day, or about 25 fast food burgers
-* In sustained combat the figure goes far higher
-* Story consequence: he has to eat constantly and enormously and cannot go long without food. An army can feed him. A man alone in the field cannot
+* Four times the rate at four times the efficiency cancels out. His food need lands close to a normal man of his size, around 3,700 to 5,000 kcal a day, and he gets roughly four times the work out of it
+* He still eats a lot, because he is a large and very active man, but not the 15,000 kcal a day that four times the rate alone would demand
+* In sustained combat the figure climbs, though nowhere near as steeply as it would without the efficiency
+* Story consequence: he eats like a serious athlete rather than like a furnace. He can live on field rations and does not need a dedicated supply line
+* Design note: the alternative version, four times the rate with normal efficiency, needs about 15,000 kcal a day. That is roughly 5 kg of food, more than a Tour de France rider on a hard stage, and it makes him dependent on an army to feed him. This story does not use that version
 
 Heat
 
 * Approved for this story: he does not run much hotter than a normal person
 * The arithmetic alone would say otherwise. Four times the metabolism would mean roughly 400 watts at rest instead of about 100, which is what moderate exercise produces (my calculation). A body doing that continuously would be visibly hot and in trouble
-* The resolution: the serum improves how efficiently his body uses energy and how well it sheds heat, in step with the metabolic rate. He burns four times the fuel and gets four times the useful work out of it rather than four times the waste heat
+* The resolution is the efficiency above. Waste heat is what inefficiency produces. A body that wastes almost nothing produces almost no extra heat even while processing fuel four times as fast
 * So he is slightly warm to the touch at most. He is comfortable in cold weather, tolerates heat well and does not overheat in armor or in a long fight
-* This also keeps the enormous food intake meaningful. The fuel goes into output, not into radiating warmth
+* The fuel goes into output and not into radiating warmth, which is the whole point
 
 Alcohol
 
 * Alcohol is cleared by liver enzymes at a fixed rate, roughly one standard drink an hour for an average person
+* Efficiency does not help here. Clearing a poison is throughput, not useful work, so the four times rate is what matters
 * At four times the rate he clears about four drinks an hour
 * So he cannot get drunk by ordinary drinking. He would have to drink faster than four drinks an hour, continuously, which is more than a body can swallow and absorb comfortably
 * This is exactly what the film says and it follows from the number
