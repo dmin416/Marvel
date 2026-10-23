@@ -150,8 +150,10 @@ Shadow Organizations
 The Ten Rings
 
 * What it does: a criminal empire that has run for about a thousand years under Xu Wenwu
-* The rings: approved for this story, the Ten Rings are a martial arts energy, not ten separate magic rings. Wenwu channels the energy through his arms as force, strikes and long life. There is no set of ten enchanted objects to steal, inherit or reverse-engineer
-* What that means: the rings cannot be studied, copied, mass-produced or sold. They are a discipline and not a technology. Oscorp, Stark and S.H.I.E.L.D. have nothing to reverse-engineer even if they get their hands on Wenwu
+* The rings: this story uses the MCU version, not the comics version
+  * MCU: ten metal bands worn on the forearms, five per arm, that channel energy. Wenwu fights with them, extending and striking and blasting, and they give him long life. Their origin is unknown even to him
+  * Comics: the Mandarin wears ten separate finger rings, each with its own magic or alien power, derived from Makluan dragon technology. This story does not use that
+* What that means: the rings are a weapon Wenwu wields through martial mastery, not a set of ten enchanted objects with ten separate powers. Nobody can pick up one ring and gain one ability
 * Power: long life and great strength for Wenwu. The organization has armies, money and agents everywhere. It has toppled governments
 * Business: weapons, mercenaries, coups and smuggling
 * 2008: a Ten Rings cell under Raza holds Tony Stark in Afghanistan and buys Stark weapons through Stane
