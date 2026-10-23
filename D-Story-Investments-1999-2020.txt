@@ -168,7 +168,7 @@ Profit Potential From Rough Foreknowledge
 
 What canon gives us
 
-* Nothing usable. The MCU films never state a market capitalization for Stark Industries, Oscorp, Hammer or Roxxon. Every figure online is fan speculation, and the numbers conflict by an order of magnitude
+* Nothing usable. The MCU films never state a market capitalization for Stark Industries, Oscorp, Hammer or Roxxon. Every figure online is fan speculation and the numbers conflict by an order of magnitude
 * Tony Stark's personal wealth is guessed at roughly $10 to $12.5 billion and Norman Osborn's at roughly $4 to $10 billion, all unsourced
 * So the only reliable arithmetic comes from real stocks. The figures below use the verified numbers in Part One
 
@@ -189,7 +189,7 @@ Three tiers of outcome
 
 * Conservative, one winner held through everything: about 700 times the stake over eighteen years
 * Moderate, rotating between known winners at each cycle with no borrowing: plausibly 10,000 to 100,000 times. $1,000 becomes $10 million to $100 million
-* Aggressive, using options or borrowed money on known dated events: effectively unbounded on paper. Each correct leveraged bet can be ten to fifty times, and they compound. Ten in a row is mathematically absurd
+* Aggressive, using options or borrowed money on known dated events: effectively unbounded on paper. Each correct leveraged bet can be ten to fifty times and they compound. Ten in a row is mathematically absurd
 
 What actually caps it
 
