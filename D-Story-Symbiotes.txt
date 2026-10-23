@@ -21,7 +21,7 @@ This Story's Symbiote (from existing files)
 * There is only one symbiote and D is the only one who ever bonds with it. Eddie Brock never meets any symbiote
 * D experiments on it and absorbs it
 * The symbiote is basically a clone of D and completely connected to D
-* Weak to sound and fire
+* Weak to sound and fire until D destroys its psyche and rewrites it completely. After that the weakness is gone
 * Does not trigger spider-sense
 * Can spawn offspring like Carnage
 * Gwen later relies on a managed bond with symbiote D. The symbiote gives her the powers she wants instead of technology
@@ -125,6 +125,8 @@ Approved direction
 * That knowledge imprints on the symbiote before D seals his memories again
 * So the symbiote keeps what D cannot reach. It can do a crazy amount of things and is a bigger McGuffin than before
 
+* D destroys the symbiote's psyche and rewrites it completely. The rewrite removes its weakness to sound and fire
+
 How the imprint works
 
 * The infiltration opens a channel in both directions. D's unlocked memories pour through it
@@ -147,7 +149,7 @@ Limits that keep it from being a magic wand
 
 * It needs D to direct it. Without his instruction it only falls back on its old drives
 * It works on living tissue and biology. It is not telekinesis, magic or technology
-* Sound and fire still hurt it (see Capabilities)
+* Nothing restores the sound and fire weakness. D's rewrite removed it
 * Everything it does costs energy, which means food. Big work means enormous hunger
 * Rewriting a living person takes time, care and usually their cooperation. Fast and forced means damage
 * It cannot give back the knowledge. D sealed his memories. Asking the symbiote for them means opening that seal again
@@ -194,7 +196,7 @@ Proposed Multiplier Model
   * D reacts in 31 ms so with the symbiote about 21 ms
   * D jumps 14 m so with the symbiote about 21 to 28 m
 * Added abilities that do not multiply: shapeshifting and webbing and bullet resistance
-* Costs: sound and fire weakness and constant hunger
+* Costs: constant hunger. The sound and fire weakness is gone after D's rewrite
 
 Open Questions
 
