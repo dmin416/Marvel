@@ -91,7 +91,7 @@ Durability Outruns Strength
 He Can Still Die
 
 * Approved: ten times robust is not invulnerable. A bullet can still kill him. So can a fall from high enough, drowning, fire, a knife in the right place or enough damage at once
-* Ten times means a shot that would kill a normal man might not kill him, and a graze that would cripple a normal man barely slows him. It does not mean bullets bounce off
+* Ten times means a shot that would kill a normal man might not kill him. A graze that would cripple a normal man barely slows him. It does not mean bullets bounce off
 * The shield exists because he is not bulletproof. He blocks with it rather than taking hits
 * Fate is on his side. Things go his way more often than they should, he survives what should have killed him and he is in the right place at the right moment. That is a property of the story and not of his body
 * Design note: this is the useful combination. He is tough enough that ordinary danger does not stop him and fragile enough that danger still means something. A character who cannot be hurt has nothing at stake
