@@ -53,6 +53,7 @@ Accuracy note: written from memory and not fact checked. Release dates of well-k
 - **Xbox and GameCube** launch in November
 - **Napster** is shut down by court order
 - **Broadband:** cable and DSL internet spread but dial-up is still common
+- **September 11 attacks:** happen as in our world. No hero stops them. Afterward the Patriot Act (October) expands surveillance and the TSA (created November) takes over airport screening with much tighter security
 
 ## 2002
 
