@@ -1,4 +1,72 @@
-D Story: Gwen Stacy Life Projection
+D Story: Gwen Stacy Fighting Style
+
+Her father's teaching (a 1990s NYPD captain)
+
+* Awareness first: watch exits, spot trouble early and leave before it starts. Running away counts as winning
+* Escapes: wrist grabs, bear hugs from behind, hair grabs and chokes against a wall
+* Simple strikes that need no strength: palm heels, elbows, knees, stomps and groin shots aimed at the eyes, throat, nose and knees
+* Ground survival: get him off, turn to her side and get up. Never stay down
+* Cop habits: keep distance with an arm out, take a bladed stance, use a loud command voice and put keys, a bag or a door between her and the threat
+* Likely sources: academy defensive tactics plus what he picked up himself. Boxing basics, some judo or wrestling, or Krav Maga, which was spreading in U.S. cities in the late 1990s
+
+What intermittent drilling does
+
+* A few skills drilled for years, very solid and reflexive. No forms, belts or fancy kicks
+* Footwork is decent but unrefined
+* Weak at long exchanges, long-range kicking and fighting a skilled opponent who does not panic
+* Her father tests her with surprise grabs in the kitchen. That gives her a strong startle reflex, good reactions and some resentment
+
+What drums add
+
+* Timing and rhythm: she reads the beat of an exchange and hits on the off-beat
+* Limb independence: one hand blocks while the other strikes
+* Forearm and grip endurance
+* Fast, light hands: speed instead of power
+
+How it looks
+
+* Scrappy, practical and close quarters. More street cop than dojo
+* Short, ugly fights: an escape, two or three strikes to soft targets and gone. She uses whatever is around her
+
+After the bite
+
+* The same fundamentals at strength x50. Her first problem is control: a palm heel can now break a jaw, so she has to learn to pull every strike
+* Spider-sense covers the gaps in her training. She feels attacks coming instead of reading them
+* Agility and wall-crawling give her movement she never trained, built on instinct
+* The style grows from grab-and-escape into fast hit-and-move, still aimed at soft targets and still economical
+
+After the neutralizer
+
+* Earth-65 Gwen could barely throw a punch without powers. This Gwen falls back on her father's drills. She is outmatched against anyone powered but not helpless, which gives her a base to rebuild from before the symbiote bond
+
+School Social Life (Ideas)
+
+How she likely bonds at 14 to 18
+
+* A small inner circle of two or three close friends plus a wider circle from classes, the band and activities
+* She trusts people who are competent, reliable, do not talk down to her and do not treat her as the cop's daughter or as a prize
+* Bonds with girls through talk and confiding. Bonds with boys mostly through shared activity, banter and work done side by side
+* Her rebellion makes her drawn to people who do their own thing and wary of people who want her approval
+* Her father's protectiveness makes her guarded with boys at first. She tests people before letting them close
+* Late-1990s channels: landline calls, notes, AOL Instant Messenger, the library, pizza places, the mall and small all-ages shows
+
+Where she would cross paths with Peter and D
+
+* Honors science classes. Lab partners are the most natural start, as in Spider-Man 3 and The Amazing Spider-Man
+* Study groups, the library's back tables, science fair and academic competitions
+* Lunch: early on she sits with her own friends. Mixed tables form once a shared class or activity gives them a reason
+* After-school activities, including a self defense club
+
+Self defense club idea
+
+* Open: whether D starts one. A student club needs a faculty advisor such as a gym teacher or coach, so sophomore year is a realistic start
+* Peter could join because of Flash's bullying. He can join and still stay weak, which fits D-Story-Speed-and-Skill-Over-Time.txt
+* Harry could join to stay with Peter and because he trains just enough to impress girls
+* Gwen's reasons to join: friends are in it, she can show the boys up or she can help teach what her father drilled into her. Her reason to stay away: she already gets it at home
+* Hook: Captain Stacy as a guest speaker, which mortifies Gwen
+* Lorna could join too
+
+Life Projection
 
 Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
 
@@ -45,7 +113,7 @@ This Story's Blend (Proposed)
 
 * Brains from the Amazing Spider-Man Gwen: strong in science, which is why she is on the Oscorp trip
 * Drums, punk style and attitude from Spider-Gwen
-* Ballet-style movement as her fighting style once she has powers, from the Spider-Verse films. Idea: she took dance as a small child and quit, so the poise comes back with the powers
+* No ballet. Ballet is only a design choice in the sources and does not fit a cop's daughter who drums. Her fighting style comes from her father's drills (see Fighting Style)
 * Her rebellion runs against her father's rules and worry, not against school. She keeps her grades up
 
 Life Projection
@@ -54,7 +122,6 @@ Childhood (up to 1999)
 
 * Grows up in Queens or Manhattan as a cop's daughter
 * 6 to 12: bright and playful, then finding her own style (character sheet)
-* Idea: a few years of dance classes as a child
 * Her father puts her in self defense early because of his job
 * Open: her mother. Helen in the comics and the Webb films. Alive, dead or gone is undecided
 * Open: siblings. The Webb films give her younger brothers
@@ -71,7 +138,7 @@ High School, 1999 to 2003 (ages 14 to 18)
 College, 2003 to 2007 (ages 18 to 22)
 
 * 18: the undercut with the top swept over, pink tips, a spider-graphic crop tank and eyebrow and ear piercings (character sheet)
-* Learns her powers in secret. Idea: drumming rhythm and dance poise become her fighting style
+* Learns her powers in secret. Her father's drills and her drumming rhythm become the base of her powered fighting style
 * Studies science. Open: Empire State University with Peter and Harry, or a scholarship elsewhere
 * The band keeps playing. Idea: it takes the name the Mary Janes
 * Peter works for Curt Connors and starts down the Lizard path
@@ -116,4 +183,3 @@ Open Questions
 * The band's name and members
 * Her hero name
 * When her multiversal memories start
-* How much ballet is part of her past
