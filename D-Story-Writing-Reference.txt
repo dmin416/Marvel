@@ -157,6 +157,7 @@ Open Questions
 
 Related Files
 
+* D-Story-Lorna-Polaris.txt: Lorna Dane's abilities, personality, history and story notes
 * D-Story-Guys-Maturity.txt: Peter, Harry and Flash maturity, source ages and projections
 * D-Story-High-School-Social.txt: high school social dynamics, Gwen's path to Peter and D and the self defense club idea
 * D-Story-Gwen-Life.txt: Gwen Stacy life projection and source versions
