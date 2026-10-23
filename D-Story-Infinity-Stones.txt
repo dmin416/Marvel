@@ -1,0 +1,99 @@
+D Story: Infinity Stones
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: reference only. Nothing here is approved for the story. The only story canon is D-Story-So-Far.txt.
+
+Accuracy note: compiled from press guides, Wikipedia and fan wikis. The broad facts are consistent across sources. Specific scene details were not checked against the films.
+
+What They Are
+
+* Six stones, each governing one aspect of existence: space, mind, reality, power, time and soul
+* They predate the universe. In the films they are the remnants of singularities from before creation
+* No ordinary being can hold one bare for long. They need a container: a cube, a sceptre, an orb, a necklace
+* Together in the Gauntlet they allow effectively anything, including the Snap
+* They are the top of this world's power scale by a wide margin. Nothing else in the setting is close
+
+The Six
+
+Space Stone, in the Tesseract
+
+* Power: control over space. Portals, teleportation and instant travel across any distance. As an energy source it powers weapons and engines
+* Container: the blue cube called the Tesseract
+* History: Odin's vault, then lost on Earth. Hydra builds its wartime arsenal around it. Howard Stark recovers it from the ocean after the war. S.H.I.E.L.D. holds it for decades at Camp Lehigh and later Project Pegasus. Loki uses it to reach Earth in 2012. Thor takes it to Asgard. Loki takes it from the vault before Asgard's destruction. Thanos takes it from him and crushes the cube
+* Note for this story: in 1999 S.H.I.E.L.D. has it. It is the single most dangerous object on Earth and almost nobody knows it exists
+
+Mind Stone, in Loki's sceptre and then Vision
+
+* Power: control over minds. Mind control, mental projection and energy blasts. It also awakens latent ability in people exposed to it
+* Container: Loki's sceptre, then Vision's forehead
+* History: Thanos gives the sceptre to Loki for the 2012 invasion. The Avengers recover it. Hydra, under Baron Strucker, experiments on volunteers with it. Ultron and Helen Cho use it to build Vision. Wanda destroys it in 2018 and Thanos reverses that with the Time Stone and takes it
+* Note for this story: Strucker's experiments happen in Latveria rather than Sokovia (see D-Story-Fantastic-Four.txt)
+
+Reality Stone, as the Aether
+
+* Power: altering matter and reality. It turns matter into dark matter and bends what is real
+* Container: a red liquid rather than a solid stone
+* History: the Dark Elf Malekith wields it before Asgard buries it. Jane Foster absorbs it in 2013. The Asgardians give it to the Collector for safekeeping, since keeping two stones in one vault is a bad idea. Thanos takes it from the Collector
+
+Power Stone, in the Orb
+
+* Power: raw destructive energy. It can destroy a planet. It kills most beings who touch it directly
+* Container: a metal orb
+* History: hidden on Morag. Peter Quill steals it in 2014. Ronan the Accuser takes it and nearly destroys Xandar. The Guardians hold it together to survive it and leave it with the Nova Corps. Thanos takes it from Xandar
+* Note: this is the stone that most clearly kills its holder. Only shared or contained can a mortal use it
+
+Time Stone, in the Eye of Agamotto
+
+* Power: control over time. Rewinding, fast-forwarding, loops and seeing possible futures
+* Container: the Eye of Agamotto, a pendant kept at Kamar-Taj
+* History: the Masters of the Mystic Arts have guarded it for centuries. The Ancient One, then Doctor Strange. Strange uses it to trap Dormammu in a loop and to see 14,000,605 futures. He gives it to Thanos to save Tony Stark's life
+
+Soul Stone, on Vormir
+
+* Power: control over souls. It can hold a soul, trap people inside it and in some readings is the most dangerous of the six
+* Container: no container. The bare stone on Vormir
+* History: guarded by the Red Skull, who was banished to Vormir by the Tesseract. It demands a sacrifice: a soul for a soul, someone the seeker loves. Thanos sacrifices Gamora. Hawkeye and Black Widow face the same price in 2023 and Natasha goes over the cliff
+* Note: the cost is a person, not a battle. That makes it the hardest stone to take and the only one with a moral toll built in
+
+Who Gets Powers From Them
+
+Direct empowerment
+
+* Carol Danvers, Captain Marvel: the Space Stone. The Tesseract powered a Kree light-speed engine. When Carol destroyed the engine the released energy went into her. She gained photon blasts, flight, great strength and durability. She never used a stone directly, she absorbed its energy
+* Wanda Maximoff, Scarlet Witch: the Mind Stone. Hydra's experiments with Loki's sceptre awakened latent ability she already had. The stone did not create her power, it unlocked it. Her chaos magic, telekinesis and reality alteration follow from there. This is why she later matters so much
+* Pietro Maximoff, Quicksilver: the same experiments gave him his speed
+* Vision: built around the Mind Stone by Ultron and Helen Cho, with a vibranium body from Helen Cho's cradle. Density control, intangibility, flight, strength and the stone's energy beam. He is the only character who is a stone's host rather than its user
+* Note on the twins: in this story they are Latverian, since Latveria replaces Sokovia
+
+Users rather than the empowered
+
+* Thanos: all six, through the Gauntlet
+* Loki: the Space Stone and the Mind Stone, as tools
+* Doctor Strange: the Time Stone
+* Hydra and Red Skull: the Space Stone as an energy source for weapons
+* Malekith and Jane Foster: the Reality Stone, Jane involuntarily
+* Ronan, the Guardians and the Collector: the Power Stone
+* Bruce Banner and Tony Stark: the Gauntlet in 2023
+
+Not stone-powered, in case of confusion
+
+* Natasha Romanoff, Black Widow: no stone. She is a trained human. She dies on Vormir paying the Soul Stone's price, which is a different thing from being empowered by it
+* The Hulk, Captain America, Iron Man, Spider-Man, Black Panther and the X-Men: no stones involved
+* Kamala Khan's bangle: not a stone, though it is connected to the Ten Rings
+* The Darkhold, which Wanda later uses: a book, not a stone
+
+What That Means for This Story
+
+* The stones are a different scale from everything else in the setting. D's symbiote can rebuild a body. A stone can rebuild a universe
+* They are almost entirely offscreen for the story's main window. S.H.I.E.L.D. has the Tesseract in secret, the Eye sits at Kamar-Taj, and none of it touches New York until 2012
+* The Mind Stone is the one that intersects with this story's themes. It unlocks latent potential in people, which is exactly what the Oscorp enhancer, the super spider and the serum all try to do by other means. The stone does it instantly and for free
+* The Snap in 2018 is the only time the stones affect D's world directly, and it affects everything (see D-Story-Investments-1999-2020.txt)
+* D's courier business should never go near one. Carrying a stone is not a delivery, it is a death sentence
+
+Open Questions
+
+* Whether D ever learns any of this exists
+* Whether the story shows any stone before 2012
+* Whether D's unlocked knowledge includes knowing what they are
+* Whether the symbiote's cellular control could do anything with a stone, or whether that is far out of its class

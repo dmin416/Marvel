@@ -168,6 +168,7 @@ Open Questions
 
 Related Files
 
+* D-Story-Infinity-Stones.txt: the six stones, their powers and who they empower
 * D-Story-Super-Soldier-Serum.txt: Captain America's strength and health and the serum's place in this world
 * D-Story-Investments-1999-2020.txt: real market history for D's foreknowledge
 * D-Story-World-Economy.txt: the world economy, Oscorp's ideological reformation and the 2012 rebuilding contracts
