@@ -51,7 +51,7 @@ The same files live in the claude.ai Project "Marvel". The project uses differen
 | Reference/comic_villains_by_strength.md | comic_villains_by_strength.md |
 | Reference/goose_timeline.md | goose_timeline.md |
 | Reference/spider_man_villains.md | claude/spider_man_villains.md |
-| Reference/spider_man_movie_timelines.md | spider_man_movie_timelines.md |
+| Reference/spider_man_movie_timelines.md | claude/spider_man_movie_timelines.md |
 | Reference/marvel_attainable_powers.md | claude/marvel_attainable_powers.md |
 | Reference/mcu_alt_tech_timeline_1943-2008.md | claude/mcu_alt_tech_timeline_1943-2008.md |
 | Reference/mcu_tech_timeline_2008-2023.md | claude/mcu_tech_timeline_2008-2023.md |
