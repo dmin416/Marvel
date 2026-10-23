@@ -26,7 +26,7 @@ The same files live in the claude.ai Project "Marvel". The project uses differen
 | D-Story-Speed-and-Skill-Over-Time.txt | d_story/speed_and_skill_over_time.md | Speed and skill from 14 to 35 |
 | D-Story-Cast-Physical-Baselines.txt | d_story/cast_physical_baselines.md | Peter, Gwen, Harry and D from 14 to 35 |
 | D-Story-Fantastic-Four.txt | d_story/fantastic_four.md | Fantastic Four and Doom, based on the 2005 movie |
-| D-Story-High-School-Social.txt | d_story/high_school_social.md | How girls bond at 14 to 18, Gwen's path to Peter and D, and the self defense club idea |
+| D-Story-High-School-Social.txt | d_story/high_school_social.md | How girls bond at 14 to 18, Gwen's path to Peter and D and the self defense club idea |
 | D-Story-Gwen-Life.txt | d_story/gwen_life.md | Gwen Stacy life projection and source versions |
 | D-Story-AIM.txt | d_story/aim.md | A.I.M., Extremis and the Iron Man 3 storyline |
 | D-Story-World-Economy.txt | d_story/world_economy.md | Governments, corporations, shadow groups, crime, wars and the global economy |
