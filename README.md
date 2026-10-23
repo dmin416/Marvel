@@ -35,6 +35,12 @@ The same files live in the claude.ai Project "Marvel". The project uses differen
 | D-Story-World-Economy.txt | d_story/world_economy.md | Governments, corporations, shadow groups, crime, wars and the global economy |
 | Sexual-Kinks-of-Superhumans.txt | d_story/superhuman_physiology.md | Adult-only superhuman setting mechanics |
 
+## Character Images
+
+| Repository | Notes |
+|---|---|
+| Reference/characters/gwen-face-and-expressions.png | Gwen face, views and expressions. Images live in the repository only; the project holds text files |
+
 ## Reference Files
 
 | Repository | Project |
