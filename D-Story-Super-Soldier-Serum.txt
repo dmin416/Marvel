@@ -1,0 +1,113 @@
+D Story: Captain America and the Super Soldier Serum
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: reference and design notes. Nothing here is approved for the story. The only story canon is D-Story-So-Far.txt.
+
+Accuracy note: the one solid canon number is the metabolism line. Every strength figure for the MCU Captain America is a fan estimate, since the films state none. Figures marked "my calculation" are arithmetic from the metabolism line and can be rechecked.
+
+The One Canon Number
+
+* Captain America: The First Avenger, the bar scene after Bucky's fall. Steve says he cannot get drunk and Peggy Carter answers: "Your metabolism burns four times faster than the average person"
+* Attribution: IMDb's quotes page and a clip transcript both give the line to Peggy. One fan article reverses it and gives it to Steve. The IMDb version is the more reliable
+* This is the only hard physiological figure the films provide, so everything below is built on it
+
+What 4x Metabolism Actually Means
+
+Food
+
+* Steve post-serum is about 6 feet 2 inches and roughly 240 pounds, so about 1.88 m and 108 kg
+* A normal resting rate for that body is about 2,100 kcal a day, and about 3,700 with ordinary activity (my calculation, Mifflin St Jeor)
+* At four times that: roughly 8,500 kcal a day at rest and about 15,000 a day with activity
+* For comparison, a Tour de France rider burns roughly 6,000 to 8,000 kcal on a hard stage. Steve lives permanently above that
+* 15,000 kcal is roughly 5 kg of ordinary food a day, or about 25 fast food burgers
+* In sustained combat the figure goes far higher
+* Story consequence: he has to eat constantly and enormously, and he cannot go long without food. An army can feed him. A man alone in the field cannot
+
+Heat
+
+* A normal resting body puts out about 100 watts of heat
+* Four times the metabolism means roughly 400 watts at rest (my calculation), which is what a normal person produces during moderate exercise
+* He runs hot all the time. He is warm to the touch, sweats easily and sheds heat constantly
+* Story consequence: he needs less clothing in cold weather and overheats faster in hot weather and in enclosed armor
+
+Alcohol
+
+* Alcohol is cleared by liver enzymes at a fixed rate, roughly one standard drink an hour for an average person
+* At four times the rate he clears about four drinks an hour
+* So he cannot get drunk by ordinary drinking. He would have to drink faster than four drinks an hour, continuously, which is more than a body can swallow and absorb comfortably
+* This is exactly what the film says and it follows from the number
+
+Drugs and anesthesia
+
+* The same clearance applies to everything else: painkillers, sedatives, anesthetics, poisons and sedative darts
+* Normal doses wear off about four times faster and normal doses are about four times too weak
+* Story consequence: surgery on him needs special dosing. Drugging him needs a dose that would kill a normal person. This is a reliable plot lever and it is rarely used
+
+Healing
+
+* Wound healing is limited by how fast cells divide and lay down collagen, and metabolism drives both
+* Roughly four times faster healing: a cut that takes a week heals in about two days, a broken bone in weeks rather than months
+* Not regeneration. He does not regrow limbs and he can still be killed
+* Story consequence: he recovers between fights in days instead of months, which is why he can fight a war without a long convalescence
+
+Disease and aging
+
+* High metabolic turnover with repair to match means he rarely gets sick and does not accumulate damage the way a normal body does
+* Steve looks about 35 after roughly 70 years, though most of that is the ice rather than the serum
+* In Endgame's alternate timeline he ages to an old man, so the serum slows aging rather than stopping it
+
+Strength: What the Films Show
+
+No MCU film states a number. These are the feats and the fan estimates around them, all unofficial:
+
+* Civil War: he holds a helicopter from taking off with one hand while gripping a building with the other. The aircraft is an Airbus AS350, roughly 1,100 to 1,250 kg empty and up to about 2,250 kg loaded. Fan estimates of the force needed run to three tonnes equivalent and higher
+* Civil War: he holds back Bucky's metal arm with one hand
+* Age of Ultron: he catches and redirects a moving motorcycle
+* The First Avenger: he throws a motorcycle and flips vehicles
+* Endgame: he lifts and wields Mjolnir, which is a worthiness test rather than a strength test
+* He survives falls, impacts and blasts that would kill a normal person, which is durability rather than strength
+
+Commonly quoted figures, all unofficial:
+
+* About 800 pounds (roughly 360 kg) press, from the comics Official Handbook
+* About 1,100 pounds (roughly 500 kg) bench press, from fan articles
+* Up to 1,200 pounds as a comics upper limit
+* Sources disagree on whether the MCU version is peak human or clearly superhuman. The helicopter scene puts him past peak human
+
+A Working Number for This Story
+
+* Proposed: treat Captain America as roughly 500 kg for a controlled press and up to about 1,000 to 1,500 kg for a short all-out effort
+* That is about 1.4 times D's peak human ceiling on a controlled lift and about three to four times it on an emergency effort
+* The serum raises everything together: strength, speed, reflexes, endurance, healing and senses, all in proportion. There is no single trait that runs far ahead of the rest
+
+Where He Sits Against This Story's Cast
+
+Using the figures in D-Story-Monthly-Strength.txt and D-Story-Spider-Abilities.txt:
+
+* D at 23, trained peak human: base lift 214 kg, max effort 357 kg, emergency 575 kg
+* Captain America: about 500 kg controlled, so above D's max effort and near D's emergency lift, and he can do it repeatedly without injury
+* Gwen with a single spider dose: about 2,000 kg, so four times Captain America
+* D at 300% spider venom: about 51,800 kg, so about a hundred times Captain America
+* So the serum is the ceiling of what a human body can be pushed to. The spider venom is a different category entirely
+
+Why the Serum Matters to the Story
+
+* It is the original of every enhancement program in this world. Oscorp's enhancer, A.I.M.'s Extremis, Hydra's Winter Soldier program and Dr. Noah Burstein's work at Seagate all chase the same thing (see D-Story-World-Economy.txt)
+* Norman Osborn's Army contract for a "human performance program" is a super soldier contract in everything but name (Played, September 1999)
+* The serum's real lesson is that it worked once, on one man, and nobody has reproduced it. Everything after it is a worse copy that breaks the subject
+* D's symbiote does what the serum does and more, by rebuilding cells directly. That makes it the thing every one of these programs would kill for
+
+Open Questions
+
+* Whether Steve Rogers appears in this story at all before 2012
+* Whether the 4x metabolism applies to this story's other enhanced characters
+* How much of Erskine's work S.H.I.E.L.D. still holds in 1999
+* Whether anyone in this world ever reproduces the serum
+
+Sources
+
+* Captain America: The First Avenger, via IMDb's quotes page and a clip transcript, for the metabolism line
+* Looper, Comic Basics, Fandom Fevers and forum threads for the unofficial strength figures, all fan estimates
+* Marvel's Official Handbook, as cited secondhand, for the 800 pound comics figure
+* My own arithmetic for the food, heat, alcohol and drug consequences
