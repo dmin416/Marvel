@@ -149,12 +149,15 @@ Shadow Organizations
 
 The Ten Rings
 
-* What it does: a criminal empire that has run for about a thousand years under Wenwu, who wears the ten rings
-* Power: the rings give Wenwu long life and great strength. The organization has armies, money and agents everywhere. It has toppled governments
+* What it does: a criminal empire that has run for about a thousand years under Xu Wenwu
+* The rings: approved for this story, the Ten Rings are a martial arts energy, not ten separate magic rings. Wenwu channels the energy through his arms as force, strikes and long life. There is no set of ten enchanted objects to steal, inherit or reverse-engineer
+* What that means: the rings cannot be studied, copied, mass-produced or sold. They are a discipline and not a technology. Oscorp, Stark and S.H.I.E.L.D. have nothing to reverse-engineer even if they get their hands on Wenwu
+* Power: long life and great strength for Wenwu. The organization has armies, money and agents everywhere. It has toppled governments
 * Business: weapons, mercenaries, coups and smuggling
 * 2008: a Ten Rings cell under Raza holds Tony Stark in Afghanistan and buys Stark weapons through Stane
 * 2013: Aldrich Killian borrows the name "the Mandarin" for a fake terrorist, which angers Wenwu
 * Its reach is global. It rarely works in New York openly
+* Traditionalism: Wenwu has had a thousand years to industrialize and has not. The organization runs on mastery, hierarchy, loyalty and personal power. It buys modern weapons rather than inventing them. That is why a millennium-old empire holds no technological edge over a seventy-year-old American company
 
 Hydra
 
@@ -217,6 +220,49 @@ Media
 
 * The Daily Bugle is the city's loudest paper. J. Jonah Jameson's editorials attack the police for failing (Played)
 * Later TheDailyBugle.net in the MCU era
+
+Technology Level: Advanced and Not Advanced
+
+The approved shape
+
+* This world is far ahead of the real 1999 in a few narrow places and exactly level with it everywhere else
+* The reason is who holds the advances. A handful of companies and one secret agency hold them. None of them share
+
+Where the world is ahead of the real one
+
+* Oscorp: military biotechnology, genetic engineering and performance enhancement well past anything real. The super spiders exist. The enhancer exists. Regeneration research is funded
+* Stark Industries: the arc reactor, weapons guidance and materials decades ahead. Howard built a working flying car in the 1940s
+* Pym Technologies: shrinking matter, which is physics nobody else has. Hank quit S.H.I.E.L.D. in 1989 rather than share it and has hidden it since
+* S.H.I.E.L.D.: it holds the Tesseract, Hydra's wartime energy weapons, a Kree body and the files on everything unusual. None of it reaches the public
+* Wakanda: decades ahead of everyone, hidden behind a farming nation's disguise until 2016
+* Von Doom Industries: aerospace and a private orbital platform before any government or company in the real world had one
+* Smaller pockets: Curt Connors on limb regeneration, Otto Octavius on fusion, A.I.M. on Extremis from 1999, Dr. Noah Burstein on super-soldier regeneration at Seagate
+
+Where the world is exactly the real 1999
+
+* Consumer technology: dial-up internet, Pentium III computers, pagers and early mobile phones, no smartphones, no social media
+* Medicine for ordinary people: hospitals, drugs and surgery as they really were
+* Cars, planes, trains and buildings
+* Energy: oil, gas and coal. The arc reactor is one company's secret and powers nothing public
+* The general economy: the real 1999 dot-com boom, the real markets, the real wages
+
+Why the gap stays open
+
+* Secrecy: every advance sits inside a company, a nation or an agency that profits from keeping it
+* Military customers: the Army pays Oscorp and Stark for exclusivity, not for publication
+* No academic pipeline: the breakthroughs happen in private labs, not universities, so nothing is published and nothing is built on
+* Hidden holders: Wakanda hides on purpose, Pym hides on purpose, S.H.I.E.L.D. hides by charter
+* The Ten Rings: a thousand-year empire with no interest in industrializing (see above). Its power is personal mastery, so it adds nothing to the world's technology and takes nothing from it
+* Traditionalism generally: the oldest powers in this world, Wenwu's organization and the Maggia families among them, run on hierarchy and loyalty rather than research. Age does not mean advancement
+
+What that means for the story
+
+* An ordinary person in 1999 New York lives in the real 1999. D included
+* The advanced world is a set of locked rooms. Getting inside one is the whole point of a courier business
+* Nobody can build on anybody else's work, so progress is lumpy and jumps forward only when something leaks or escapes
+* The leaks are the plot: Norman's enhancer, the escaped spiders, Chitauri salvage, S.H.I.E.L.D.'s collapse in 2014 and Oscorp's own projects
+* Stark going public with the Iron Man suit in 2008 is the first time any of it becomes visible, which is why that year changes everything
+* D's symbiote is the extreme case. It can do more than any of these companies and sits inside one person who tells nobody
 
 How It All Connects
 
