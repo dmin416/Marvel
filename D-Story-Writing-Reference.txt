@@ -157,6 +157,7 @@ Open Questions
 
 Related Files
 
+* D-Story-Gwen-Life.txt: Gwen Stacy life projection and source versions
 * D-Story-AIM.txt: A.I.M., Extremis and the Iron Man 3 storyline
 * D-Story-World-Economy.txt: governments, corporations, shadow groups, crime, wars and the global economy
 * D-Story-Fantastic-Four.txt: Fantastic Four and Doom, based on the 2005 movie
