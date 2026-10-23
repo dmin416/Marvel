@@ -164,6 +164,47 @@ What That Means for D's Foreknowledge
 * Hard assets, land and the business survive the Snap better than paper does. People still need to eat and still need things moved
 * The courier company is the right shape for this world. It profits from every disaster, it needs no market to function and it does not depend on anyone's stock price
 
+Profit Potential From Rough Foreknowledge
+
+What canon gives us
+
+* Nothing usable. The MCU films never state a market capitalization for Stark Industries, Oscorp, Hammer or Roxxon. Every figure online is fan speculation, and the numbers conflict by an order of magnitude
+* Tony Stark's personal wealth is guessed at roughly $10 to $12.5 billion and Norman Osborn's at roughly $4 to $10 billion, all unsourced
+* So the only reliable arithmetic comes from real stocks. The figures below use the verified numbers in Part One
+
+The ceiling on a single buy and hold
+
+* Monster Beverage from year-end 1999 to year-end 2017, the last full year before the Snap: $4.3125 becomes 48 shares at $63.29, which is about 704 times the money (my calculation, same method as above)
+* $100 becomes about $70,000. $1,000 becomes about $704,000. $10,000 becomes about $7 million
+* That is the best single pick in the window, bought at the perfect moment and held for eighteen years without flinching. It is life-changing and it is not Oscorp money
+
+What the market cycles add
+
+* Nasdaq, October 9 2002 bottom at 1,114 to end of 2007 at about 2,652: about 2.4 times
+* S&P 500, March 9 2009 bottom at 676 to end of 2017 at about 2,673: about 4.0 times
+* Those are the index returns. Picking the right names inside each leg multiplies far beyond them
+* Avoiding the 2000 to 2002 crash and the 2008 crash entirely, then buying both bottoms, is worth more than any single pick. A rough idea of the future is enough for that, since the dates are famous
+
+Three tiers of outcome
+
+* Conservative, one winner held through everything: about 700 times the stake over eighteen years
+* Moderate, rotating between known winners at each cycle with no borrowing: plausibly 10,000 to 100,000 times. $1,000 becomes $10 million to $100 million
+* Aggressive, using options or borrowed money on known dated events: effectively unbounded on paper. Each correct leveraged bet can be ten to fifty times, and they compound. Ten in a row is mathematically absurd
+
+What actually caps it
+
+* Liquidity. A small company like Hansen Natural in 2001 cannot absorb large money without the price moving. The best picks are the ones with the least room
+* Scrutiny. A perfect trading record is the thing regulators look for. Leverage on dated events is exactly what an insider-trading case looks like
+* The starting stake. Multiples are useless without a base. This is the real bottleneck for a fourteen year old in a children's home
+* Time. Eighteen years is the whole window and most of the gain lands late
+* Rough is rough. Knowing the Nasdaq crashed in 2000 is not knowing the day. Knowing Monster won is not knowing it was called Hansen Natural
+* The Snap. Everything ends in spring 2018
+
+The answer in one line
+
+* A small stake and patience gets him rich. A moderate stake with cycle timing gets him into the hundreds of millions, which is enough to be Harry's partner rather than his employee. Anything past that needs leverage, which trades money for the one thing D cannot afford, which is attention
+* Harry's Oscorp money is the shortcut. D does not need to out-earn Oscorp. He needs enough to be taken seriously, plus the knowledge of where to put Harry's money
+
 The Real Constraint for the Story
 
 D's problem in September 1999 is not knowing what to buy:
