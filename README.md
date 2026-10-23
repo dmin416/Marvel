@@ -41,6 +41,7 @@ The same files live in the claude.ai Project "Marvel". The project uses differen
 |---|---|
 | Reference/characters/gwen-face-and-expressions.png | Gwen face, views and expressions. Images live in the repository only; the project holds text files |
 | Reference/characters/lorna-face-and-expressions.png | Lorna face, views and expressions, with her hair dyed dark |
+| Reference/characters/mj-face-and-expressions.png | MJ face, views and expressions |
 
 ## Reference Files
 
