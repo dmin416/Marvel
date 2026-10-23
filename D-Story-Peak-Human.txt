@@ -1,0 +1,103 @@
+D Story: Peak Human Limits
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: design notes only. Nothing here is approved. This file says what a peak human body can do in this story and what it costs. It is written as story constraints, not as a design recipe.
+
+Why This File Exists
+
+* The symbiote maximizes D's nutrition, recovery and gains to the highest level a human body can reach (D-Story-Monthly-Strength.txt). That raises the question of what the ceiling is
+* The numbers live in D-Story-Monthly-Strength.txt, D-Story-Cast-Physical-Baselines.txt and D-Story-Speed-and-Skill-Over-Time.txt. This file explains the ceiling behind them and the costs that come with it
+* The point of the costs is drama. A body at the ceiling is not free, and the bill comes due in scenes
+
+There Is No Single Perfect Body
+
+* Biology runs on tradeoffs. A body optimized for raw strength is not the body optimized for endurance, longevity or heat tolerance
+* So "peak human" in this story means a balanced body near the ceiling in several areas rather than the maximum in any one
+
+Hard Limits That Never Go Away
+
+Square-cube law
+
+* Strength scales with muscle cross section while weight scales with volume. Mass grows faster than the strength to move it
+* The best strength-to-weight range sits around 5'10" to 6'4". Taller and heavier frames lose agility, heat shedding and joint life
+* Story use: D's frame stays in that range. He is not a giant
+
+Connective tissue
+
+* Muscle gains far outrun what tendon and ligament can match. Strength without matching tendons tears things
+* Story use: this is already the emergency lift in D-Story-Monthly-Strength.txt. A few seconds of everything he has can tear muscle or tendon and leaves him wrecked afterward
+
+Heat
+
+* More power means more waste heat. Humans cool better than any other large mammal through sweat, and that still has a ceiling
+* Story use: long fights and long runs in summer cost him. He overheats before he runs out of strength
+
+Calories
+
+* A heavily muscled body burns far more at rest. That is fine with food and dangerous without it
+* Story use: he eats enormous amounts. In the children's home that means seconds, cleanup leftovers and F.E.A.S.T. meals. Hunger is a real constraint in 1999 and stops being one once he has money
+
+Sprint against endurance
+
+* Fast-twitch and slow-twitch muscle fibers compete for the same space. No body is maxed for both
+* Story use: D is fast and he lasts, but he is not a world-record sprinter and a world-record marathoner at once. A balanced mix is his ceiling
+
+Oxygen delivery
+
+* Strength can be trained hard. The heart, lungs and blood set the ceiling on sustained output and move far less
+* Story use: his endurance ceiling rises slower than his strength ceiling
+
+Sleep
+
+* Sleep is where recovery happens. Cutting it normally costs reaction time, memory and judgment
+* Story use: the symbiote's recovery is why he can run on little sleep. Without it, less sleep would cost him
+
+Reaction time
+
+* Nerve signals travel at a fixed speed. Simple reaction time bottoms out near 150 to 180 ms for a trained human and cannot be trained to zero
+* Story use: the floor in D-Story-Cast-Physical-Baselines.txt. Only the spider venom breaks it (D-Story-Spider-Abilities.txt)
+
+Growth
+
+* A growing body cannot carry adult strength. This is the maturity curve in D-Story-Monthly-Strength.txt: 45% at 15, rising to 100% at 23
+* Story use: at 14 he is an undernourished kid. The ceiling arrives with his adult body, not before
+
+Aging
+
+* Peak strength lands in the 20s. Peak jump power lands near 21. Decline starts slowly after 30
+* Story use: the small yearly drop after 30 in the strength file
+
+What Peak Human Looks Like in This Story
+
+* Height in the 5'10" to 6'4" band with a frame built for power and agility rather than bulk
+* Strength at the top of what a natural human of that size can pull, which is the 360 kg max effort ceiling in D-Story-Monthly-Strength.txt
+* Endurance at elite level but not record-setting, because strength and endurance share the body
+* Bones and tendons at the strong end of human, which is what lets him use his strength at all
+* Recovery far faster than normal, which is the symbiote's main gift
+* Low sleep need, about 5 hours, because recovery is maximized
+* Rarely sick and slow to age, with a long healthy life
+* Senses and reaction time at the human floor, not past it
+
+The In-World Explanation
+
+* D does not need a scientific account of why he is at the ceiling. The symbiote maximizes nutrition, recovery and gains, and his training does the rest
+* Before the symbiote (September to December 1999) he is an undernourished kid training in a yard on children's home food. The gains are small and slow
+* After his 15th birthday the ceiling is what limits him instead of his circumstances
+* Anything past the human ceiling in this story comes from the spider venom, not from training (D-Story-Spider-Abilities.txt)
+
+Where the Limits Bite in Scenes
+
+* Food: he eats more than anyone expects and notices when there is not enough
+* Heat: long fights in summer wear him down before his strength fails
+* Injury: an all-out lift can hurt him, so it is a last resort and not a party trick
+* Sleep: he is awake when others are not, which gives him early mornings and late nights
+* Growth: at 14 and 15 he is still a kid and cannot do what he will do at 23
+* Hiding it: a 14 year old who eats like three people and never gets tired is noticeable. Keeping it quiet is its own problem
+
+Open Questions
+
+* D's exact height and frame
+* How much the symbiote's recovery extends his lifespan
+* Whether anyone at the children's home or school notices how much he eats
+* Whether the spider venom raises the ceiling itself or only multiplies what is under it

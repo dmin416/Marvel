@@ -26,6 +26,7 @@ The same files live in the claude.ai Project "Marvel". The project uses differen
 | D-Story-Speed-and-Skill-Over-Time.txt | d_story/speed_and_skill_over_time.md | Speed and skill from 14 to 35 |
 | D-Story-Cast-Physical-Baselines.txt | d_story/cast_physical_baselines.md | Peter, Gwen, Harry and D from 14 to 35 |
 | D-Story-Fantastic-Four.txt | d_story/fantastic_four.md | Fantastic Four and Doom, based on the 2005 movie |
+| D-Story-Peak-Human.txt | d_story/peak_human.md | What a peak human body can do in this story and what it costs |
 | D-Story-Street-Heroes.txt | d_story/street_heroes.md | Jessica Jones, Luke Cage and Kilgrave |
 | D-Story-Lorna-Polaris.txt | d_story/lorna_polaris.md | Lorna Dane: abilities, personality, history, adaptations and story notes |
 | D-Story-Guys-Maturity.txt | d_story/guys_maturity.md | Peter, Harry and Flash: how boys mature, source ages and story projections |
