@@ -1,0 +1,77 @@
+D Story: Web Mechanics
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: reference notes only. Nothing here is determined. These are physics estimates from stated assumptions, not settled rules for the story. Use them as a sanity check, not as limits.
+
+Who this applies to
+
+* Gwen is the one with spider powers in this story, so the swinging is hers
+* D has the webbing too through the controlled doses. His numbers scale off his own strength, which is far higher
+* Whether either of them actually swings at all, and how, is undecided
+
+Silk assumptions
+
+* Real spider dragline tensile strength runs about 0.7 to 1.6 GPa, varying by species, humidity and defects. Commonly reported around 1.1 to 1.8 GPa
+* Darwin's bark spider is the quality target in D-Story-Chimera-Spider-Scale.txt: average toughness about 350 MJ per cubic meter with samples to 520, tensile strength about 1.6 GPa
+* Toughness is energy absorbed before breaking. Tensile strength is the force it takes to break. They are not the same number
+* The tables below use 1.1 GPa as a conservative figure. At 1.6 GPa everything is roughly 45% stronger
+* Figures assume one solid round strand carrying its load evenly. Real bundles are irregular, can be hollow or porous and are weakened by knots and uneven loading
+
+Breaking strength by thickness at 1.1 GPa
+
+* 1/16 inch (1.59 mm): breaks at 2.18 kN, about 222 kg hanging still, 0.73 kN working load at a 3x safety factor
+* 1/8 inch (3.18 mm): breaks at 8.71 kN, about 888 kg hanging still, 2.90 kN working
+* 1/4 inch (6.35 mm): breaks at 34.84 kN, about 3,551 kg hanging still, 11.61 kN working
+* 1/2 inch (12.7 mm): breaks at 139.34 kN, about 14,204 kg hanging still, 46.45 kN working
+* A static hanging weight is not a safe moving load. Direction changes and sudden catches multiply the tension
+
+Swing tension
+
+* At the bottom of a swing the line carries T = m(g + v squared / r), where m is total mass, g is 9.81 and r is the line length
+* The felt load is 1 + v squared / (r x g), in gravities
+* Gwen at about 55 kg plus gear at 20 m/s on a 20 m line: about 1.63 kN and 3.04 g
+* Gwen at 30 m/s on a 20 m line: about 3.01 kN and 5.59 g
+* A longer line is gentler. The same 20 m/s on a 50 m line is 1.82 g instead of 3.04 g
+* A 1/8 inch strand at 1.1 GPa covers Gwen's ordinary swinging with margin to spare. A thinner 1/16 inch strand is marginal once she is moving fast
+
+Carrying people or a car
+
+* Her strength is the limit before the line is. A single dose puts her at about 2,000 kg of lift, so a 1,500 kg car is already at her own ceiling
+* Gwen plus two adults, about 195 kg, at 20 m/s on a 20 m line: about 5.81 kN, which a 1/8 inch strand holds at roughly 1.5x margin
+* Gwen plus a 1,500 kg car at 20 m/s on a 20 m line: about 47 kN, which needs a strand near 1/4 inch and is beyond what she can hold on to anyway
+* Two strands do not simply double the capacity. They only share a load at the right angles with even tension
+
+Catching a fall
+
+* A sudden stop is far worse than a smooth swing. Stopping 1,580 kg from 20 m/s over 5 m averages 78.7 kN. Over 20 m it is 31.3 kN
+* The same mass from 30 m/s over 5 m averages 157.7 kN, which no reasonable strand holds
+* Peak force is higher than the average, and a slack line snapping taut is worse again
+* Silk stretches and absorbs energy, which helps, but not without limit
+* The person being caught may be hurt by the deceleration before the web fails. The anchor point and her own joints are separate limits
+
+Fall heights in the city
+
+* Empire State Building: 86th floor observatory about 320 m, 102nd floor about 381 m, antenna tip about 443 m above street level
+* Free fall ignoring air resistance: 50 m gives 31.3 m/s in 3.2 s. 100 m gives 44.3 m/s in 4.5 s. 320 m gives 79.2 m/s in 8.1 s
+* In a real swing the speed comes from the vertical drop along the arc, not the building's full height
+* Clearance matters. A line anchored 320 m up that is 320 m long puts the bottom of the arc at street level
+
+Open Questions
+
+* Whether Gwen's webbing is organic or something she builds
+* How thick her line actually is
+* Whether the chimera silk is stronger than any real silk, which would make all of the above conservative
+* Whether she can shoot a line far enough for the long gentle arcs that the forces prefer
+
+Related Files
+
+* D-Story-Chimera-Spider-Scale.txt: silk toughness, web shooting speed and the donor traits
+* D-Story-Spider-Abilities.txt: the multiplier model and what Gwen can lift
+* D-Story-Spider-Ability-Scale.txt: real spider records
+
+Sources
+
+* Dragline silk strength, Cunniff and colleagues 1994: https://onlinelibrary.wiley.com/doi/10.1002/pat.1994.220050801
+* Spider silk properties review: https://www.mdpi.com/2079-4991/10/8/1510
+* Empire State Building heights: https://www.esbnyc.com/visit/faq

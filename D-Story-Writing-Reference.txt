@@ -183,6 +183,7 @@ Related Files
 * D-Story-World-Economy.txt: governments, corporations, shadow groups, crime, wars and the global economy
 * D-Story-Fantastic-Four.txt: Fantastic Four and Doom, based on the 2005 movie
 * D-Story-Raimi-Films.txt: what the Raimi films establish and where this story departs
+* D-Story-Web-Mechanics.txt: web strength, swing forces and fall heights, as undetermined notes
 * D-Story-So-Far.txt: the only story canon, everything already played
 * D-Story-Life-Timeline.txt: detailed D, Peter and Harry life timeline ideas with ages
 * Story-Outline.txt: everything as stated

@@ -27,6 +27,7 @@ The same files live in the claude.ai Project "Marvel". The project uses differen
 | D-Story-Cast-Physical-Baselines.txt | d_story/cast_physical_baselines.md | Peter, Gwen, Harry and D from 14 to 35 |
 | D-Story-Fantastic-Four.txt | d_story/fantastic_four.md | Fantastic Four and Doom, based on the 2005 movie |
 | D-Story-Raimi-Films.txt | d_story/raimi_films.md | What the Raimi films establish and where this story departs |
+| D-Story-Web-Mechanics.txt | d_story/web_mechanics.md | Web strength, swing forces and fall heights as reference notes |
 | D-Story-Hulk-Gamma.txt | d_story/hulk_gamma.md | The Hulk, gamma, Banner's blood and what D can do with a sample |
 | D-Story-Infinity-Stones.txt | d_story/infinity_stones.md | The six stones, their powers and who they empower |
 | D-Story-Super-Soldier-Serum.txt | d_story/super_soldier_serum.md | Captain America's strength and health and what 4x metabolism means |

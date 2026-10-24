@@ -30,6 +30,7 @@ Established on screen
 * Norman tests the enhancer on himself and it splits his personality
 * Norman sabotages Quest's demonstration. Oscorp later reports it has overtaken Quest as the military's principal supplier
 * Quest makes a tender offer. The Oscorp board moves to sell and to remove Norman, which leads to the World Unity Festival killings
+* This story's version: Norman kills the board members holding the largest stakes, so the sale cannot go through. He then buys shares until he holds a majority himself. Oscorp stays the military's principal supplier of personal equipment while Stark keeps the missiles and the big systems
 * Peter sells Spider-Man photographs to J. Jonah Jameson at the Daily Bugle
 * Uncle Ben's line: with great power comes great responsibility
 * Norman dies on his own glider
@@ -37,9 +38,11 @@ Established on screen
 Changed or added for this story
 
 * Cindy Moon runs the Columbia spider lab. The film leaves the tour guide unnamed
+* The lab's work is only on the spider itself. Gwen's abilities come from that one spider's bite, not from any transference program
+* D takes the spider. Cindy later replicates her own work and then undoes it, out of jealousy, which is where Gwen's neutralizer comes from
 * Gwen is bitten instead of Peter, in spring or summer 2003 rather than the film's senior year timing
 * The spider is heavily modified beyond the film's three species. See D-Story-Chimera-Spider-Scale.txt
-* Peter meeting Norman: in the film Norman meets Peter outside the school when he picks Harry up and asks about the science whiz. Whether the first meeting happens on a field trip here is open
+* Peter meeting Norman: here it happens on the field trip. In the film Norman meets Peter outside the school when he picks Harry up and asks about the science whiz
 * An 800% strength increase in animal tests is sometimes quoted for the enhancer (unverified against the transcript)
 * Flash is with Liz Allan here. MJ is with Harry
 

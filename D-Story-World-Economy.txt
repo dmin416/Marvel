@@ -89,6 +89,7 @@ Megacorporations
 Stark Industries
 
 * What it does: the largest weapons maker in the United States. Missiles, munitions and defense systems for the U.S. and its allies
+* The split with Oscorp: Stark holds the big-ticket hardware, missiles and systems. Oscorp holds personal equipment for the individual soldier. They are not bidding against each other for the same money
 * Power: government contracts, the best engineers and a public face in Tony Stark
 * Founded by Howard Stark. Tony took over after Howard and Maria died in 1991. Obadiah Stane runs much of the business
 * Played: Stark Industries has a sign on a New York building and has unveiled a new missile line
@@ -114,6 +115,9 @@ Oscorp
 * Played: the Army contract for a "human performance program." Research head Dr. Mendel Stromm. Oscorp is approaching university labs including Empire State's
 * Programs: performance enhancement and genetic engineering. The super spiders are not Oscorp's. They come from Columbia's own spider lab
 * Norman Osborn is under pressure from the military and the board. The board can push him out
+* After the ultimatum and the enhancer, Norman kills the board members holding the largest stakes. With those holders dead the sale to Quest cannot go through
+* Norman then buys shares until he holds a majority himself, so nobody can move against him again
+* Even through all of it Oscorp stays the military's principal supplier of personal equipment: enhancement, armor, flight gear and anything worn or carried by a soldier
 * Later: Norman's madness, the board's deaths and the takeover. Harry runs it after. Idea: D and Peter lead its deep science division
 * Insomniac inspiration: Devil's Breath, an Oscorp bioweapon
 
@@ -121,10 +125,11 @@ Columbia University Spider Lab
 
 * Its own thing, separate from Oscorp. A university genetics laboratory, not a defense contractor
 * Cindy Moon runs it
-* It engineers the super spiders. Gwen is bitten there on the senior trip, spring or summer 2003. D collects the spider
+* The work is only on the spider itself. Nobody there is working on transferring abilities to people. Gwen's powers come from that one spider's bite and nothing else
+* Gwen is bitten there on the senior trip, spring or summer 2003. D takes the spider
+* Cindy later replicates her own work and then undoes it, out of jealousy. That is where Gwen's neutralizer comes from
 * Funding is university money, grants and philanthropy, not an Army contract. Estimated multiyear cost of the genetics program: $10M to $75M, which is small next to Oscorp's programs
-* Oscorp approaches university labs, including Empire State's (Played). Whether it ever reaches for Columbia's spider work is open
-* Cindy later makes the neutralizer that takes Gwen's powers away permanently
+* Keep this separate from Oscorp. Oscorp approaches university labs including Empire State's (Played) but the spider work is not Oscorp's and does not become Oscorp's
 
 Oscorp Finances (fictional model, about 2003)
 
