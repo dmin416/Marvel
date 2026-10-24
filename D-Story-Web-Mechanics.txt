@@ -8,7 +8,7 @@ Who this applies to
 
 * Gwen is the one with spider powers in this story, so the swinging is hers
 * D has the webbing too through the controlled doses. His numbers scale off his own strength, which is far higher
-* Whether either of them actually swings at all, and how, is undecided
+* Whether either of them actually swings at all is undecided, and so is how
 
 Silk assumptions
 
@@ -46,8 +46,8 @@ Catching a fall
 
 * A sudden stop is far worse than a smooth swing. Stopping 1,580 kg from 20 m/s over 5 m averages 78.7 kN. Over 20 m it is 31.3 kN
 * The same mass from 30 m/s over 5 m averages 157.7 kN, which no reasonable strand holds
-* Peak force is higher than the average, and a slack line snapping taut is worse again
-* Silk stretches and absorbs energy, which helps, but not without limit
+* Peak force is higher than the average. A slack line snapping taut is worse again
+* Silk stretches and absorbs energy, which helps. It does not help without limit
 * The person being caught may be hurt by the deceleration before the web fails. The anchor point and her own joints are separate limits
 
 Fall heights in the city
