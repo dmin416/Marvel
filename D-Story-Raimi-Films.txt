@@ -46,6 +46,34 @@ Changed or added for this story
 * An 800% strength increase in animal tests is sometimes quoted for the enhancer (unverified against the transcript)
 * Flash is with Liz Allan here. MJ is with Harry
 
+Goblin Weapons
+
+Approved for this story
+
+* The pumpkin bombs are normal high-power grenades. Blast, fragments and fire, nothing more
+* No skeletonizing or disintegration bomb. The film's effect at the World Unity Festival, where victims are reduced to clean articulated skeletons, is not used here. Norman kills the board with ordinary explosives
+* Keep the bomb, the bladed projectiles and the glider as three separate pieces of hardware rather than one vague explosive power
+
+What the film shows
+
+* Compact thrown spheres that blow out windows, throw debris and start fires. No yield, overpressure or blast radius is ever given
+* A bomb at the festival that reduces people to skeletons. That needs a fictional mechanism, since a blast big enough to strip soft tissue would wreck the bones and everything around them
+* Razor bats: a bomb in the burning building releases flying cutters that slice through the surroundings. Blade mass, speed, material and what exactly they cut are never established
+* Glider blades: rigid and lethal, and they impale Norman at the end. The glider carries far more mass and drive behind them than a thrown blade does
+
+Razor bat notes (reference only, nothing determined)
+
+* Kinetic energy is half the mass times the speed squared. A 0.10 kg blade carries 20 J at 20 m/s, 125 J at 50 m/s and 500 J at 100 m/s
+* Total motion energy is not the energy delivered to a cut. Angle, contact time, edge condition, fragmentation and whether the target is supported all decide the result
+* Difficulty by target, easiest first: plaster and trim, thin sheet metal or tubing, thick structural lumber, then solid steel rod or reinforcing bar
+* A small thrown blade meeting ductile steel is more likely to deform or shatter than to shear it. Reports that the film's bats cut rebar are unverified and the object may be a pipe or fitting
+* If a blade does cut steel cleanly in this story, that is advanced material or a powered edge, not a sharpened disk
+
+Where the gear comes from
+
+* Oscorp's military glider and flight armor programs are real company work (see D-Story-World-Economy.txt)
+* Whether the bombs and blades were funded products or Norman's own adaptations of Oscorp prototypes is open
+
 Spider-Man 2 (2004)
 
 Established on screen
