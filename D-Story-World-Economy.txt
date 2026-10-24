@@ -112,10 +112,74 @@ Oscorp
 * What it does: began in chemicals and is moving into military biotechnology
 * Power: New York's biggest homegrown science company, Army money and a research campus along the river
 * Played: the Army contract for a "human performance program." Research head Dr. Mendel Stromm. Oscorp is approaching university labs including Empire State's
-* Programs: performance enhancement and genetic engineering. The super spiders come from Oscorp
+* Programs: performance enhancement and genetic engineering. The super spiders are not Oscorp's. They come from Columbia's own spider lab
 * Norman Osborn is under pressure from the military and the board. The board can push him out
 * Later: Norman's madness, the board's deaths and the takeover. Harry runs it after. Idea: D and Peter lead its deep science division
 * Insomniac inspiration: Devil's Breath, an Oscorp bioweapon
+
+Columbia University Spider Lab
+
+* Its own thing, separate from Oscorp. A university genetics laboratory, not a defense contractor
+* Cindy Moon runs it
+* It engineers the super spiders. Gwen is bitten there on the senior trip, spring or summer 2003. D collects the spider
+* Funding is university money, grants and philanthropy, not an Army contract. Estimated multiyear cost of the genetics program: $10M to $75M, which is small next to Oscorp's programs
+* Oscorp approaches university labs, including Empire State's (Played). Whether it ever reaches for Columbia's spider work is open
+* Cindy later makes the neutralizer that takes Gwen's powers away permanently
+
+Oscorp Finances (fictional model, about 2003)
+
+All of these are storytelling figures. The films never disclose Oscorp's accounts.
+
+* Annual revenue: $3B
+* Annual research and development: $450M
+* Equity value: $5B
+* Interest-bearing debt: $1.5B
+* Cash and short-term investments: $120M
+* The threatened Army program: about $900M of contracted work left over three years, roughly $300M a year
+* The shape of it: rich in prototypes and patents, poor in cash. Norman is desperate because investors will not fund another long research cycle
+* Why one lost contract nearly kills it: contract concentration, debt that has to be refinanced and a board that will sell rather than ride out another cycle. Losing $900M of contract face value is not losing $900M of cash, so the crisis is about financing and confidence
+* Stress test: $120M of cash against $75M a month of net outflow in a crisis gives about 1.6 months of runway with no credit facility
+
+Norman's Personal Money (fictional model, about 2003)
+
+Money held by Oscorp is not Norman's. Owning a third of the stock does not let him withdraw a third of the company's cash.
+
+* Oscorp shares, 35% of $5B: $1.75B on paper, concentrated and illiquid
+* Bank deposits and short-term Treasuries: $25M, the part he can actually spend
+* Other public securities: $110M, sellable with tax and market friction
+* Private and venture stakes: $40M, slow to sell
+* Real estate: $35M. Art, cars and collectibles: $10M
+* Debts: $30M
+* Net worth: about $1.94B, with only about $25M near cash
+* On his death the shares go into his estate. Harry running Oscorp does not mean Harry owns a majority of it. How the estate is settled is open
+
+Quest Aerospace
+
+* What it does: a defense contractor competing with Oscorp for the Army's performance program with a powered exoskeleton instead of a drug
+* Fictional baseline: $1B to $4B annual revenue, $150M to $600M annual R&D, $2B to $8B equity value
+* General Slocum gives Oscorp roughly two weeks to show a viable human trial or the money goes to Quest. That ultimatum is what pushes Norman to test the enhancer on himself
+* After the Goblin sabotages Quest's demonstration, Oscorp overtakes Quest as the military's principal supplier
+* Quest then makes a tender offer for Oscorp. The board moves to sell and to remove Norman, which is what sets off the World Unity Festival killings
+* Open: what happens to Quest afterward and whether it comes back as a rival to Harry's Oscorp
+
+Program Costs (fictional multiyear R&D, 2003 to 2005 dollars)
+
+Do not add the maxima together. Programs share labs, staff and budgets.
+
+* Oscorp nanotechnology platform: $50M to $250M
+* Oscorp glider, flight controls and suit: $150M to $600M
+* Oscorp human enhancement and biotech: $100M to $500M
+* Goblin weapons subsystems: $20M to $120M, partly overlapping the glider work
+* Quest powered exoskeleton: $100M to $500M
+* Columbia super-spider genetics: $10M to $75M
+* Octavius fusion reactor and robotic arms: $100M to $500M, funded by Harry's Oscorp in about 2005
+
+Real Scale Checks
+
+* FY2003 US defense research, development, test and evaluation: about $57B. DARPA: about $2.69B
+* Joint Strike Fighter: a projected $33B development and demonstration phase over about ten years, per a 2003 GAO report
+* Human Genome Project: about $2.7B across 1990 to 2003, in 1991 dollars
+* So a $100M to $500M prototype program is substantial but ordinary inside a real defense research system. A single genetics lab is nowhere near national-program scale
 
 Hammer Industries
 
@@ -151,7 +215,7 @@ The Ten Rings
 
 * What it does: a criminal empire that has run for about a thousand years under Xu Wenwu
 * The rings: this story uses the MCU version, not the comics version
-  * MCU: ten metal bands worn on the forearms, five per arm, that channel energy. Wenwu fights with them, extending and striking and blasting, and they give him long life. Their origin is unknown even to him
+  * MCU: ten metal bands worn on the forearms, five per arm, that channel energy. Wenwu fights with them, extending and striking and blasting. They give him long life. Their origin is unknown even to him
   * Comics: the Mandarin wears ten separate finger rings, each with its own magic or alien power, derived from Makluan dragon technology. This story does not use that
 * What that means: the rings are a weapon Wenwu wields through martial mastery, not a set of ten enchanted objects with ten separate powers. Nobody can pick up one ring and gain one ability
 * Power: long life and great strength for Wenwu. The organization has armies, money and agents everywhere. It has toppled governments

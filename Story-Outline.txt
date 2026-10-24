@@ -86,9 +86,9 @@ World
 * Raimi's version of Spider-Man
 * No Morlun or totems
 * Super spiders exist
-* The super spider that bit Gwen is from Oscorp
+* The super spider that bit Gwen comes from the Columbia University spider lab, which is separate from Oscorp. Cindy Moon runs the lab
 * SPIDER NOTE: who made the super spider does not matter until the story gets there. The options are Peter's father or Cindy. Nothing more is decided
-* Gwen is bitten right before college on the senior trip to Oscorp
+* Gwen is bitten right before college on the senior trip to Columbia's spider lab
 * Super spider venom is a multiplier on the person's own baseline. Gwen gets a single full dose (strength x50) and D gets at least two weeks of controlled doses totaling about 300% efficacy. See D-Story-Spider-Abilities.txt
 * Cindy Moon is downplayed for now (idea: scientist turned villain like the Green Goblin)
 * Superpowers are acknowledged as existing but somewhat rare

@@ -1,0 +1,89 @@
+D Story: Raimi Films Reference
+
+Note: This is my own version of the story and its characters. Marvel and other works are inspirations only. References to canon, Raimi or other sources describe the inspiration and are not fixed facts of this story unless a file marks them as approved.
+
+Status: source reference. This file records what the Raimi films establish and where this story departs from them. The only story canon is D-Story-So-Far.txt.
+
+Accuracy note: film details here come from the transcripts and from memory of the films. Items marked (unverified) need checking before they are relied on.
+
+The Big Departure
+
+* In the films Peter is bitten and becomes Spider-Man. In this story Peter is never bitten. He works for Curt Connors and goes down the Lizard path
+* Gwen is the one bitten, on the senior trip to the Columbia University spider lab in spring or summer 2003
+* So every Spider-Man power, web and swing in the films belongs to Gwen here, not Peter
+* The spider lab is Columbia's own, separate from Oscorp. Cindy Moon runs it
+
+Spider-Man (2002)
+
+Established on screen
+
+* Flash Thompson bullies Peter. Flash and Mary Jane are together early in the film
+* Peter and Harry are already friends when the film opens
+* A school trip visits a Columbia University genetics laboratory with engineered spiders. A female student gives the tour. The film never names her
+* Three spiders are combined by recombinant DNA into fifteen engineered super-spiders. A classmate counts only fourteen in the exhibit. The missing one bites Peter
+  * A huntsman-type spider for jumping (the film calls it a delena spider, family Sparassidae)
+  * A net-web weaving spider whose silk is compared to high-tension wire (Filistatidae, genus Kukulcania)
+  * A grass spider for reflexes close to precognition (Agelenopsis)
+  * Peter also mentions spiders that change color to camouflage. That is not one of the three sources
+* Oscorp is a defense contractor under Norman Osborn, working on nanotechnology, a military glider with flight armor and a vapor-based human performance enhancer
+* General Slocum gives Oscorp about two weeks to show a successful human trial or the funding goes to Quest Aerospace and its powered exoskeleton
+* Norman tests the enhancer on himself and it splits his personality
+* Norman sabotages Quest's demonstration. Oscorp later reports it has overtaken Quest as the military's principal supplier
+* Quest makes a tender offer. The Oscorp board moves to sell and to remove Norman, which leads to the World Unity Festival killings
+* Peter sells Spider-Man photographs to J. Jonah Jameson at the Daily Bugle
+* Uncle Ben's line: with great power comes great responsibility
+* Norman dies on his own glider
+
+Changed or added for this story
+
+* Cindy Moon runs the Columbia spider lab. The film leaves the tour guide unnamed
+* Gwen is bitten instead of Peter, in spring or summer 2003 rather than the film's senior year timing
+* The spider is heavily modified beyond the film's three species. See D-Story-Chimera-Spider-Scale.txt
+* Peter meeting Norman: in the film Norman meets Peter outside the school when he picks Harry up and asks about the science whiz. Whether the first meeting happens on a field trip here is open
+* An 800% strength increase in animal tests is sometimes quoted for the enhancer (unverified against the transcript)
+* Flash is with Liz Allan here. MJ is with Harry
+
+Spider-Man 2 (2004)
+
+Established on screen
+
+* Harry runs Oscorp after Norman's death and funds Otto Octavius's fusion demonstration, including scarce tritium
+* Octavius wears four mind-linked mechanical arms protected by an inhibitor chip. The chip burns out in the accident, the arms take over and his wife Rosalie dies
+* Peter struggles with money, school and his powers losing reliability
+* The elevated train sequence: Spider-Man stops a runaway train with webs and his own body
+* Harry blames Spider-Man for his father's death
+
+Changed or added for this story
+
+* Otto starts the same way. After D interacts with him anything can happen, including whether Rosalie dies
+* Peter has no powers to lose here. His money and school trouble stay
+* Any train or car catch belongs to Gwen
+
+Adapted Timeline (this story)
+
+* Fall 1999: D, Peter, Harry, Gwen and Lorna start at Midtown High as freshmen. Peter and Harry are already friends. Flash bullies Peter
+* 1999 to 2003: high school. Norman is running Oscorp and publishing. The Played Bugle and Popular Science articles put Oscorp's Army contract and Stromm's research arm in 1999
+* Spring or summer 2003: the senior trip to Columbia's spider lab. Gwen is bitten. D collects the spider
+* 2003 to 2007: college. Peter works for Curt Connors and the Lizard arc runs its course. Gwen fights Lizard Peter and believes she killed him
+* 2008: Norman's enhancer crisis, the Quest ultimatum, the Goblin and the board killings. D keeps Norman alive
+* 2009 to 2011: Harry learns the truth, takes the mantle and the four start hero work
+* The film order is compressed differently here. The films put the Goblin in 2002 and Octavius about 2004. This story pushes Norman's arc to 2008 and leaves Octavius open
+
+What This Story Does Not Use
+
+* Peter's spider powers
+* Oscorp owning the spider lab
+* Norman's body being shipped to Latveria as the way Doom takes power (see D-Story-Fantastic-Four.txt)
+
+Related Files
+
+* D-Story-World-Economy.txt: Oscorp and Quest finances, program costs and real scale checks
+* D-Story-Gwen-Life.txt: Gwen's life projection and the bite
+* D-Story-Chimera-Spider-Scale.txt: what the super spider actually is
+* D-Story-Spider-Abilities.txt: the venom multiplier model
+* Reference/spider_man_movie_timelines.md: the films' own timelines
+
+Sources
+
+* Spider-Man (2002) transcript: https://movies.fandom.com/wiki/Spider-Man_%282002%29/Transcript
+* Spider-Man 2 (2004) script: https://www.springfieldspringfield.co.uk/movie_script.php?movie=spider-man-2
