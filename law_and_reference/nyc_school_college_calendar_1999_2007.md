@@ -1,6 +1,6 @@
 # NYC High School + College Calendar: Eight Academic Years (1999–2007)
 
-> **Planning reference, not D-story canon.** Four high-school years (fall 1999–spring 2003) followed by four undergraduate years (fall 2003–spring 2007), assuming ordinary grade advancement. College enrollment, school choice and graduation are **future possibilities, not played events**. MCU background events happen by default in D's world but they do not set school dates.
+> **Planning reference, not D-story canon.** Four high-school years (fall 1999–spring 2003) followed by four undergraduate years (fall 2003–spring 2007), assuming ordinary grade advancement. **D does not attend college (settled author decision); the undergraduate years below apply to his friends, such as Peter, Gwen, Harry, Lorna, MJ and Flash.** For them, college enrollment, school choice and graduation are **future possibilities, not played events**. MCU background events happen by default in D's world but they do not set school dates.
 
 ## Eight-year progression
 

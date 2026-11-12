@@ -217,7 +217,7 @@ The complete author-specified punishment system is in `d_world_laws_and_legal_au
 
 ## November 17, 2003 — historical play boundary (superseded by April 2004)
 
-The current authored story has moved **beyond** D merely offering to help Gwen: on **Monday, November 17, 2003, after classes**, D tells Gwen and Lorna his two proposed solutions, discloses his integrated alien symbiote, calls Peter over, explains the same to him, and tests separate portions with **Peter, Lorna, and Gwen**. All three can mentally command the symbiote at the end of the scene; the full restoration of Gwen's Spider-Woman powers is **not yet a played result**. The symbiote biology master now specifies intended comparative enhancements, mechanics and boundaries. The manuscript's much earlier December 2002 prose checkpoint remains historical, not the active current scene.
+The current authored story has moved **beyond** D merely offering to help Gwen: on **Monday, November 17, 2003, after the others' classes** (D does not attend college), D tells Gwen and Lorna his two proposed solutions, discloses his integrated alien symbiote, calls Peter over, explains the same to him, and tests separate portions with **Peter, Lorna, and Gwen**. All three can mentally command the symbiote at the end of the scene; the full restoration of Gwen's Spider-Woman powers is **not yet a played result**. The symbiote biology master now specifies intended comparative enhancements, mechanics and boundaries. The manuscript's much earlier December 2002 prose checkpoint remains historical, not the active current scene.
 
 ## Superseding forward story position after Gwen’s restored powers
 
