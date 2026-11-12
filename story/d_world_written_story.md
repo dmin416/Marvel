@@ -1893,8 +1893,6 @@ For that evening, there was nowhere else either of them needed to be.
 
 # November 17, 2003 — Gwen restoration discussion and symbiote trial
 
-# Marvel Story — November 17, 2003
-
 **Date:** Monday, November 17, 2003, approximately 4:00 p.m.  
 **Location:** D's home, Forest Hills, Queens  
 **Characters present:** D, Lorna Dane, Gwen Stacy  
