@@ -2,6 +2,17 @@
 
 **Live-decision integration rule:** During story planning, an author-approved choice becomes binding future canon immediately and must be reconciled in the relevant existing Markdown masters and the single updated ZIP; no need to wait for the scene to be played. Keep only explicitly unresolved alternatives open. See `d_world_story_foundation.md` → “Live planning decisions — immediately integrate established outcomes.”
 
+## Folder layout
+
+Files are grouped in folders. Cross-references elsewhere use bare filenames, which are unique, so they still resolve. `old/` holds the earlier repository contents.
+
+- `00_start_here/`: `project_update_readme.md`, `remaining_decisions.md`
+- `story/`: `d_world_written_story.md`, `d_world_story_summary.md`, `d_world_story_foundation.md`, `d_world_unified_timeline.md`, `jessica_jones_luke_cage_story_timeline.md`
+- `characters_and_powers/`: `d_character_reference.md`, `lorna_dane_character_profile.md`, `d_powers_timeline.md`, `d_world_symbiote_biology_physical_development_and_powers.md`
+- `novacorp/`: `d_finances_taxes_and_company_control.md`, `novacorp_energy_environment_and_accountability.md`, `novacorp_alaska_land_eternals_intervention_plan.md`, `cost_of_goods_labor_and_living_reference.md`
+- `technology_and_science/`: `marvel_technology_reference.md`, `d_jarvis_ai_computing_development_timeline.md`, `science.md`
+- `law_and_reference/`: `d_world_laws_and_legal_authority.md`, `original_marvel_films_event_dates_reference.md`, `nyc_school_college_calendar_1999_2007.md`
+
 ## Mandatory story-position and date rule — authoritative
 
 **Current story checkpoint: April 2004, at D and his fiancée Lorna's Forest Hills home. Following Norman's defeat, their latest played scene includes Lorna teasing that D is not her husband “not yet,” their kiss, and D taking out his working NovaPhone. Doctor Octopus is next in the proposed event order (May–June 2004), with the Fantastic Four origin afterward (approximately January 2005); future-event dates remain provisional unless explicitly fixed. This checkpoint supersedes the older November 17, 2003 experimental handoff.**
