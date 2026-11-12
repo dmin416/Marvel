@@ -15,7 +15,7 @@
 | 7 | **2005–2006** | College junior | Sept 2005–May 2006 |
 | 8 | **2006–2007** | College senior | Sept 2006–May 2007 |
 
-**Ages:** D (born December 30, 1984) is 14 in September 1999, **18** when starting college in September 2003 and **22** at a May 2007 graduation. Lorna (born May 13, 1985) is 18 at a June 2003 graduation; she is 21 on the illustrative May 10, 2007 commencement date and turns 22 on May 13.
+**Ages:** D (born December 30, 1984) is 14 in September 1999, **18** in September 2003 (he does not attend college) and **22** in May 2007. Lorna (born May 13, 1985) is 18 at a June 2003 graduation; she is 21 on the illustrative May 10, 2007 commencement date and turns 22 on May 13.
 
 ## High school: four years (1999–2003)
 
@@ -47,7 +47,7 @@ NYU’s archived **Computer Science undergraduate calendars** are a genuine hist
 
 ### College year-by-year scene planning
 
-- **Freshman, 2003–04:** group at alternate-universe Columbia (D may remain outside the university); Peter has already begun Connors internship in summer 2003; Harry studies business while avoiding Oscorp; orientation, dorm or commute, fall coursework, finals.
+- **Freshman, 2003–04:** group at alternate-universe Columbia (D does not attend); Peter has already begun Connors internship in summer 2003; Harry studies business while avoiding Oscorp; orientation, dorm or commute, fall coursework, finals.
 - **Sophomore, 2004–05:** major track; the ≈2005 Fantastic Four vs. Doom fight falls around here.
 - **Junior, 2005–06:** upper-level coursework, internships, projects.
 - **Senior, 2006–07:** capstone and possible May 2007 graduation.
@@ -90,7 +90,7 @@ NYU’s archived **Computer Science undergraduate calendars** are a genuine hist
 - **December 30, 2002:** D turns eighteen; formal legal and corporate authority handover can occur in January 2003. An adult license still requires a valid permit, training and road test.
 - **Spring 2003:** Lorna applies for Columbia scholarships/aid and may seek occasional tutoring, library or approved science work; no specific award or job has yet been confirmed.
 - **May 13, 2003:** Lorna turns eighteen; optional exit from her residential placement and move-in with D, pending story treatment. She may pursue her own driving license around May–June, conditional on the required steps.
-- **June 2003:** Midtown graduation; **September 2003:** Columbia begins, with Lorna's aid and any work decided in-story. D may choose not to enroll.
+- **June 2003:** Midtown graduation; **September 2003:** Columbia begins, with Lorna's aid and any work decided in-story. D does not enroll (settled).
 
 #### Working school-year calendar
 

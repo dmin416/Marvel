@@ -2195,7 +2195,7 @@ Peter, Lorna and Gwen notice something else when they use the symbiote's power: 
 
 ## April 2004 — Forest Hills: D and Lorna, before Electro (new scene checkpoint)
 
-**In-world placement:** April 2004, **after Norman Osborn's defeat and before Electro**. Doctor Octopus's crisis has not occurred. Exact April day remains unspecified. D and Lorna are engaged, not yet married; their wedding is intended for after Lorna's May 13 birthday in 2004 if the established age constraint is kept.
+**In-world placement:** April 2004, **after Norman Osborn's defeat and before Electro**. Doctor Octopus's crisis has not occurred. Exact April day remains unspecified. D and Lorna are engaged, not yet married; their wedding is intended for after Lorna's May 13 birthday in 2004 within the established May 13–December 29, 2004 window, when both are nineteen.
 
 On a quiet spring afternoon at the house, Lorna sits with her textbook. D comes over to snuggle beside her. She puts her arms around him; the conversation turns affectionate and teasing. When D asks whether he isn't **more than a boyfriend**, Lorna answers that he is her **fiancé**, but not her husband: **“Not yet.”** She jokes that the next title needs a ceremony, rings and promises, and says she would like a pretty dress. D smiles and kisses her sweetly; Lorna returns the kiss, draws him close and tells him she loves him. The domestic peace is genuine, and the exchange does **not** mean they are already married.
 
