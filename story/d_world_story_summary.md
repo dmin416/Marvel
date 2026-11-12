@@ -63,7 +63,7 @@
 
 ## Continuation handoff
 
-**Historical May 2000 handoff (superseded by the current 2001 handoff at the end of this file):** May 2000 was completed. Continue D's life scene by scene; preserve his choices and dialogue for the author. Lorna revealed her powers on April 29; do not assume anyone has been copied or that later planned events have occurred.
+**Historical May 2000 handoff (superseded by the April 2004 current-story handoff section later in this file):** May 2000 was completed. Continue D's life scene by scene; preserve his choices and dialogue for the author. Lorna revealed her powers on April 29; do not assume anyone has been copied or that later planned events have occurred.
 
 **Ordinary routine:** Midtown school days; home bus departs at 7:15 a.m., final school bell at 2:45 p.m., return bus at 3:00 p.m.; home before 4:00 p.m. Study hall 4:00–5:30 p.m., dinner 6:00 p.m., lights out 9:00 p.m. Tuesday/Thursday science-wing lunches with Peter and Gwen. D continues tutoring, exercise, home chores, friendships and approved dates. The bicycle and paper route are no longer his.
 
@@ -89,7 +89,7 @@ D resumes Midtown on May 1 following the April recess and continues the normal 7
 
 ## Rolling-summary maintenance
 
-For each completed month, append a concise chronological entry emphasizing meaningful personal events, relationship developments, powers, major outside events, and the closing financial result if any. Update **the single current handoff** near the top; do not propagate the closing date or new wealth across unrelated character, power, film, technical or planning references. Older monthly entries remain established history. Refer to the financial master for the complete ledger and the unified timeline for dates. Preserve open-ended play for decades; future outlines do not become canon until played.
+For each completed month, append a concise chronological entry emphasizing meaningful personal events, relationship developments, powers, major outside events, and the closing financial result if any. Update **the single current handoff** (the “April 2004 current-story handoff” section); do not propagate the closing date or new wealth across unrelated character, power, film, technical or planning references. Older monthly entries remain established history. Refer to the financial master for the complete ledger and the unified timeline for dates. Preserve open-ended play for decades; future outlines do not become canon until played.
 
 ## D and Shadow — information boundary (author rule, not played narrative)
 
@@ -134,7 +134,7 @@ NovaCorp may eventually become extremely wealthy, globally integrated and humani
 
 **January 18:** Jessica Campbell awakens from her coma and begins a lengthy private recovery. **January 23:** D and Lorna celebrate their second couple anniversary; their first kiss remains January 29, 2000. **February–April:** Jessica receives rehabilitation and increasing Jones-family support; Shadow and Lydia continue document-based Rand inquiries without settlement or acquisition. **May 13:** Lorna turns seventeen. **June:** Junior year ends. **July 18:** First anniversary of Jessica’s family tragedy; her recovery and Jones household placement process continue, with final adoption paperwork open. **Summer:** D and Lorna enjoy time together and keep independent interests; friends pursue their own projects. **September:** Senior year begins and the anniversary of September 11 is observed. **October 1–16:** D’s partial symbiote protective work progresses; Gwen has not been bitten and D cannot copy powers. The Columbia trip is next.
 
-**January–October 16 booked net trading profit:** $10,025M, separate operating expenses $412M, provisional new tax $3,293.42M; **October 16 tax-adjusted wealth after $40M actual 9/11 relief distributions: $17,567.34M**. Relief funds remaining earmarked $260M. No Rand purchase, 9/11 class action, damages judgment or recovery. Complete details in Finance Master. **CURRENT HANDOFF: Wednesday October 16, 2002 complete; Thursday October 17 next (Gwen’s planned bite not yet played).**
+**January–October 16 booked net trading profit:** $10,025M, separate operating expenses $412M, provisional new tax $3,293.42M; **October 16 tax-adjusted wealth after $40M actual 9/11 relief distributions: $17,567.34M**. Relief funds remaining earmarked $260M. No Rand purchase, 9/11 class action, damages judgment or recovery. Complete details in Finance Master. **Historical handoff, superseded by the April 2004 checkpoint: Wednesday October 16, 2002 complete; Thursday October 17 next (Gwen’s bite was played afterward).**
 
 
 ## October 17–December 24, 2002 — established events
